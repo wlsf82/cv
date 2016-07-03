@@ -21,7 +21,7 @@ I help the team creating amazing e2e tests with the [Protractor](http://www.prot
 
 **Stack:** NodeJS, AngularJS and Protractor.
 
-#### Software Developer and Agile testing coach at Taller Digital Business (June 2014 – May 2016)
+#### Software Developer and agile testing coach at Taller Digital Business (June 2014 – May 2016)
 At first I was hired as QA to create automated acceptance tests in Gherkin format, but with some time I helped the company in a big transformation, where software test is not a phase during the software development process, but part of it. In this transformation I changed my position to software developer, helping the team on developing features and also as agile testing coach, sharing knowledge about agile testing through all the company.
 At this position I worked firstly using Scrum, and then we evolve for using Kanban and a continuous flow.
 
@@ -48,7 +48,7 @@ In this job I had my first contact with software test automation, having to make
 
 
 ## Projects and Community Contribution
-#### Protractor Drupal Framework
+#### [Protractor Drupal Framework](https://github.com/wlsf82/protractor-drupal-framework)
 A test automation framework for Drupal apps, written using Protractor and the PageObjects pattern.
 
 Team members: [@gneutzling](https://github.com/gneutzling), [@lucasconstantino](https://github.com/lucasconstantino), [@wlsf82](https://github.com/wlsf82)
