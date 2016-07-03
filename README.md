@@ -1,62 +1,50 @@
-# Gabriel Neutzling
-**E-mail:** gabrielneutzling@gmail.com<br />
-**Mobile:** +55 4891653232<br />
-**Website:** http://gneutzling.com<br />
-**Location:** Florianópolis - SC, Brazil<br />
+# Walmyr Filho
+**E-mail:** wlsf82@gmail.com<br />
+**Mobile:** +47 469 39 756<br />
+**Website:** http://walmyr-filho.com<br />
+**Location:** Oslo, Norway<br />
 
-I am a software developer since 2010 with emphasis on frontend development and a new lover of Lean Thinking and Agile methodologies. I like to deliver value with simple solutions that will be improved progressively.
-
-
-## Objective
-I am looking for a position to work as a frontend developer and be closely with backend technologies in order to become a fullstack developer. I'm interested in being part of a team that is looking to create creative products and innovative experiences.
+Software engineer with focus in QA, active member of technology communities and fan of good music and skateboarding.
 
 
 ## Education
-2012-Current | Undergraduate degree in Software Analysis and Development
+Bachelor in business management with enphasis in system information analisys at PUCRS (2012)
 
 
 ## Professional Experience
-#### Software Developer - Taller Digital Business (June 2014 – June 2016)
-I've worked with development of websites using Drupal focused in frontend, applying Lean principles and Agile methodologies.
+#### Software engineer in QA at [Appear.in](http://appear.in) (current job)
+I help the team creating amazing e2e tests with the [Protractor](http://www.protractortest.org/#/) framework, and these tests are executed in our CI system for each pull request that is created, providing fast feedback after each change in the system. I'm always learning new ways of doing my job better, and I'm a believer of agile and lean methodologies.
+
+**Projects:**
+
+- [Appear.in](http://appear.in)
+
+**Stack:** NodeJS, AngularJS and Protractor.
+
+#### Software Developer and Agile testing coach at Taller Digital Business (June 2014 – May 2016)
+At first I was hired as QA to create automated acceptance tests in Gherkin format, but with some time I helped the company in a big transformation, where software test is not a phase during the software development process, but part of it. In this transformation I changed my position to software developer, helping the team on developing features and also as agile testing coach, sharing knowledge about agile testing through all the company.
+At this position I worked firstly using Scrum, and then we evolve for using Kanban and a continuous flow.
 
 **Projects:**
 
 - [Natura Relatório Anual](http://www.natura.com.br/relatorio-anual)
 - [Natura Consumidor Final](http://www.natura.com.br/)
+- [Adoro Maquiagem](http://adoromaquiagem.com.br/)
 - [FIESC-SENAI Portal/Sistema Espaço do Estudante](http://estudante.sc.senai.br/)
+- [Preço Info](http://precoinfo.com.br)
 
-**Stack:** Drupal, HTML, CSS, Javascript, jQuery, SASS, React, Protractor, BDD, Vagrant.
+**Stack:** Drupal, HTML, CSS, Javascript, jQuery, SASS, Protractor, Cucumber and Vagrant.
 
 
-#### Frontend Developer - Sábia Experience S/A (February 2014 – April 2014)
-I've worked as a Angular developer in the views part, developing applications for a platform designed to allow the easy creation and editing of immersive experiences that enable the analysis and planning of future actions.
+#### QA at ADP (April 2011 – May 2014)
+At APD I worked in two different project (both as QA), but in the first we developed automated tests in Java (using Selenium), and in the 2nd we developed automated tests in VBScript (using QTP). Also, here I had my first contact with agile methodoligies, such as Scrum. I was also lead of an internal project called Tech Talks.
 
-**Stack:** HTML, CSS, Javascript, jQuery, Angular, LESS.
+**Stack:** Java, VBScript and SQL.
 
-#### Frontend Developer - Tiki (October 2013 – February 2014)
-Hired to move from Pelotas, RS to Florianópolis and integrate the frontend development team. During this time we have developed some apps, websites and e-commerce for local companies.
+#### Manual and automated test analyst at Good Card (November 2009 - March 2011)
+In this job I had my first contact with software test automation, having to make my manager understand that software test automation is not record and playback. At this company I started the creation of a test automation framework. Part of my job was also creating unit tests for triggers and procedures (since many business rules were in the database), creating and executing manual test cases and managing bugs.
 
-**Stack:** HTML, CSS, Javascript, jQuery, SASS, PHP, MySQL.
-
-#### Software Developer - Frontphant (May 2013 – Present)
-Co-Founder and software developer working with web development. Frontphant is a group of independent frontend developers based on Brazil.
-
-**Projects:**
-
-- [Judith Saupper Website](http://judithsaupper.com/)
-- [CENTRO](centro.cx)
-
-**Stack:** HTML, CSS, Javascript, jQuery, SASS, PHP, CakePHP, Wordpress, MySQL.
-
-#### Frontend Developer - Conrad Caine GmbH (December 2010 – October 2013)
-I have worked as a frontend developer in several projects for internacional companies as Siemens, Allianz, Sky, Red Bull and others. In that time I've developed websites, blogs, Facebook apps, etc.
-
-**Stack:** HTML, CSS, Javascript, jQuery, SASS, LESS, Facebook API, Youtube API, Wordpress.
-
-#### Trainee - IFSUL (October 2010 – December 2010)
-Trainee in the technology department of institute. I have worked closely with the backend team, being responsible for the HTML and CSS development of internal systems.
-
-**Stack:** HTML, CSS, Javascript, jQuery.
+**Stack:** Javascript and SQL
 
 
 ## Projects and Community Contribution
@@ -64,8 +52,3 @@ Trainee in the technology department of institute. I have worked closely with th
 A test automation framework for Drupal apps, written using Protractor and the PageObjects pattern.
 
 Team members: [@gneutzling](https://github.com/gneutzling), [@lucasconstantino](https://github.com/lucasconstantino), [@wlsf82](https://github.com/wlsf82)
-
-#### Devoir.nu
-To build an app in 5 hours, that was the challenge. That is how devoir.nu came to life, providing an easier way to visualize Facebook events.
-
-Team members: [@bdsmoura](https://github.com/bdsmoura), [@dreinke](https://github.com/dreinke), [@ggrana](https://github.com/ggrana), [@gneutzling](https://github.com/gneutzling)
