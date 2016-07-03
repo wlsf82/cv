@@ -8,7 +8,7 @@ Software engineer with focus in QA, active member of technology communities and 
 
 
 ## Education
-Bachelor in business management with enphasis in system information analisys at PUCRS (2012)
+Bachelor in business management with emphasis in system information analysis at PUCRS (2012)
 
 
 ## Professional Experience
@@ -37,7 +37,7 @@ At this position I worked firstly using Scrum, and then we evolve for using Kanb
 
 
 #### QA at ADP (April 2011 – May 2014)
-At APD I worked in two different project (both as QA), but in the first we developed automated tests in Java (using Selenium), and in the 2nd we developed automated tests in VBScript (using QTP). Also, here I had my first contact with agile methodoligies, such as Scrum. I was also lead of an internal project called Tech Talks.
+At APD I worked in two different project (both as QA), but in the first we developed automated tests in Java (using Selenium), and in the 2nd we developed automated tests in VBScript (using QTP). Also, here I had my first contact with agile methodologies, such as Scrum. I was also lead of an internal project called Tech Talks.
 
 **Stack:** Java, VBScript and SQL.
 
