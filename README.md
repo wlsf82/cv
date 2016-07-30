@@ -52,3 +52,7 @@ In this job I had my first contact with software test automation, having to make
 A test automation framework for Drupal apps, written using Protractor and the PageObjects pattern.
 
 Team members: [@gneutzling](https://github.com/gneutzling), [@lucasconstantino](https://github.com/lucasconstantino), [@wlsf82](https://github.com/wlsf82)
+
+#### [End to end testing with Protractor](https://leanpub.com/end-to-end-testing-with-protractor) book - Lessons learned about e2e test automation
+
+In this book you will find a collection of practices to implement end to end test automation in the web applications development process, using the Protractor framework.
