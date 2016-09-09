@@ -2,6 +2,7 @@
 **E-mail:** wlsf82@gmail.com<br />
 **Mobile:** +47 469 39 756<br />
 **Website:** http://walmyr-filho.com<br />
+**Medium:** https://medium.com/@walmyrlimaesilv<br />
 **Location:** Oslo, Norway<br />
 
 Software engineer with focus in QA, active member of technology communities and fan of good music and skateboarding.
