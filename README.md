@@ -13,13 +13,13 @@ Bachelor in business management with emphasis in system information analysis at 
 
 ## Professional Experience
 #### Software engineer in QA at [Appear.in](http://appear.in) (current job)
-I help the team creating amazing e2e tests with the [Protractor](http://www.protractortest.org/#/) framework, and these tests are executed in our CI system for each pull request that is created, providing fast feedback after each change in the system. I'm always learning new ways of doing my job better, and I'm a believer of agile and lean methodologies.
+I help the team creating amazing e2e tests with the [Protractor](http://www.protractortest.org/#/) framework (for the web application), and UI Tests with Swift (for the iOS app), and these tests are executed in our CI system for each pull request that is created, providing fast feedback after each change in the system. I'm always learning new ways of doing my job better, and I'm a believer of agile, DevOps and lean methodologies.
 
 **Projects:**
 
 - [Appear.in](http://appear.in)
 
-**Stack:** NodeJS, AngularJS and Protractor.
+**Stack:** NodeJS, AngularJS, Protractor and Swift.
 
 #### Software Developer and agile testing coach at Taller Digital Business (June 2014 – May 2016)
 At first I was hired as QA to create automated acceptance tests in Gherkin format, but with some time I helped the company in a big transformation, where software test is not a phase during the software development process, but part of it. In this transformation I changed my position to software developer, helping the team on developing features and also as agile testing coach, sharing knowledge about agile testing through all the company.
