@@ -55,6 +55,12 @@ A test automation framework for Drupal apps, written using Protractor and the Pa
 
 Team members: [@gneutzling](https://github.com/gneutzling), [@lucasconstantino](https://github.com/lucasconstantino), [@wlsf82](https://github.com/wlsf82)
 
+#### [Faker experiments](https://github.com/wlsf82/faker-experiments)
+
+Project with Protractor tests to experiment the node module faker.js, used to generate massive amounts of fake data.
+
+Team members: [raulovidiu](https://github.com/raulovidiu), [@wlsf82](https://github.com/wlsf82)
+
 #### [End to end testing with Protractor](https://leanpub.com/end-to-end-testing-with-protractor) book - Lessons learned about e2e test automation
 
 In this book you will find a collection of practices to implement end to end test automation in the web applications development process, using the Protractor framework.
