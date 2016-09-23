@@ -14,7 +14,7 @@ Bachelor in business management with emphasis in system information analysis at 
 
 ## Professional Experience
 #### Software engineer in QA at [Appear.in](http://appear.in) (current job)
-I help the team creating amazing e2e tests with the [Protractor](http://www.protractortest.org/#/) framework (for the web application), and UI Tests with Swift (for the iOS app), and these tests are executed in our CI system for each pull request that is created, providing fast feedback after each change in the system. I'm always learning new ways of doing my job better, and I'm a believer of agile, DevOps and lean methodologies.
+I help the team creating amazing e2e tests with the [Protractor](http://www.protractortest.org/#/) framework (for the web application), and UI Tests with Swift (for the iOS app), and these tests are executed in our CI server for each pull request that is created, providing fast feedback after each change in the system. I'm always learning new ways of doing my job better, and I'm a believer of agile, DevOps and lean methodologies.
 
 **Projects:**
 
