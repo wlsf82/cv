@@ -1,7 +1,7 @@
 # Walmyr Filho
 **E-mail:** wlsf82@gmail.com<br />
 **Mobile:** +47 469 39 756<br />
-**Website:** http://walmyr-filho.com<br />
+**Website:** [http://walmyr-filho.com](http://walmyr-filho.com/en-index.html)<br />
 **Medium:** https://medium.com/@walmyrlimaesilv<br />
 **Location:** Oslo, Norway<br />
 
@@ -12,7 +12,7 @@ Software engineer with focus in QA, active member of technology communities and 
 Bachelor in business management with emphasis in system information analysis at PUCRS (2012)
 
 
-## Professional Experience
+## Professional experience
 #### Software engineer in QA at [Appear.in](http://appear.in) (current job)
 I help the team creating amazing e2e tests with the [Protractor](http://www.protractortest.org/#/) framework (for the web application), and UI Tests with Swift (for the iOS app), and these tests are executed in our CI server for each pull request that is created, providing fast feedback after each change in the system. I'm always learning new ways of doing my job better, and I'm a believer of agile, DevOps and lean methodologies.
 
@@ -20,9 +20,9 @@ I help the team creating amazing e2e tests with the [Protractor](http://www.prot
 
 - [Appear.in](http://appear.in)
 
-**Stack:** NodeJS, AngularJS, Protractor and Swift.
+**Stack:** NodeJS, AngularJS, Protractor, Tape, and Swift.
 
-#### Software Developer and agile testing coach at Taller Digital Business (June 2014 – May 2016)
+#### Software developer and agile testing coach at [Taller Digital Business](http://taller.net.br/en/) (June 2014 – May 2016)
 At first I was hired as QA to create automated acceptance tests in Gherkin format, but with some time I helped the company in a big transformation, where software test is not a phase during the software development process, but part of it. In this transformation I changed my position to software developer, helping the team on developing features and also as agile testing coach, sharing knowledge about agile testing through all the company.
 At this position I worked firstly using Scrum, and then we evolve for using Kanban and a continuous flow.
 
@@ -37,28 +37,46 @@ At this position I worked firstly using Scrum, and then we evolve for using Kanb
 **Stack:** Drupal, HTML, CSS, Javascript, jQuery, SASS, Protractor, Cucumber and Vagrant.
 
 
-#### QA at ADP (April 2011 – May 2014)
+#### QA at [ADP](https://www.adp.com) (April 2011 – May 2014)
 At APD I worked in two different project (both as QA), but in the first we developed automated tests in Java (using Selenium), and in the 2nd we developed automated tests in VBScript (using QTP). Also, here I had my first contact with agile methodologies, such as Scrum. I was also lead of an internal project called Tech Talks.
 
 **Stack:** Java, VBScript and SQL.
 
-#### Manual and automated test analyst at Good Card (November 2009 - March 2011)
+#### Manual and automated test analyst at [Good Card](http://goodcard.com.br) (November 2009 - March 2011)
 In this job I had my first contact with software test automation, having to make my manager understand that software test automation is not record and playback. At this company I started the creation of a test automation framework. Part of my job was also creating unit tests for triggers and procedures (since many business rules were in the database), creating and executing manual test cases and managing bugs.
+
+**Projects:**
+
+- [Eco Benefícios](http://www.ecobeneficios.com.br/home)
+- [Eco Frotas](https://www.ecofrotas.com.br/en/)
 
 **Stack:** Javascript and SQL
 
-## Freelance Projects
+## Freelance projects
 
 #### [Zenvia Desenvolvedores](http://www.zenvia.com.br/desenvolvedores/)
 
 A CMS system based on WordPress, providing technical content for software developers using Zenvia Products, such as SMS and VAS.
 
+**Stack:** PHP, Javascript and CSS
+
 Team members: [@gneutzling](https://github.com/gneutzling), [@wlsf82](https://github.com/wlsf82)
 
-## Projects and Community Contribution
+## Other projects and community Contribution
+#### Book: [End to end testing with Protractor - Lessons learned about e2e test automation](https://leanpub.com/end-to-end-testing-with-protractor)
+
+
+In this book you will find a collection of practices to implement end to end test automation in the web applications development process, using the Protractor framework.
+
+#### YouTube channel: [Learning Protractor](https://www.youtube.com/user/wlsf82/videos)
+
+YouTube channel with hands-on videos about software test automation with the Protractor framework (from the basics until more advanced things).
+
 #### [Protractor Drupal Framework](https://github.com/TallerWebSolutions/protractor-drupal-framework)
 
 A test automation framework for Drupal apps, written using Protractor and the PageObjects pattern.
+
+**Stack:** Node.js
 
 Team members: [@gneutzling](https://github.com/gneutzling), [@lucasconstantino](https://github.com/lucasconstantino), [@wlsf82](https://github.com/wlsf82)
 
@@ -66,12 +84,6 @@ Team members: [@gneutzling](https://github.com/gneutzling), [@lucasconstantino](
 
 Project with Protractor tests to experiment the node module faker.js, used to generate massive amounts of fake data.
 
+**Stack:** Node.js, ES2015
+
 Team members: [raulovidiu](https://github.com/raulovidiu), [@wlsf82](https://github.com/wlsf82)
-
-#### [End to end testing with Protractor](https://leanpub.com/end-to-end-testing-with-protractor) book - Lessons learned about e2e test automation
-
-In this book you will find a collection of practices to implement end to end test automation in the web applications development process, using the Protractor framework.
-
-#### [Learning Protractor YouTube channel](https://www.youtube.com/user/wlsf82/videos)
-
-YouTube channel with hands-on videos about software test automation with the Protractor framework (from the basics until more advanced things).
