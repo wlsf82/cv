@@ -47,6 +47,13 @@ In this job I had my first contact with software test automation, having to make
 
 **Stack:** Javascript and SQL
 
+## Freelance Projects
+
+#### [Zenvia Desenvolvedores](http://www.zenvia.com.br/desenvolvedores/)
+
+A CMS system based on WordPress, providing technical content for software developers using Zenvia Products, such as SMS and VAS.
+
+Team members: [@gneutzling](https://github.com/gneutzling), [@wlsf82](https://github.com/wlsf82)
 
 ## Projects and Community Contribution
 #### [Protractor Drupal Framework](https://github.com/TallerWebSolutions/protractor-drupal-framework)
