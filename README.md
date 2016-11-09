@@ -73,6 +73,8 @@ In this book you will find a collection of practices to implement end to end tes
 
 YouTube channel with hands-on videos about software test automation with the Protractor framework (from the basics until more advanced things).
 
+NOTE: The content is in Portuguese.
+
 #### [Protractor Drupal Framework](https://github.com/TallerWebSolutions/protractor-drupal-framework)
 
 A test automation framework for Drupal apps, written using Protractor and the PageObjects pattern.
