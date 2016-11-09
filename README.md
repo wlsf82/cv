@@ -19,6 +19,7 @@ I help the team creating amazing e2e tests with the [Protractor](http://www.prot
 **Projects:**
 
 - [Appear.in](http://appear.in)
+- [Appear.in (iOS)](https://itunes.apple.com/us/app/appear.in-free-group-video/id878583078?mt=8)
 
 **Stack:** NodeJS, AngularJS, Protractor, Tape, and Swift.
 
