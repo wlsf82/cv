@@ -44,14 +44,14 @@ At APD I worked in two different project (both as QA), but in the first we devel
 **Stack:** Java, VBScript and SQL.
 
 #### Manual and automated test analyst at [Good Card](http://goodcard.com.br) (November 2009 - March 2011)
-In this job I had my first contact with software test automation, having to make my manager understand that software test automation is not record and playback. At this company I started the creation of a test automation framework. Part of my job was also creating unit tests for triggers and procedures (since many business rules were in the database), creating and executing manual test cases and managing bugs.
+In this job I had my first contact with software test automation, having to make my manager understand that software test automation is not record and playback. At this company I started the creation of a test automation framework. Part of my job was also creating unit tests for triggers and procedures (since many business rules were in the database), creating and executing manual test cases and managing bugs. At this job I had also a small experience as software developer, writing PL/SQL code.
 
 **Projects:**
 
 - [Eco Benefícios](http://www.ecobeneficios.com.br/home)
 - [Eco Frotas](https://www.ecofrotas.com.br/en/)
 
-**Stack:** Javascript and SQL
+**Stack:** Javascript and PL/SQL
 
 ## Freelance projects
 
