@@ -82,6 +82,10 @@ NOTE: The content is in Portuguese.
 
 In 2017 I started a meetup group in Oslo to gather a community, for sharing knowledge about subjects related to quality assurance and software testing.
 
+#### Code lab: [Protractor and WebRTC](http://github.com/wlsf82/protractor-and-webrtc)
+
+Code lab to teach the basics for creating end-to-end tests with Protractor for WebRTC applications.
+
 #### [Protractor Drupal Framework](https://github.com/TallerWebSolutions/protractor-drupal-framework)
 
 A test automation framework for Drupal apps, written using Protractor and the PageObjects pattern.
