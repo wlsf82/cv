@@ -80,7 +80,7 @@ NOTE: The content is in Portuguese.
 
 #### Meetup: [Oslo QA Meetup](https://www.meetup.com/Oslo-QA-Meetup/)
 
-In 2017 I started a meetup group in Oslo to gather a community, for sharing knowledge about subjects related to quality assurance and software testing.
+In 2017 I started a Meetup group in Oslo to gather a community, for sharing knowledge about subjects related to quality assurance and software testing.
 
 #### Code lab: [Protractor and WebRTC](http://github.com/wlsf82/protractor-and-webrtc)
 
@@ -101,3 +101,6 @@ Project with Protractor tests to experiment the node module faker.js, used to ge
 _Stack:_ Node.js, ES2015
 
 Team members: [raulovidiu](https://github.com/raulovidiu), [@wlsf82](https://github.com/wlsf82)
+
+## Recent courses:
+#### Advanced WebRTC Architecture course - [BlogGeek.me](https://bloggeek.me/course/webrtc-architecture/)
