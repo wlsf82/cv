@@ -104,3 +104,5 @@ Team members: [raulovidiu](https://github.com/raulovidiu), [@wlsf82](https://git
 
 ## Recent courses:
 #### Advanced WebRTC Architecture course - [BlogGeek.me](https://bloggeek.me/course/webrtc-architecture/)
+
+![Image of certificate](https://github.com/wlsf82/cv/blob/master/bloggeek.me%20certificate%20-%20advanced%20webrtc%20architecture%20course.png)
