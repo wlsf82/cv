@@ -64,7 +64,7 @@ A CMS system based on WordPress, providing technical content for software develo
 
 Team members: [@gneutzling](https://github.com/gneutzling), [@wlsf82](https://github.com/wlsf82)
 
-## Other projects and community Contribution
+## Other projects and community contribution
 #### Book: [End to end testing with Protractor - Lessons learned about e2e test automation](https://leanpub.com/end-to-end-testing-with-protractor)
 
 
@@ -85,6 +85,12 @@ In 2017 I started a Meetup group in Oslo to gather a community, for sharing know
 #### Code lab: [Protractor and WebRTC](http://github.com/wlsf82/protractor-and-webrtc)
 
 Code lab to teach the basics for creating end-to-end tests with Protractor for WebRTC applications.
+
+#### Node module: [protractor-helper](http://npmjs.com/package/protractor-helper)
+
+Library with different methods that can be used together with Protractor for creating robust end-to-end tests.
+
+_Stack:_ Node.js
 
 #### [Protractor Drupal Framework](https://github.com/TallerWebSolutions/protractor-drupal-framework)
 
