@@ -22,7 +22,7 @@ _Projects:_
 - [appear.in](https://appear.in)
 - [appear.in (iOS)](https://itunes.apple.com/us/app/appear.in-free-group-video/id878583078?mt=8)
 
-_Stack:_ NodeJS, AngularJS, Protractor, Tape, Swift and Terraform.
+_Stack:_ NodeJS, AngularJS, React, Protractor, Selenium Webdriver JS, Swift, AWS and Terraform.
 
 #### Software developer and agile testing coach at [Taller Digital Business](http://taller.net.br/en/) (June 2014 – May 2016)
 At first I was hired as QA to create automated acceptance tests in Gherkin format, but with some time I helped the company in a big transformation, where software test is not a phase during the software development process anymore, but part of it. In this transformation I changed my position to software developer, helping the team on developing features, and also as agile testing coach, sharing knowledge about agile testing through all the company and helping the team on building a mindset where everyone is responsible for the quality of the softwares developed.
