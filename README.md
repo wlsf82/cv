@@ -108,6 +108,10 @@ _Stack:_ Node.js, ES2015
 Team members: [raulovidiu](https://github.com/raulovidiu), [@wlsf82](https://github.com/wlsf82)
 
 ## Recent courses:
+#### Introduction to JavaScript - [codecademy](https://www.codecademy.com/en-US/learn/introduction-to-javascript)
+
+Introduction to JavaScript and Variables, Control Flow, Functions, Scope, Arrays, Loops, Iterators, Objects,  Classes, Browser Compatibility and Transpilation, Intermediate JavaScript Modules, and finally Requests (with ES5, ES6 and ES7 syntax).
+
 #### Advanced WebRTC Architecture course - [BlogGeek.me](https://bloggeek.me/course/webrtc-architecture/)
 
 ![Image of certificate](https://github.com/wlsf82/cv/blob/master/bloggeek.me%20certificate%20-%20advanced%20webrtc%20architecture%20course.png)
