@@ -21,7 +21,6 @@ _Projects:_
 
 - [appear.in](https://appear.in)
 - [appear.in (iOS)](https://itunes.apple.com/us/app/appear.in-free-group-video/id878583078?mt=8)
-- [gocd.appear.in](https://gocd.appear.in)
 
 _Stack:_ NodeJS, AngularJS, Protractor, Tape, Swift and Terraform.
 
@@ -67,7 +66,6 @@ Team members: [@gneutzling](https://github.com/gneutzling), [@wlsf82](https://gi
 
 ## Other projects and community contribution
 #### Book: [End to end testing with Protractor - Lessons learned about e2e test automation](https://leanpub.com/end-to-end-testing-with-protractor)
-
 
 In this book you will find a collection of practices to implement end to end test automation in the web applications development process, using the Protractor framework.
 
