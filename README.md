@@ -109,7 +109,7 @@ Team members: [raulovidiu](https://github.com/raulovidiu), [@wlsf82](https://git
 
 ## Recent courses:
 
-#### Test-driver development - [codecademy](https://www.codecademy.com/pro/intensive/test-driven-development)
+#### Test-driven development - [codecademy](https://www.codecademy.com/pro/intensive/test-driven-development)
 
 Why test? Fundamentals of Testing, Full-Stack Test-Driven Development, and the development of two full-stack web applications using outside-in TDD.
 
