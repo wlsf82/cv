@@ -108,6 +108,11 @@ _Stack:_ Node.js, ES2015
 Team members: [raulovidiu](https://github.com/raulovidiu), [@wlsf82](https://github.com/wlsf82)
 
 ## Recent courses:
+
+#### Test-driver development - [codecademy](https://www.codecademy.com/pro/intensive/test-driven-development)
+
+Why test? Fundamentals of Testing, Full-Stack Test-Driven Development, and the development of two full-stack web applications using outside-in TDD.
+
 #### Introduction to JavaScript - [codecademy](https://www.codecademy.com/en-US/learn/introduction-to-javascript)
 
 Introduction to JavaScript and Variables, Control Flow, Functions, Scope, Arrays, Loops, Iterators, Objects,  Classes, Browser Compatibility and Transpilation, Intermediate JavaScript Modules, and finally Requests (with ES5, ES6 and ES7 syntax).
