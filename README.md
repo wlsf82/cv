@@ -2,7 +2,6 @@
 **E-mail:** wlsf82@gmail.com<br />
 **Mobile:** +47 469 39 756<br />
 **Website:** [http://walmyr-filho.com](http://walmyr-filho.com/en-index.html)<br />
-**Website (new version):** [https://walmyr-filho-react.herokuapp.com/](https://walmyr-filho-react.herokuapp.com/)<br />
 **Medium:** https://medium.com/@walmyrlimaesilv<br />
 **Location:** Oslo, Norway<br />
 
