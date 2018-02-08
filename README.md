@@ -14,14 +14,14 @@ Bachelor in business management with emphasis in system information analysis at 
 
 ## Professional experience
 #### Software engineer in QA at [appear.in](http://appear.in) (current job)
-I help the team creating amazing e2e tests with the [Protractor](http://www.protractortest.org/#/) framework (for the web application), UI Tests with Swift (for the iOS app), and visual regression tests with [BackstopJS](https://github.com/garris/BackstopJS), and these tests are executed in our CI/CD server (gocd) for each pull request that is created, providing fast feedback after each change in the system. I'm also responsible for maintaining the mentioned CI/CD server and its infrastructure. I'm always learning new ways of doing my job better, and I'm a believer of agile, DevOps and lean methodologies.
+I help the team creating amazing e2e tests with the [Protractor](http://www.protractortest.org/#/) framework and visual regression tests with [BackstopJS](https://github.com/garris/BackstopJS) (for the web application), and UI Tests with XCUI Test (for the iOS app), and these tests are executed in our CI/CD server (gocd) for each pull request that is created, providing fast feedback after each change in the system. I'm also responsible for maintaining the mentioned CI/CD server and its infrastructure, with approximately 30 pipelines. I'm always learning new ways of doing my job better, and I'm a believer of agile, DevOps and lean methodologies.
 
 _Projects:_
 
 - [appear.in](https://appear.in)
 - [appear.in (iOS)](https://itunes.apple.com/us/app/appear.in-free-group-video/id878583078?mt=8)
 
-_Stack:_ NodeJS, AngularJS, React, Protractor, Selenium Webdriver JS, BackstopJS, Swift, AWS and Terraform.
+_Stack:_ NodeJS, AngularJS, React, Protractor, Selenium Webdriver JS, BackstopJS, XCUI Test, AWS and Terraform.
 
 #### Software developer and agile testing coach at [Taller Digital Business](http://taller.net.br/en/) (June 2014 – May 2016)
 At first I was hired as QA to create automated acceptance tests in Gherkin format, but with some time I helped the company in a big transformation, where software test is not a phase during the software development process anymore, but part of it. In this transformation I changed my position to software developer, helping the team on developing features, and also as agile testing coach, sharing knowledge about agile testing through all the company and helping the team on building a mindset where everyone is responsible for the quality of the softwares developed.
