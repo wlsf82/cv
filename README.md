@@ -92,6 +92,12 @@ Library with different methods that can be used together with Protractor for cre
 
 _Stack:_ Node.js
 
+#### Tutorial: [Visual regression testing with BackstopJS](https://github.com/wlsf82/backstopjs-example)
+
+Tutorial about how to use BackstopJS to run visual regression tests for web applications, starting with the basics and moving forward to more advanced stuff.
+
+_Stack:_ Node.js
+
 #### [Protractor Drupal Framework](https://github.com/TallerWebSolutions/protractor-drupal-framework)
 
 A test automation framework for Drupal apps, written using Protractor and the PageObjects pattern.
