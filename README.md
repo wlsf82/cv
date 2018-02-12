@@ -84,6 +84,8 @@ In 2017 I started a Meetup group in Oslo to gather a community, for sharing know
 
 Code lab to teach the basics for creating end-to-end tests with Protractor for WebRTC applications.
 
+_Stack:_ Node.js
+
 #### Node module: [protractor-helper](http://npmjs.com/package/protractor-helper)
 
 Library with different methods that can be used together with Protractor for creating robust end-to-end tests.
