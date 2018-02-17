@@ -1,6 +1,5 @@
 # Walmyr Filho
 **E-mail:** wlsf82@gmail.com<br />
-**Mobile:** +47 469 39 756<br />
 **Website:** [http://walmyr-filho.com](http://walmyr-filho.com)<br />
 **Medium:** https://medium.com/@walmyrlimaesilv<br />
 **Location:** Oslo, Norway<br />
