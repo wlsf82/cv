@@ -13,7 +13,7 @@ Bachelor in business management with emphasis in system information analysis at 
 
 ## Professional experience
 #### Software engineer in QA at [appear.in](http://appear.in) (June 2016 - February 2018)
-I help the team creating amazing e2e tests with the [Protractor](http://www.protractortest.org/#/) framework and visual regression tests with [BackstopJS](https://github.com/garris/BackstopJS) (for the web application), and UI Tests with XCUI Test (for the iOS app), and these tests are executed in our CI/CD server ([gocd](http://gocd.org)) for each pull request that is created, providing fast feedback after each change in the system. I'm also responsible for maintaining the mentioned CI/CD server and its infrastructure, with approximately 30 pipelines. I'm always learning new ways of doing my job better, and I'm a believer of agile, DevOps and lean methodologies.
+I helped the team creating amazing e2e tests with the [Protractor](http://www.protractortest.org/#/) framework, visual regression tests with [BackstopJS](https://github.com/garris/BackstopJS) (for the web application), and UI Tests with XCUI Test (for the iOS app), and these tests are executed in a CI/CD system ([gocd](http://gocd.org)) for each pull request that is created, providing fast feedback after each change in the system. I was also responsible for maintaining the mentioned CI/CD system and its infrastructure, with approximately 30 pipelines.
 
 _Projects:_
 
