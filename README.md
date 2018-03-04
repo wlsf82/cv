@@ -33,6 +33,7 @@ _Projects:_
 - [Adoro Maquiagem](http://adoromaquiagem.com.br/)
 - [FIESC-SENAI Portal/Sistema Espaço do Estudante](http://estudante.sc.senai.br/)
 - [Preço Info](http://precoinfo.com.br)
+- [Blog Taller](https://blog.taller.net.br/author/walmyr-filho/)
 
 _Stack:_ Drupal, HTML, CSS, Javascript, jQuery, SASS, Protractor, Cucumber and Vagrant.
 
@@ -94,6 +95,12 @@ _Stack:_ Node.js
 #### Tutorial: [Visual regression testing with BackstopJS](https://github.com/wlsf82/backstopjs-example)
 
 Tutorial about how to use BackstopJS to run visual regression tests for web applications, starting with the basics and moving forward to more advanced stuff.
+
+_Stack:_ Node.js
+
+#### Architecture proposal: [Protractor components and page objects](https://github.com/wlsf82/protractor-components-and-page-objects)
+
+Sample project to demonstrate an architecture proposal for writing GUI tests with Protractor using a concept of components.
 
 _Stack:_ Node.js
 
