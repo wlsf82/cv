@@ -2,6 +2,8 @@
 **E-mail:** wlsf82@gmail.com<br />
 **Website:** [http://walmyr-filho.com](http://walmyr-filho.com)<br />
 **Medium:** https://medium.com/@walmyrlimaesilv<br />
+**Blog:** https://talkingabouttesting.com<br />
+**Online school:** http://talkingabouttesting.coursify.me<br />
 **Location:** Oslo, Norway<br />
 
 Software engineer with focus in QA, active member of technology communities and fan of good music and skateboarding.
