@@ -128,7 +128,7 @@ As a volunteer I mentor Jr. QAs in subjects related to test automation, agile te
 
 Why test? Fundamentals of Testing, Full-Stack Test-Driven Development, and the development of two full-stack web applications using outside-in TDD.
 
-![Image of certificate](https://github.com/wlsf82/cv/blob/master/TDD%20certificate%20-%20Codecademy%20-%20Walmyr%20Filho.png)
+![Image of certificate](https://github.com/wlsf82/cv/blob/master/images/TDD%20certificate%20-%20Codecademy%20-%20Walmyr%20Filho.png)
 
 #### Introduction to JavaScript - [codecademy](https://www.codecademy.com/en-US/learn/introduction-to-javascript)
 
@@ -136,4 +136,4 @@ Introduction to JavaScript and Variables, Control Flow, Functions, Scope, Arrays
 
 #### Advanced WebRTC Architecture course - [BlogGeek.me](https://bloggeek.me/course/webrtc-architecture/)
 
-![Image of certificate](https://github.com/wlsf82/cv/blob/master/bloggeek.me%20certificate%20-%20advanced%20webrtc%20architecture%20course.png)
+![Image of certificate](https://github.com/wlsf82/cv/blob/master/images/bloggeek.me%20certificate%20-%20advanced%20webrtc%20architecture%20course.png)
