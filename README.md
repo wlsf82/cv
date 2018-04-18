@@ -84,10 +84,6 @@ YouTube channel with hands-on videos about software test automation with the Pro
 
 NOTE: The content is in Portuguese.
 
-#### Meetup: [Oslo QA Meetup](https://www.meetup.com/Oslo-QA-Meetup/)
-
-In 2017 I started a Meetup group in Oslo to gather a community, for sharing knowledge about subjects related to quality assurance and software testing.
-
 #### Code lab: [Protractor and WebRTC](http://github.com/wlsf82/protractor-and-webrtc)
 
 Code lab to teach the basics for creating end-to-end tests with Protractor for WebRTC applications.
@@ -111,14 +107,6 @@ _Stack:_ Node.js
 Sample project to demonstrate an architecture proposal for writing GUI tests with Protractor using a concept of components.
 
 _Stack:_ Node.js
-
-#### [Protractor Drupal Framework](https://github.com/TallerWebSolutions/protractor-drupal-framework)
-
-A test automation framework for Drupal apps, written using Protractor and the PageObjects pattern.
-
-_Stack:_ Node.js
-
-Team members: [@gneutzling](https://github.com/gneutzling), [@lucasconstantino](https://github.com/lucasconstantino), [@wlsf82](https://github.com/wlsf82)
 
 #### [Faker experiments](https://github.com/wlsf82/faker-experiments)
 
