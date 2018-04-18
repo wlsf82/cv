@@ -118,6 +118,10 @@ _Stack:_ Node.js, ES2015
 
 Team members: [raulovidiu](https://github.com/raulovidiu), [@wlsf82](https://github.com/wlsf82)
 
+#### Mentoring:
+
+As a volunteer I mentor Jr. QAs in subjects related to test automation, agile testing, continuous integration, etc, to help them grow and be better professionals.
+
 ## Recent courses:
 
 #### Test-driven development - [codecademy](https://help.codecademy.com/hc/en-us/articles/115003950354-What-curriculum-is-covered-in-Test-Driven-Development-)
