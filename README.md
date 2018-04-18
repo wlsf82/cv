@@ -6,7 +6,7 @@
 **Blog:** https://talkingabouttesting.com<br />
 **Location:** Amsterdam, Netherlands<br />
 
-Senior QA engineer, active member of technology communities and fan of good music and skateboarding.
+Senior QA engineer, blogger, YouTuber, writer, online teacher, speaker in conferences, active member of technology communities and fan of good music and skateboarding.
 
 ## Education
 Bachelor in business management with emphasis in system information analysis at PUCRS (2012)
