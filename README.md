@@ -1,7 +1,7 @@
 # Walmyr Filho
 **E-mail:** wlsf82@gmail.com<br />
-**Phone:** +31 0655963911<br />
-**Website:** [http://walmyr-filho.com](http://walmyr-filho.com)<br />
+**Phone:** +31 06 15 18 91 75<br />
+**Website:** http://walmyr-filho.com<br />
 **Medium:** https://medium.com/@walmyrlimaesilv<br />
 **Blog:** https://talkingabouttesting.com<br />
 **Online school:** http://talkingabouttesting.coursify.me<br />
