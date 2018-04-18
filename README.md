@@ -4,7 +4,6 @@
 **Website:** http://walmyr-filho.com<br />
 **Medium:** https://medium.com/@walmyrlimaesilv<br />
 **Blog:** https://talkingabouttesting.com<br />
-**Online school:** http://talkingabouttesting.coursify.me<br />
 **Location:** Amsterdam, Netherlands<br />
 
 Software engineer with focus in QA, active member of technology communities and fan of good music and skateboarding.
