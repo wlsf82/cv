@@ -66,7 +66,7 @@ A CMS system based on WordPress, providing technical content for software develo
 Team members: [@gneutzling](https://github.com/gneutzling), [@wlsf82](https://github.com/wlsf82)
 
 ## Other projects and community contribution
-#### Online School: [TalkingAboutTesting.coursify.me](http://talkingabouttesting.coursify.me)
+#### Online School: [talkingabouttesting.coursify.me](http://talkingabouttesting.coursify.me)
 
 In March, 2018 I launched an online school to teach test automation to new QAs or even experienced professionals.
 
