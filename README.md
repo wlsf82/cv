@@ -66,6 +66,12 @@ A CMS system based on WordPress, providing technical content for software develo
 Team members: [@gneutzling](https://github.com/gneutzling), [@wlsf82](https://github.com/wlsf82)
 
 ## Other projects and community contribution
+#### Online School: [TalkingAboutTesting.coursify.me](http://talkingabouttesting.coursify.me)
+
+In March, 2018 I launched an online school to teach test automation to new QAs or even experienced professionals.
+So far the school has two courses, one with an introduction to test automation course (theoretic and available for free) and another one about visual regression testing (hands-on and paid).
+Another hands-on and paid course is under development, about test architecture with the Protractor framework.
+
 #### Book: [End to end testing with Protractor - Lessons learned about e2e test automation](https://leanpub.com/end-to-end-testing-with-protractor)
 
 In this book you will find a collection of practices to implement end to end test automation in the web applications development process, using the Protractor framework.
