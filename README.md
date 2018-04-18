@@ -6,12 +6,10 @@
 **Blog:** https://talkingabouttesting.com<br />
 **Location:** Amsterdam, Netherlands<br />
 
-Software engineer with focus in QA, active member of technology communities and fan of good music and skateboarding.
-
+QA engineer, active member of technology communities and fan of good music and skateboarding.
 
 ## Education
 Bachelor in business management with emphasis in system information analysis at PUCRS (2012)
-
 
 ## Professional experience
 #### Software Consultant at [WAES](http://www.wearewaes.com) (April 2018 - current job)
