@@ -108,7 +108,7 @@ _Stack:_ Node.js, ES2015
 
 Team members: [raulovidiu](https://github.com/raulovidiu), [@wlsf82](https://github.com/wlsf82)
 
-#### [Mentoring](https://talkingabouttesting.com/mentoria-coaching/):
+#### [Mentoring](https://talkingabouttesting.com/mentoria-coaching/)
 
 As a volunteer I mentor Jr. QAs in subjects related to test automation, agile testing, continuous integration, etc., to help them grow and be better professionals.
 
