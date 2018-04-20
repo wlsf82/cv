@@ -122,7 +122,7 @@ Why test? Fundamentals of Testing, Full-Stack Test-Driven Development, and the d
 
 #### Introduction to JavaScript - [codecademy](https://www.codecademy.com/en-US/learn/introduction-to-javascript)
 
-Introduction to JavaScript and Variables, Control Flow, Functions, Scope, Arrays, Loops, Iterators, Objects,  Classes, Browser Compatibility and Transpilation, Intermediate JavaScript Modules, and finally Requests (with ES5, ES6 and ES7 syntax).
+Introduction to JavaScript and Variables, Control Flow, Functions, Scope, Arrays, Loops, Iterators, Objects,  Classes, Browser Compatibility and Transpilation, Intermediate JavaScript Modules, and finally, Requests (with ES5, ES6 and ES7 syntax).
 
 #### Advanced WebRTC Architecture course - [BlogGeek.me](https://bloggeek.me/course/webrtc-architecture/)
 
