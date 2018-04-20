@@ -9,13 +9,13 @@
 Senior QA engineer, blogger, YouTuber, writer, online teacher, speaker in conferences, active member of technology communities and fan of good music, tattoos, and skateboarding.
 
 ## Education
-Bachelor in business management with emphasis in system information analysis at PUCRS (2012)
+Bachelor in business management with an emphasis in system information analysis at PUCRS (2012)
 
 ## Professional experience
 #### Software Consultant at [WAES](http://www.wearewaes.com) (April 2018 - current job)
 
 #### Senior QA engineer at [appear.in](http://appear.in) (June 2016 - February 2018)
-I helped the team creating amazing e2e tests with the [Protractor](http://www.protractortest.org/#/) framework, visual regression tests with [BackstopJS](https://github.com/garris/BackstopJS) (for the web application), and UI Tests with XCUI Test (for the iOS app), and these tests are executed in a CI/CD system ([gocd](http://gocd.org)) for each pull request that is created, providing fast feedback after each change in the system. I was also responsible for maintaining the mentioned CI/CD system and its infrastructure, with approximately 30 pipelines.
+I helped the team creating e2e tests with the [Protractor](http://www.protractortest.org/#/) framework and visual regression tests with [BackstopJS](https://github.com/garris/BackstopJS) (for the web application), and UI Tests with XCUI Test (for the iOS app), and these tests are executed in a CI/CD system ([gocd](http://gocd.org)) for each pull request that is created, providing fast feedback after each change in the system. I was also responsible for maintaining the previously mentioned CI/CD system and its infrastructure, with approximately 30 pipelines.
 
 _Projects:_
 
@@ -25,8 +25,8 @@ _Projects:_
 _Stack:_ NodeJS, AngularJS, React, Protractor, Selenium Webdriver JS, BackstopJS, XCUI Test, AWS and Terraform.
 
 #### Software developer and agile testing coach at [Taller Digital Business](http://taller.net.br/en/) (June 2014 – May 2016)
-At first I was hired as QA to create automated acceptance tests in Gherkin format, but with some time I helped the company in a big transformation, where software test is not a phase during the software development process anymore, but part of it. In this transformation I changed my position to software developer, helping the team on developing features, and also as agile testing coach, sharing knowledge about agile testing through all the company and helping the team on building a mindset where everyone is responsible for the quality of the softwares developed.
-At this position I worked firstly using Scrum, and then we evolve for using Kanban and a continuous flow.
+At first, I was hired as QA engineer to create automated acceptance tests in Gherkin format with Cucumber (in Ruby language), but with some time I helped the company in a big transformation, where software test is not a phase during the software development process anymore, but part of it. In this transformation I changed my position to a software developer, helping the team on developing features, and also as an agile testing coach, sharing knowledge about agile testing throughout all the company and helping the team on building a mindset where everyone is responsible for the quality of the software developed.
+At this position, I worked firstly using Scrum, and then we evolved for using Kanban and a continuous flow.
 
 _Projects:_
 
@@ -41,12 +41,12 @@ _Stack:_ Drupal, HTML, CSS, Javascript, jQuery, SASS, Protractor, Cucumber and V
 
 
 #### QA at [ADP](https://www.adp.com) (April 2011 – May 2014)
-At APD I worked in two different project (both as QA), but in the first we developed automated tests in Java (using Selenium), and in the 2nd we developed automated tests in VBScript (using QTP). Also, here I had my first contact with agile methodologies, such as Scrum. I was also lead of an internal project called Tech Talks.
+At APD I worked in two different projects (both as QA analyst), but in the first one I developed automated tests in Java (using Selenium), and in the second one I developed automated tests in VBScript (using QTP). Also, here I had my first contact with agile methodologies, such as Scrum, and I was the leader of an internal project called Tech Talks.
 
 _Stack:_ Java, VBScript and SQL.
 
 #### Manual and automated test analyst at [Good Card](http://goodcard.com.br) (November 2009 - March 2011)
-In this job I had my first contact with software test automation, having to make my manager understand that software test automation is not record and playback. At this company I started the creation of a test automation framework. Part of my job was also creating unit tests for triggers and procedures (since many business rules were in the database), creating and executing manual test cases and managing bugs. At this job I had also a small experience as software developer, writing PL/SQL code.
+In this job I had my first contact with software test automation, having to make my manager understand that software test automation is not about record and playback. At this company, I started the creation of a test automation framework for web applications. Part of my job was also creating unit tests for database triggers and procedures (since many business rules were in the database), creating and executing manual test cases and managing bugs. At this job I had also a small experience as software developer, writing PL/SQL code.
 
 _Projects:_
 
@@ -58,9 +58,9 @@ _Stack:_ Javascript and PL/SQL
 ## Other projects and community contribution
 #### Online School: [talkingabouttesting.coursify.me](http://talkingabouttesting.coursify.me)
 
-In March, 2018 I launched an online school to teach test automation to new QAs or even experienced professionals.
+In March 2018 I launched an online school to teach test automation to new QAs or even experienced professionals.
 
-So far the school has two courses, one with an introduction to test automation course (theoretic and available for free) and another one about visual regression testing (hands-on and paid).
+So far the school has two courses, one with an introduction to test automation (theoretic and available for free) and another one about visual regression testing (hands-on and paid).
 
 Another hands-on and paid course is under development, about test architecture with the Protractor framework.
 
@@ -68,7 +68,7 @@ Another hands-on and paid course is under development, about test architecture w
 
 In this book you will find a collection of practices to implement end to end test automation in the web applications development process, using the Protractor framework.
 
-NOTE: This is also available in Portuguese through [link](http://casadocodigo.com.br/products/livro-protractor).
+NOTE: This is also available in Portuguese through the following [link](http://casadocodigo.com.br/products/livro-protractor).
 
 #### YouTube channel: [Learning Protractor](https://www.youtube.com/user/wlsf82/videos)
 
@@ -78,7 +78,7 @@ NOTE: The content is in Portuguese.
 
 #### Code lab: [Protractor and WebRTC](http://github.com/wlsf82/protractor-and-webrtc)
 
-Code lab to teach the basics for creating end-to-end tests with Protractor for WebRTC applications.
+Code lab to teach the basics of creating end-to-end tests with Protractor for WebRTC applications.
 
 _Stack:_ Node.js
 
@@ -90,13 +90,13 @@ _Stack:_ Node.js
 
 #### Tutorial: [Visual regression testing with BackstopJS](https://github.com/wlsf82/backstopjs-example)
 
-Tutorial about how to use BackstopJS to run visual regression tests for web applications, starting with the basics and moving forward to more advanced stuff.
+Tutorial on how to use BackstopJS to run visual regression tests for web applications, starting with the basics and moving forward to more advanced stuff.
 
 _Stack:_ Node.js
 
 #### Architecture proposal: [Protractor components and page objects](https://github.com/wlsf82/protractor-components-and-page-objects)
 
-Sample project to demonstrate an architecture proposal for writing GUI tests with Protractor using a concept of components.
+Sample project to demonstrate an architecture proposal for writing GUI tests with Protractor using a concept of components, to have stable, reliable and maintainable end-to-end tests
 
 _Stack:_ Node.js
 
@@ -110,7 +110,7 @@ Team members: [raulovidiu](https://github.com/raulovidiu), [@wlsf82](https://git
 
 #### Mentoring:
 
-As a volunteer I mentor Jr. QAs in subjects related to test automation, agile testing, continuous integration, etc, to help them grow and be better professionals.
+As a volunteer I mentor Jr. QAs in subjects related to test automation, agile testing, continuous integration, etc., to help them grow and be better professionals.
 
 ## Recent courses:
 
