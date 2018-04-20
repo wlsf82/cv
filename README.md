@@ -55,16 +55,6 @@ _Projects:_
 
 _Stack:_ Javascript and PL/SQL
 
-## Freelance projects
-
-#### [Zenvia Desenvolvedores](http://www.zenvia.com.br/desenvolvedores/)
-
-A CMS system based on WordPress, providing technical content for software developers using Zenvia Products, such as SMS and VAS.
-
-**Stack:** PHP, Javascript and CSS
-
-Team members: [@gneutzling](https://github.com/gneutzling), [@wlsf82](https://github.com/wlsf82)
-
 ## Other projects and community contribution
 #### Online School: [talkingabouttesting.coursify.me](http://talkingabouttesting.coursify.me)
 
