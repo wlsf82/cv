@@ -12,7 +12,14 @@ Senior QA engineer, blogger, YouTuber, writer, online teacher, mentor, speaker i
 Bachelor in business management with an emphasis in system information analysis at PUCRS (2012)
 
 ## Professional experience
-#### Software Consultant at [WAES](http://www.wearewaes.com) (April 2018 - current job)
+#### QA engineer at [Backbase](https://backbase.com) (April 2018 - current job)
+I work in a Scrum team developing and maintaining front-end tests (using Protractor and Cucumber) and back-end tests (using Rest-Assured) for a micro-services architecture application. Other of my responsibilities are managing test environments, reviewing code, pair programming with back-end and front-end developers, and maintaining continuous integration pipelines (with Jenkins and GoCD).
+
+_Projects:_
+
+- [Backbase Retail Banking](https://backbase.com/solutions/retail-banking/)
+
+_Stack:_ NodeJS, Angular, AngularJS, Protractor, Cucumber, Java, Rest-Assured.
 
 #### Senior QA engineer at [appear.in](http://appear.in) (June 2016 - February 2018)
 I helped the team creating e2e tests with the [Protractor](http://www.protractortest.org/#/) framework and visual regression tests with [BackstopJS](https://github.com/garris/BackstopJS) (for the web application), and UI Tests with XCUI Test (for the iOS app), and these tests are executed in a CI/CD system ([gocd](http://gocd.org)) for each pull request that is created, providing fast feedback after each change in the system. I was also responsible for maintaining the previously mentioned CI/CD system and its infrastructure, with approximately 30 pipelines.
