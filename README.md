@@ -117,7 +117,7 @@ Team members: [raulovidiu](https://github.com/raulovidiu), [@wlsf82](https://git
 
 #### [Mentoring](https://talkingabouttesting.com/mentoria-coaching/)
 
-As a volunteer I mentor Jr. QAs in subjects related to test automation, agile testing, continuous integration, etc., to help them grow and be better professionals.
+I mentor Jr. QAs in subjects related to test automation, agile testing, continuous integration, etc., to help them grow and be better professionals.
 
 ## Recent courses:
 
