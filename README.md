@@ -125,6 +125,10 @@ I mentor Jr. QAs in subjects related to test automation, agile testing, continuo
 
 ## Recent courses:
 
+#### [OpenID Connect](http://openid.net/connect/)
+
+OpenID Connect 1.0 is a simple identity layer on top of the OAuth 2.0 protocol. This course introduces the what is OpenID Connect, when it should be used, how it relates with OAuth 2.0 and how to use it securely.
+
 #### Test-driven development - [codecademy](https://help.codecademy.com/hc/en-us/articles/115003950354-What-curriculum-is-covered-in-Test-Driven-Development-)
 
 Why test? Fundamentals of Testing, Full-Stack Test-Driven Development, and the development of two full-stack web applications using outside-in TDD.
