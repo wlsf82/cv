@@ -36,7 +36,7 @@ _Stack:_ NodeJS, AngularJS, React, Protractor, Selenium Webdriver JS, BackstopJS
 #### Software developer and agile testing coach at [Taller Digital Business](http://taller.net.br/en/) (June 2014 – May 2016)
 At first, I was hired as QA engineer to create automated acceptance tests in Gherkin format with Cucumber (in Ruby language), but with some time I helped the company in a big transformation, where software test is not a phase during the software development process anymore, but part of it. In this transformation I changed my position to a software developer, helping the team on developing features, and also as an agile testing coach, sharing knowledge about agile testing throughout all the company and helping the team on building a mindset where everyone is responsible for the quality of the software developed.
 At this position, I worked firstly using Scrum, and then we evolved for using Kanban and a continuous flow.
-Used to work remote and being productive working that way.
+I used to work remote and being productive working that way.
 
 _Projects:_
 
@@ -52,7 +52,7 @@ _Stack:_ Drupal, HTML, CSS, Javascript, jQuery, SASS, Protractor, Cucumber and V
 
 #### QA at [ADP](https://www.adp.com) (April 2011 – May 2014)
 At APD I worked in two different projects (both as QA analyst), but in the first one I developed automated tests in Java (using Selenium), and in the second one I developed automated tests in VBScript (using QTP). Also, here I had my first contact with agile methodologies, such as Scrum, and I was the leader of an internal project called Tech Talks.
-Used to work remote occasionally and being productive working that way.
+I used to work remote occasionally and being productive working that way.
 
 _Stack:_ Java, VBScript and SQL.
 
