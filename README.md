@@ -14,6 +14,7 @@ Bachelor in business management with an emphasis in system information analysis 
 ## Professional experience
 #### QA engineer at [Backbase](https://backbase.com) (April 2018 - current job)
 I work in a Scrum team developing and maintaining front-end tests (using Protractor and Cucumber) and back-end tests (using Rest-Assured) for a micro-services architecture application. Other of my responsibilities are managing test environments, reviewing code, pair programming with back-end and front-end developers, and maintaining continuous integration pipelines (with Jenkins and GoCD).
+I use to work remote occasionally and being productive working that way.
 
 _Projects:_
 
