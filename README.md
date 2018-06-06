@@ -6,7 +6,7 @@
 **Blog:** https://talkingabouttesting.com<br />
 **Location:** Amsterdam, Netherlands<br />
 
-QA engineer, clean coder, blogger, YouTuber, writer, online teacher, mentor, speaker in conferences, active member of technology communities and fan of good music, tattoos, and skateboarding.
+I'm a software engineer that loves testing, but I'm also a clean coder, blogger, YouTuber, writer, online teacher, mentor, speaker at conferences, an active member of technology communities and fan of good music, tattoos, and skateboarding.
 
 ## Education
 Bachelor in business management with an emphasis in system information analysis at PUCRS (2012)
