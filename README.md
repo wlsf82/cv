@@ -68,51 +68,55 @@ _Projects:_
 _Stack:_ Javascript and PL/SQL
 
 ## Other projects and community contribution
-#### Online School: [talkingabouttesting.coursify.me](http://talkingabouttesting.coursify.me)
+### Online School: [talkingabouttesting.coursify.me](http://talkingabouttesting.coursify.me)
 
 In March 2018 I launched an online school to teach test automation to new QAs or even experienced professionals.
 
 The school already have three courses, one with an introduction to test automation (theoretic and available for free), one about visual regression testing with BackstopJS (hands-on and paid), and another one about test architecture with the Protractor framework (also hands-on and paid).
 
-The school already have more than 550 students.
+The school already have more than **600** students.
 
-#### Book: [End to end testing with Protractor - Lessons learned about e2e test automation](https://leanpub.com/end-to-end-testing-with-protractor)
+### Book: [End to end testing with Protractor - Lessons learned about e2e test automation](https://leanpub.com/end-to-end-testing-with-protractor)
 
 In this book you will find a collection of practices to implement end to end test automation in the web applications development process, using the Protractor framework.
 
 NOTE: This is also available in Portuguese through the following [link](http://casadocodigo.com.br/products/livro-protractor).
 
-#### YouTube channel: [Learning Protractor](https://www.youtube.com/user/wlsf82/videos)
+### YouTube channel: [Learning Protractor](https://www.youtube.com/user/wlsf82/videos)
 
 YouTube channel with hands-on videos about software test automation with the Protractor framework (from the basics until more advanced things).
 
 NOTE: The content is in Portuguese.
 
-#### Code lab: [Protractor and WebRTC](http://github.com/wlsf82/protractor-and-webrtc)
+### Code lab: [Protractor and WebRTC](http://github.com/wlsf82/protractor-and-webrtc)
 
 Code lab to teach the basics of creating end-to-end tests with Protractor for WebRTC applications.
 
 _Stack:_ Node.js
 
-#### Node module: [protractor-helper](http://npmjs.com/package/protractor-helper)
+### Node module: [protractor-helper](http://npmjs.com/package/protractor-helper)
 
 Library with different methods that can be used together with Protractor for creating robust end-to-end tests.
 
 _Stack:_ Node.js
 
-#### Tutorial: [Visual regression testing with BackstopJS](https://github.com/wlsf82/backstopjs-example)
+### [backstop-config](https://github.com/wlsf82/backstop-config)
+
+A sample project with a simple implementation of BackstopJS tests that can be used by anyone who needs to run screenshot comparison tests in static web pages that have different URLs.
+
+### Tutorial: [Visual regression testing with BackstopJS](https://github.com/wlsf82/backstopjs-example)
 
 Tutorial on how to use BackstopJS to run visual regression tests for web applications, starting with the basics and moving forward to more advanced stuff.
 
 _Stack:_ Node.js
 
-#### Architecture proposal: [Protractor components and page objects](https://github.com/wlsf82/protractor-components-and-page-objects)
+### Architecture proposal: [Protractor components and page objects](https://github.com/wlsf82/protractor-components-and-page-objects)
 
 Sample project to demonstrate an architecture proposal for writing GUI tests with Protractor using a concept of components, to have stable, reliable and maintainable end-to-end tests
 
 _Stack:_ Node.js
 
-#### [Faker experiments](https://github.com/wlsf82/faker-experiments)
+### [Faker experiments](https://github.com/wlsf82/faker-experiments)
 
 Project with Protractor tests to experiment the node module faker.js, used to generate massive amounts of fake data.
 
@@ -120,26 +124,26 @@ _Stack:_ Node.js, ES2015
 
 Team members: [raulovidiu](https://github.com/raulovidiu), [@wlsf82](https://github.com/wlsf82)
 
-#### [Mentoring](https://talkingabouttesting.com/mentoria-coaching/)
+### [Mentoring](https://talkingabouttesting.com/mentoria-coaching/)
 
 I mentor Jr. QAs in subjects related to test automation, agile testing, continuous integration, etc., to help them grow and be better professionals.
 
 ## Recent courses:
 
-#### [OpenID Connect](http://openid.net/connect/)
+### [OpenID Connect](http://openid.net/connect/)
 
 OpenID Connect 1.0 is a simple identity layer on top of the OAuth 2.0 protocol. This course introduces what is OpenID Connect, when it should be used, how it relates with OAuth 2.0 and how to use it securely.
 
-#### Test-driven development - [codecademy](https://help.codecademy.com/hc/en-us/articles/115003950354-What-curriculum-is-covered-in-Test-Driven-Development-)
+### Test-driven development - [codecademy](https://help.codecademy.com/hc/en-us/articles/115003950354-What-curriculum-is-covered-in-Test-Driven-Development-)
 
 Why test? Fundamentals of Testing, Full-Stack Test-Driven Development, and the development of two full-stack web applications using outside-in TDD.
 
 ![Image of certificate](https://github.com/wlsf82/cv/blob/master/images/TDD%20certificate%20-%20Codecademy%20-%20Walmyr%20Filho.png)
 
-#### Introduction to JavaScript - [codecademy](https://www.codecademy.com/en-US/learn/introduction-to-javascript)
+### Introduction to JavaScript - [codecademy](https://www.codecademy.com/en-US/learn/introduction-to-javascript)
 
 Introduction to JavaScript and Variables, Control Flow, Functions, Scope, Arrays, Loops, Iterators, Objects,  Classes, Browser Compatibility and Transpilation, Intermediate JavaScript Modules, and finally, Requests (with ES5, ES6 and ES7 syntax).
 
-#### Advanced WebRTC Architecture course - [BlogGeek.me](https://bloggeek.me/course/webrtc-architecture/)
+### Advanced WebRTC Architecture course - [BlogGeek.me](https://bloggeek.me/course/webrtc-architecture/)
 
 ![Image of certificate](https://github.com/wlsf82/cv/blob/master/images/bloggeek.me%20certificate%20-%20advanced%20webrtc%20architecture%20course.png)
