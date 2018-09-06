@@ -62,7 +62,7 @@ _Stack:_ Javascript and PL/SQL
 
 In March 2018 I launched an online school to teach test automation to new QAs or even experienced professionals.
 
-The school already have three courses, one with an introduction to test automation (theoretic and available for free), one about visual regression testing with BackstopJS (hands-on and paid), and another one about test architecture with the Protractor framework (also hands-on and paid).
+The school already have four courses, one with an introduction to test automation (theoretic and available for free), two about visual regression testing with BackstopJS (hands-on - one paid and one free), and another one about test architecture with the Protractor framework (also hands-on and paid).
 
 The school already have more than **600** students.
 
