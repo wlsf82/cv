@@ -94,6 +94,8 @@ _Stack:_ Node.js
 
 A sample project with a simple implementation of BackstopJS tests that can be used by anyone who needs to run screenshot comparison tests in static web pages that have different URLs.
 
+_Stack:_ Node.js
+
 ### Tutorial: [Visual regression testing with BackstopJS](https://github.com/wlsf82/backstopjs-example)
 
 Tutorial on how to use BackstopJS to run visual regression tests for web applications, starting with the basics and moving forward to more advanced stuff.
