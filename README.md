@@ -16,16 +16,6 @@ Bachelor in business management with an emphasis in system information analysis 
 ### QA engineer at [Qelp](http://qelp.com) (June 2018 - current job)
 I am working on defining a new software development process where quality is in our minds since the definition of the software requirements until the moment the software is already running in production. I am responsible for things like knowledge sharing sessions in things related to mindset, and technical stuff, such as how to create end-to-end tests, and visual regression tests. I'm also in charge of defining continuous integration and continuous delivery/deployment pipelines to ensure we get quick feedback while changing the software. Some of the activities I do in my day-to-day are participating in architecture meetings, pair programming with software engineers and UX/UI designers, and defining user stories together with product owners. I use to work remote occasionally.
 
-### QA engineer at [Backbase](https://backbase.com) (April 2018 - May 2018)
-I worked in a Scrum team developing and maintaining front-end tests (using Protractor and Cucumber) and back-end tests (using Rest-Assured) for a micro-services architecture application. Other of my responsibilities were managing test environments, reviewing code, pair programming with back-end and front-end developers, and maintaining continuous integration pipelines (with Jenkins and GoCD).
-I used to work remote occasionally.
-
-_Projects:_
-
-- [Backbase Retail Banking](https://backbase.com/solutions/retail-banking/)
-
-_Stack:_ NodeJS, Angular, AngularJS, Protractor, Cucumber, Java, Rest-Assured.
-
 ### Senior QA engineer at [appear.in](http://appear.in) (June 2016 - February 2018)
 I helped the team creating end-to-end tests with the [Protractor](http://www.protractortest.org/#/) framework and visual regression tests with [BackstopJS](https://github.com/garris/BackstopJS) (for the web application), and UI Tests with XCUI Test (for the iOS app), and these tests were executed in a CI/CD system ([gocd](http://gocd.org)) for each created pull request, providing fast feedback changes in the system. I was also responsible for maintaining the previously mentioned CI/CD system and its infrastructure, with approximately 30 pipelines as code.
 Every two months I was the on-call engineer, available 24/7 in case of production incidents, having to deal with things such as assessing the criticality of issues, accessing Linux servers and analyzing logs, analyzing git logs, working with monitoring tools like NewRelic, etc., in order to understand what was the issue and fixing it. I used to work remote occasionally.
