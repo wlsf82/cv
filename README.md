@@ -122,6 +122,28 @@ Team members: [raulovidiu](https://github.com/raulovidiu), [@wlsf82](https://git
 
 I mentor Jr. QAs in subjects related to test automation, agile testing, continuous integration, etc., to help them grow and be better professionals.
 
+## Books I read
+
+Below is a list of some books I read that helped me on being the professional I am today.
+
+- Getting Real - The smarter, faster, easier way to build a successful web application - from BaseCamp
+- The Lean startup - How constant innovation creates radically successful businesses - by Eric Ries
+- Continuous Delivery - Reliable software releases through build, test, and deployment automation - by Jez Humble, and David Farley
+- The Phoenix Project - A novel about IT, DevOps and helping your business win - by Gene Kim, Kevin Behr, and George Spafford
+- Extreme Programming - Embrace change - by Kent Beck
+- Extreme Programming - Practices for day to day agile software development, by Daniel Wild, Dionatan Moura, Guilherme Lacerda, and Rafael Helm
+- Clean Code - A handbook of agile software craftsmanship - by Robert C. Martin
+- The Clean Coder - A code of conduct for professional programmers - by Robert C. Martin
+- The Mantra of Productivity - Improve your productivity using focus techniques and personal organisation - by Dionatan Moura
+- To The Point - A receipt for creating lean products - by Paulo Caroli
+- The Flip Manifesto - 16 counterintuitive ideas about motivation, innovation, and leadership - by Daniel H. Pink
+- Release It - Design and deploy production-ready software - by Michael T. Nygard
+- Refactoring - Improve the design of existing code - by Martin Fowler
+- Agile Testing - A practical guide for testers and agile teams - by Lisa Crispin, and Janet Gregory
+- Pride and Paradev - A collection of agile software testing contradictions - by Alister Scott
+- Lean Analytics - Use data to build a better startup faster - by Alistair Croll, and Benjamin Yoskovitz
+- The Road to Learn React - by Robin Wieruch
+
 ## Recent courses:
 
 ### [OpenID Connect](http://openid.net/connect/)
