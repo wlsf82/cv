@@ -66,7 +66,7 @@ In March 2018 I launched an online school to teach test automation to new QAs or
 
 The school already have four courses, one with an introduction to test automation (theoretic and available for free), two about visual regression testing with BackstopJS (hands-on - one paid and one free), and another one about test architecture with the Protractor framework (also hands-on and paid).
 
-The school already have more than **600** students.
+The school already have more than **650** students.
 
 ### Book: [End to end testing with Protractor - Lessons learned about e2e test automation](https://leanpub.com/end-to-end-testing-with-protractor)
 
