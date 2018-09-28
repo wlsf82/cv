@@ -126,6 +126,7 @@ I mentor Jr. QAs in subjects related to test automation, agile testing, continuo
 
 Below is a list of some books I read that helped me on being the professional I am today.
 
+- How to change the world - Change management 3.0 - by Jurgen Appelo
 - Getting Real - The smarter, faster, easier way to build a successful web application - from BaseCamp
 - The Lean startup - How constant innovation creates radically successful businesses - by Eric Ries
 - Continuous Delivery - Reliable software releases through build, test, and deployment automation - by Jez Humble, and David Farley
@@ -134,6 +135,7 @@ Below is a list of some books I read that helped me on being the professional I 
 - Extreme Programming - Practices for day to day agile software development, by Daniel Wild, Dionatan Moura, Guilherme Lacerda, and Rafael Helm
 - Clean Code - A handbook of agile software craftsmanship - by Robert C. Martin
 - The Clean Coder - A code of conduct for professional programmers - by Robert C. Martin
+- Clean architecture - A craftsman's guide to software structure and design - by Robert C. Martin (currently reading)
 - The Mantra of Productivity - Improve your productivity using focus techniques and personal organisation - by Dionatan Moura
 - To The Point - A receipt for creating lean products - by Paulo Caroli
 - The Flip Manifesto - 16 counterintuitive ideas about motivation, innovation, and leadership - by Daniel H. Pink
