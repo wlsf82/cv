@@ -68,6 +68,10 @@ The school already have four courses, one with an introduction to test automatio
 
 The school already have more than **650** students.
 
+### Udemy course: [Introduction to test automation](https://www.udemy.com/introduction-to-test-automation)
+
+Learn test automation concepts at different application layers for the development of high quality systems.
+
 ### Book: [End to end testing with Protractor - Lessons learned about e2e test automation](https://leanpub.com/end-to-end-testing-with-protractor)
 
 In this book you will find a collection of practices to implement end to end test automation in the web applications development process, using the Protractor framework.
