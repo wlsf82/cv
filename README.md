@@ -139,11 +139,12 @@ Below is a list of some books I read that helped me on being the professional I 
 - Extreme Programming - Practices for day to day agile software development, by Daniel Wild, Dionatan Moura, Guilherme Lacerda, and Rafael Helm
 - Clean Code - A handbook of agile software craftsmanship - by Robert C. Martin
 - The Clean Coder - A code of conduct for professional programmers - by Robert C. Martin
-- Clean architecture - A craftsman's guide to software structure and design - by Robert C. Martin (currently reading)
+- Clean architecture - A craftsman's guide to software structure and design - by Robert C. Martin
 - The Mantra of Productivity - Improve your productivity using focus techniques and personal organisation - by Dionatan Moura
 - To The Point - A receipt for creating lean products - by Paulo Caroli
 - The Flip Manifesto - 16 counterintuitive ideas about motivation, innovation, and leadership - by Daniel H. Pink
 - Release It - Design and deploy production-ready software - by Michael T. Nygard
+- The DevOps handbook - How to create world-class agility, reliability, & security in technology organizations - by Gene Kim, Jez Humble, Patrick Debois & John Willis (currently reading)
 - Refactoring - Improve the design of existing code - by Martin Fowler
 - Agile Testing - A practical guide for testers and agile teams - by Lisa Crispin, and Janet Gregory
 - Pride and Paradev - A collection of agile software testing contradictions - by Alister Scott
