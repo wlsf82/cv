@@ -124,6 +124,11 @@ Team members: [raulovidiu](https://github.com/raulovidiu), [@wlsf82](https://git
 
 I mentor Jr. QAs in subjects related to test automation, agile testing, continuous integration, etc., to help them grow and be better professionals.
 
+### [Mentors without borders](https://www.mentorswithoutborders.net/)
+
+Mentors without borders is a group of volunteers who want to teach young people from all over the world how to enjoy the process of setting goals and taking steps towards these goals in their chosen fields. We believe that passion should be the main driver for everything that our students do because this is what will make them really efficient in pursuing their dreams.
+We also help connect the students who want to pursue a career in computer programming with experienced mentors in this field.
+
 ## Books I read
 
 Below is a list of some books I read that helped me on being the professional I am today.
