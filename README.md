@@ -155,6 +155,7 @@ Below is a list of some books I read that helped me on being the professional I 
 - The World is Flat - The globalized world in the twenty-first century - by Thomas L. Friedman
 - Hot, Flat, & Crowded - Why the world needs a green revolution - and how we can renew our global future - by Thomas L. Friedman
 - The Road to Learn React - by Robin Wieruch
+- The Road to GraphQL - by Robin Wieruch (currently reading)
 
 ## Recent courses:
 
