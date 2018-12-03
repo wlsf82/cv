@@ -162,6 +162,10 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
+### [The TDD Course for Beginners: Learn by Practicing 7 katas](https://www.udemy.com/draft/281018/) (in progress)
+
+Learn how to do Test Driven Development using Ruby within 4 hours.
+
 ### [OpenID Connect](http://openid.net/connect/)
 
 OpenID Connect 1.0 is a simple identity layer on top of the OAuth 2.0 protocol. This course introduces what is OpenID Connect, when it should be used, how it relates with OAuth 2.0 and how to use it securely.
