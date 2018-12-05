@@ -132,6 +132,11 @@ I mentor Jr. QAs in subjects related to test automation, agile testing, continuo
 Mentors without borders is a group of volunteers who want to teach young people from all over the world how to enjoy the process of setting goals and taking steps towards these goals in their chosen fields. We believe that passion should be the main driver for everything that our students do because this is what will make them really efficient in pursuing their dreams.
 We also help connect the students who want to pursue a career in computer programming with experienced mentors in this field.
 
+### [GraphQL Explorer](https://github.com/sebas5384/graphql-explorer)
+
+GraphQL Explorer is an application that helps you define entities related to your business domains, relate them, and then generate GraphQL schemas that can be used to connect different parts of your software, such as client and server.
+I have contributed to this project refactoring its documentation and I intend to contribute more, fixing issues, developing new features and helping on making an MVP.
+
 ## Books I read
 
 Below is a list of some books I read that helped me on being the professional I am today.
