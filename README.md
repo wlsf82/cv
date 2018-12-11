@@ -167,7 +167,11 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
-### [The TDD Course for Beginners: Learn by Practicing 7 katas](https://www.udemy.com/draft/281018/) (in progress)
+### Learn Ruby - [codecademy](https://www.codecademy.com/learn/learn-ruby) (in-progress)
+
+Learn to program in Ruby, a ﬂexible and beginner-friendly language used to create sites like Codecademy.
+
+### The TDD Course for Beginners: Learn by Practicing 7 katas - [Udemy](https://www.udemy.com/draft/281018/)
 
 Learn how to do Test Driven Development using Ruby within 4 hours.
 
