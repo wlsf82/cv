@@ -178,7 +178,7 @@ Introduction to Ruby, Control Flow, Looping, Arrays and Hashes, Blocks and Sorti
 
 Learn how to do Test Driven Development using Ruby within 4 hours.
 
-### Test-driven development - [codecademy](https://help.codecademy.com/hc/en-us/articles/115003950354-What-curriculum-is-covered-in-Test-Driven-Development-)
+### Test-Driven Development - [codecademy](https://help.codecademy.com/hc/en-us/articles/115003950354-What-curriculum-is-covered-in-Test-Driven-Development-)
 
 Why test? Fundamentals of Testing, Full-Stack Test-Driven Development, and the development of two full-stack web applications using outside-in TDD.
 
