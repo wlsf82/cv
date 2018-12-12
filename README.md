@@ -1,6 +1,6 @@
 # Walmyr Filho
 
-<a href="https://sourcerer.io/wlsf82"><img src="https://img.shields.io/badge/HTML-381%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/wlsf82"><img src="https://img.shields.io/badge/CSS-511%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/wlsf82"><img src="https://img.shields.io/badge/JavaScript-1488%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/wlsf82"><img src="https://img.shields.io/badge/TypeScript-23%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/wlsf82"><img src="https://img.shields.io/badge/Shell-112%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/wlsf82"><img src="https://img.shields.io/badge/PHP-125%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/wlsf82"><img src="https://img.shields.io/badge/Ruby-28%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/wlsf82"><img src="https://img.shields.io/badge/HTML-381%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/wlsf82"><img src="https://img.shields.io/badge/CSS-511%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/wlsf82"><img src="https://img.shields.io/badge/JavaScript-1493%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/wlsf82"><img src="https://img.shields.io/badge/TypeScript-23%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/wlsf82"><img src="https://img.shields.io/badge/Shell-112%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/wlsf82"><img src="https://img.shields.io/badge/PHP-125%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/wlsf82"><img src="https://img.shields.io/badge/Ruby-35%20commits-orange.svg" alt=""></a>
 
 **E-mail:** wlsf82@gmail.com<br />
 **Phone:** +31 06 15 18 91 75<br />
@@ -167,7 +167,7 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
-### Learn Ruby - [codecademy](https://www.codecademy.com/learn/learn-ruby) (in-progress)
+### Learn Ruby - [codecademy](https://www.codecademy.com/learn/learn-ruby) (in-progress - 80% complete)
 
 Learn to program in Ruby, a ﬂexible and beginner-friendly language used to create sites like Codecademy.
 
