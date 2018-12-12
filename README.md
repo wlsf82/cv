@@ -171,6 +171,9 @@ Below is a list of some books I read that helped me on being the professional I 
 
 Learn to program in Ruby, a ﬂexible and beginner-friendly language used to create sites like Codecademy.
 
+This course covers:
+Introduction to Ruby, Control Flow, Looping, Arrays and Hashes, Blocks and Sorting, Hashes and Symbols, Refactoring, Blocks, Procs, and Lambas, and finally, Object-Oriented Programming.
+
 ### The TDD Course for Beginners: Learn by Practicing 7 katas - [Udemy](https://www.udemy.com/draft/281018/)
 
 Learn how to do Test Driven Development using Ruby within 4 hours.
