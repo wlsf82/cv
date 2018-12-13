@@ -167,7 +167,11 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
-### Learn Ruby - [codecademy](https://www.codecademy.com/learn/learn-ruby) (in-progress - 80% complete)
+### Learn Ruby on Rails - [codecademy](https://www.codecademy.com/learn/learn-rails) (in-progress)
+
+Learn the basics of building applications with this convenient and powerful web development framework.
+
+### Learn Ruby - [codecademy](https://www.codecademy.com/learn/learn-ruby)
 
 Learn to program in Ruby, a ﬂexible and beginner-friendly language used to create sites like Codecademy.
 
