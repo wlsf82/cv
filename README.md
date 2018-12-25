@@ -56,7 +56,7 @@ _Projects:_
 - [Adoro Maquiagem](http://adoromaquiagem.com.br/)
 - [FIESC-SENAI Portal/Sistema Espaço do Estudante](http://estudante.sc.senai.br/)
 - [Preço Info](http://precoinfo.com.br)
-- [Blog Taller](https://blog.taller.net.br/author/walmyr-filho/)
+- [Blog Taller](https://blog.taller.net.br/author/walmyr/)
 
 _Stack:_ Drupal, HTML, CSS, Javascript, jQuery, SASS, Protractor, Cucumber and Vagrant.
 
