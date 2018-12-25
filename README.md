@@ -99,12 +99,6 @@ YouTube channel with hands-on videos about software test automation with the Pro
 
 NOTE: The content is in Portuguese.
 
-### Code lab: [Protractor and WebRTC](http://github.com/wlsf82/protractor-and-webrtc)
-
-Code lab to teach the basics of creating end-to-end tests with Protractor for WebRTC applications.
-
-_Stack:_ Node.js
-
 ### Node module: [protractor-helper](http://npmjs.com/package/protractor-helper)
 
 Library with different methods that can be used together with Protractor for creating robust end-to-end tests.
@@ -117,15 +111,30 @@ A sample project with a simple implementation of BackstopJS tests that can be us
 
 _Stack:_ Node.js
 
-### Tutorial: [Visual regression testing with BackstopJS](https://github.com/wlsf82/backstopjs-example)
-
-Tutorial on how to use BackstopJS to run visual regression tests for web applications, starting with the basics and moving forward to more advanced stuff.
-
-_Stack:_ Node.js
-
 ### Architecture proposal: [Protractor components and page objects](https://github.com/wlsf82/protractor-components-and-page-objects)
 
 Sample project to demonstrate an architecture proposal for writing GUI tests with Protractor using a concept of components, to have stable, reliable and maintainable end-to-end tests
+
+_Stack:_ Node.js
+
+### [Mentoring](https://talkingabouttesting.com/mentoria-coaching/)
+
+I mentor Jr. QAs in subjects related to test automation, agile testing, continuous integration, etc., to help them grow and be better professionals.
+
+### [Mentors without borders](https://www.mentorswithoutborders.net/)
+
+Mentors without borders is a group of volunteers who want to teach young people from all over the world how to enjoy the process of setting goals and taking steps towards these goals in their chosen fields. We believe that passion should be the main driver for everything that our students do because this is what will make them really efficient in pursuing their dreams.
+We also help connect the students who want to pursue a career in computer programming with experienced mentors in this field.
+
+### Code lab: [Protractor and WebRTC](http://github.com/wlsf82/protractor-and-webrtc)
+
+Code lab to teach the basics of creating end-to-end tests with Protractor for WebRTC applications.
+
+_Stack:_ Node.js
+
+### Tutorial: [Visual regression testing with BackstopJS](https://github.com/wlsf82/backstopjs-example)
+
+Tutorial on how to use BackstopJS to run visual regression tests for web applications, starting with the basics and moving forward to more advanced stuff.
 
 _Stack:_ Node.js
 
@@ -136,15 +145,6 @@ Project with Protractor tests to experiment the node module faker.js, used to ge
 _Stack:_ Node.js, ES2015
 
 Team members: [raulovidiu](https://github.com/raulovidiu), [@wlsf82](https://github.com/wlsf82)
-
-### [Mentoring](https://talkingabouttesting.com/mentoria-coaching/)
-
-I mentor Jr. QAs in subjects related to test automation, agile testing, continuous integration, etc., to help them grow and be better professionals.
-
-### [Mentors without borders](https://www.mentorswithoutborders.net/)
-
-Mentors without borders is a group of volunteers who want to teach young people from all over the world how to enjoy the process of setting goals and taking steps towards these goals in their chosen fields. We believe that passion should be the main driver for everything that our students do because this is what will make them really efficient in pursuing their dreams.
-We also help connect the students who want to pursue a career in computer programming with experienced mentors in this field.
 
 ### [GraphQL Explorer](https://github.com/sebas5384/graphql-explorer)
 
