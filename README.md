@@ -17,7 +17,21 @@ Bachelor in business management with an emphasis in system information analysis 
 ## Professional experience
 
 ### QA engineer at [Qelp](http://qelp.com) (June 2018 - current job)
-I am working on defining a new software development process where quality is in our minds since the definition of the software requirements until the moment the software is already running in production. I am responsible for things like knowledge sharing sessions in things related to mindset, and technical stuff, such as how to create end-to-end tests, and visual regression tests. I'm also in charge of defining continuous integration and continuous delivery/deployment pipelines to ensure we get quick feedback while changing the software. Some of the activities I do in my day-to-day are writing end to end and visual regression tests, participating in architecture meetings, pair programming with software engineers and UX/UI designers, code review, and defining user stories together with product owners. I use to work remote occasionally.
+I am helping on defining a new software development process where quality is in our minds since the definition of the software requirements until the moment it is running in production.
+Some of the activities I perform as a QA engineer at Qelp are:
+- writing automated graphical user interface functional tests;
+- writing automated acceptance tests;
+- writing automated visual regression tests;
+- defining and tunning continuous integration and continuous delivery/deployment pipelines;
+- code review;
+- extending the application to add testability into it;
+- writing business requirements together with the business analyst;
+- pair programming;
+- knowledge sharing sessions;
+- actively participating in software architecture meeting;
+- actively participating in scrum meetings;
+- debugging and fixing bugs;
+- refactoring code.
 
 _Stack:_ AWS, NodeJS, JavaScript, TypeScript, React, GraphQL, Apollo, Cypress, Protractor, and BackstopJS.
 
