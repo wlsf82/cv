@@ -200,9 +200,13 @@ Learn to program in Ruby, a ﬂexible and beginner-friendly language used to cre
 This course covers:
 Introduction to Ruby, Control Flow, Looping, Arrays and Hashes, Blocks and Sorting, Hashes and Symbols, Refactoring, Blocks, Procs, and Lambas, and finally, Object-Oriented Programming.
 
+Some of the code created based on the course can be found [here](https://github.com/wlsf82/ruby-exercises/tree/master/codecademy).
+
 ### The TDD Course for Beginners: Learn by Practicing 7 katas - [Udemy](https://www.udemy.com/draft/281018/)
 
 Learn how to do Test Driven Development using Ruby within 4 hours.
+
+The code created based on the course can be found [here](https://github.com/wlsf82/ruby-exercises/tree/master/udemy).
 
 ### Test-Driven Development - [codecademy](https://help.codecademy.com/hc/en-us/articles/115003950354-What-curriculum-is-covered-in-Test-Driven-Development-)
 
