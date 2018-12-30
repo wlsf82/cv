@@ -187,6 +187,12 @@ Below is a list of some books I read that helped me on being the professional I 
 
 Learn the basics of building applications with this convenient and powerful web development framework.
 
+#### The applications built during the course can be found through the below links:
+
+- https://gitlab.com/wlsf82/myapp
+- https://gitlab.com/wlsf82/messengerapp
+- https://gitlab.com/wlsf82/travelapp
+
 ### Learn Ruby - [codecademy](https://www.codecademy.com/learn/learn-ruby)
 
 Learn to program in Ruby, a ﬂexible and beginner-friendly language used to create sites like Codecademy.
