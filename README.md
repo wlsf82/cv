@@ -171,6 +171,7 @@ Below is a list of some books I read that helped me on being the professional I 
 - Release It - Design and deploy production-ready software - by Michael T. Nygard
 - The DevOps handbook - How to create world-class agility, reliability, & security in technology organizations - by Gene Kim, Jez Humble, Patrick Debois & John Willis (currently reading)
 - Refactoring - Improve the design of existing code - by Martin Fowler
+- Refactoring - Improve the design of existing code (second edition) - by Martin Fowler (currently reading)
 - Agile Testing - A practical guide for testers and agile teams - by Lisa Crispin, and Janet Gregory
 - Pride and Paradev - A collection of agile software testing contradictions - by Alister Scott
 - Lean Analytics - Use data to build a better startup faster - by Alistair Croll, and Benjamin Yoskovitz
