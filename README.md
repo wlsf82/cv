@@ -183,11 +183,15 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
-### Learn Ruby on Rails - [codecademy](https://www.codecademy.com/learn/learn-rails) (in-progress - 75% complete)
+### Ruby on Rails: Authentication - [codecademy](https://www.codecademy.com/learn/rails-auth) (in-progress)
+
+Learn how to add user sign up, login & logout functionality to your Rails applications.
+
+### Learn Ruby on Rails - [codecademy](https://www.codecademy.com/learn/learn-rails)
 
 Learn the basics of building applications with this convenient and powerful web development framework.
 
-#### The applications built during the course can be found through the below links:
+#### Some of the applications built during the course can be found through the below links on GitLab:
 
 - https://gitlab.com/wlsf82/myapp
 - https://gitlab.com/wlsf82/messengerapp
