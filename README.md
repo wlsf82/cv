@@ -183,7 +183,7 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
-### Ruby on Rails: Authentication - [codecademy](https://www.codecademy.com/learn/rails-auth) (in-progress)
+### Ruby on Rails: Authentication - [codecademy](https://www.codecademy.com/learn/rails-auth) (in-progress - 50% complete)
 
 Learn how to add user sign up, login & logout functionality to your Rails applications.
 
