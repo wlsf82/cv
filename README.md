@@ -16,7 +16,7 @@ Bachelor in business management with an emphasis in system information analysis 
 
 ## Professional experience
 
-### QA engineer at [Qelp](http://qelp.com) (June 2018 - current job)
+### QA engineer at [Qelp](http://qelp.com) (July 2018 - current job)
 I am helping on defining a new software development process where quality is in our minds since the definition of the software requirements until the moment it is running in production.
 Some of the activities I perform as a QA engineer at Qelp are:
 - writing automated graphical user interface functional tests;
