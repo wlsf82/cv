@@ -187,6 +187,10 @@ Below is a list of some books I read that helped me on being the professional I 
 
 This course covers the following subjects: introduction to Docker, Docker installation and setup, scalling tests using Selenium Grid, and scalling tests using Docker Swarm.
 
+#### Some of the learnings from the course can be found through the following public project on Gitlab:
+
+- https://gitlab.com/wlsf82/scaling-tests-with-docker
+
 ### Ruby on Rails: Authentication - [codecademy](https://www.codecademy.com/learn/rails-auth) (in-progress - 50% complete)
 
 Learn how to add user sign up, login & logout functionality to your Rails applications.
