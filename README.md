@@ -183,6 +183,10 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
+### Scaling Tests with Docker - [Test Automation University](https://testautomationu.applitools.com/scaling-tests-with-docker/)
+
+This course covers the following subjects: introduction to Docker, Docker installation and setup, scalling tests using Selenium Grid, and scalling tests using Docker Swarm.
+
 ### Ruby on Rails: Authentication - [codecademy](https://www.codecademy.com/learn/rails-auth) (in-progress - 50% complete)
 
 Learn how to add user sign up, login & logout functionality to your Rails applications.
