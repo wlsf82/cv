@@ -16,7 +16,24 @@ Bachelor in business management with an emphasis in system information analysis 
 
 ## Professional experience
 
-### QA engineer at [Qelp](http://qelp.com) (July 2018 - current job)
+### Senior Test Automation Engineer at [GitLab](https://gitlab.com) (March 2019 - current job)
+
+- Lead test automation implementation and provide guidance on testing approach for new feature development.
+- Create test plans for new features and steer the team to ensure test coverage based on the test plan.
+- Identify test gaps and prioritize adding coverage based on areas of risk.
+- Provide input into testing the security and scalability of the product.
+- Lead development of new tooling and infrastructure.
+- Implement new automation framework features with little guidance.
+- Recommend new test automation tools and processes that will improve our quality and velocity.
+- Take ownership of test failures and ensure that our CI system is reliable.
+- Mentor other engineers.
+- Occasionally contribute to the company blog.
+- Independently and regularly manage project schedules ensuring objectives are aligned with team/department goals.
+- Work on problems of diverse scope requiring independent evaluation of identifiable factors; recommend new approaches to resolve problems.
+
+_Stack:_ Ruby, Ruby on Rails and GitLab
+
+### QA engineer at [Qelp](http://qelp.com) (July 2018 - February 2019)
 I am helping on defining a new software development process where quality is in our minds since the definition of the software requirements until the moment it is running in production.
 Some of the activities I perform as a QA engineer at Qelp are:
 - writing automated graphical user interface functional tests;
