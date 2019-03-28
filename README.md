@@ -31,7 +31,7 @@ Bachelor in business management with an emphasis in system information analysis 
 - Independently and regularly manage project schedules ensuring objectives are aligned with team/department goals.
 - Work on problems of diverse scope requiring independent evaluation of identifiable factors; recommend new approaches to resolve problems.
 
-_Stack:_ Ruby, Ruby on Rails and GitLab
+_Stack:_ Ruby, Ruby on Rails and GitLab.
 
 ### QA engineer at [Qelp](http://qelp.com) (July 2018 - February 2019)
 I am helping on defining a new software development process where quality is in our minds since the definition of the software requirements until the moment it is running in production.
