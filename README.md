@@ -201,6 +201,10 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
+### Tips on Ruby programming - [GitHub step-by-step repo with tips to better code in Ruby](https://github.com/serradura/dicas-de-programacao-em-ruby)
+
+This "course" starts with a code that needs refactoring, and then it gives 12 tips to improve the code to use some of the Ruby best practices.
+
 ### Scaling Tests with Docker - [Test Automation University](https://testautomationu.applitools.com/scaling-tests-with-docker/)
 
 This course covers the following subjects: introduction to Docker, Docker installation and setup, scalling tests using Selenium Grid, and scalling tests using Docker Swarm.
