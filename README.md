@@ -186,18 +186,18 @@ Below is a list of some books I read that helped me on being the professional I 
 - To The Point - A receipt for creating lean products - by Paulo Caroli
 - The Flip Manifesto - 16 counterintuitive ideas about motivation, innovation, and leadership - by Daniel H. Pink
 - Release It - Design and deploy production-ready software - by Michael T. Nygard
-- The DevOps handbook - How to create world-class agility, reliability, & security in technology organizations - by Gene Kim, Jez Humble, Patrick Debois & John Willis (currently reading)
+- The DevOps handbook - How to create world-class agility, reliability, & security in technology organizations - by Gene Kim, Jez Humble, Patrick Debois & John Willis **(currently reading)**
 - Refactoring - Improve the design of existing code - by Martin Fowler
-- Refactoring - Improve the design of existing code (second edition) - by Martin Fowler (currently reading)
+- Refactoring - Improve the design of existing code (second edition) - by Martin Fowler **(currently reading)**
 - Agile Testing - A practical guide for testers and agile teams - by Lisa Crispin, and Janet Gregory
 - Pride and Paradev - A collection of agile software testing contradictions - by Alister Scott
-- Fifty Quick Ideas to Improve Your Tests - by Gojko Adzic, David Evans, and Tom Roden (currently reading)
+- Fifty Quick Ideas to Improve Your Tests - by Gojko Adzic, David Evans, and Tom Roden **(currently reading)**
 - Lean Analytics - Use data to build a better startup faster - by Alistair Croll, and Benjamin Yoskovitz
 - The World is Flat - The globalized world in the twenty-first century - by Thomas L. Friedman
 - Hot, Flat, & Crowded - Why the world needs a green revolution - and how we can renew our global future - by Thomas L. Friedman
 - Blue Ocean Strategy - How to create uncontested market space and make competition irrelevant - by W. Chan Kim and Renée Mauborgne
 - The Road to Learn React - by Robin Wieruch
-- The Road to GraphQL - by Robin Wieruch (currently reading)
+- The Road to GraphQL - by Robin Wieruch **(currently reading)**
 
 ## Recent courses:
 
