@@ -201,6 +201,7 @@ Below is a list of some books I read that helped me on being the professional I 
 - Lean Analytics - Use data to build a better startup faster - by Alistair Croll, and Benjamin Yoskovitz
 - The World is Flat - The globalized world in the twenty-first century - by Thomas L. Friedman
 - Hot, Flat, & Crowded - Why the world needs a green revolution - and how we can renew our global future - by Thomas L. Friedman
+- Sapiens - A Brief History of Humankind - by Yuval Harari
 - Blue Ocean Strategy - How to create uncontested market space and make competition irrelevant - by W. Chan Kim and Renée Mauborgne
 - The Road to Learn React - by Robin Wieruch
 - The Road to GraphQL - by Robin Wieruch **(currently reading)**
