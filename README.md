@@ -178,6 +178,7 @@ I have contributed to this project refactoring its documentation and I intend to
 
 Below is a list of some books I read that helped me on being the professional I am today.
 
+- The Goal - A process of ongoing improvement - by Eliyahu M. Goldratt, and Jeff Cox **(currently reading)**
 - How to change the world - Change management 3.0 - by Jurgen Appelo
 - Getting Real - The smarter, faster, easier way to build a successful web application - from BaseCamp
 - The Lean startup - How constant innovation creates radically successful businesses - by Eric Ries
