@@ -37,7 +37,7 @@ _Projects:_
 - [GitLab Enterprise Edition](https://gitlab.com/gitlab-org/gitlab-ee)
 - [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/)
 
-_Stack:_ Ruby, Ruby on Rails and GitLab.
+_Stack:_ Selenium, Capybara, Rspec, Docker, Ruby, Ruby on Rails and GitLab.
 
 ### QA engineer at [Qelp](http://qelp.com) (July 2018 - February 2019)
 I am helping on defining a new software development process where quality is in our minds since the definition of the software requirements until the moment it is running in production.
