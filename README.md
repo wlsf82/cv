@@ -209,6 +209,17 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
+### Selenium WebDriver with Ruby - [Test Automation University](https://testautomationu.applitools.com/selenium-webdriver-with-ruby/)
+
+WebDriver is a powerful framework to drive actions in the web browser. This course covers:
+
+- WebDriver basics and setting up WebDriver and Ruby
+- The API and common use cases/tests using WebDriver
+
+#### The learnings from the course can be found through the following public project on Gitlab (fork from the course):
+
+- https://github.com/wlsf82/webdriver-ruby-practice
+
 ### Tips on Ruby programming - [GitHub step-by-step repo with tips to better code in Ruby](https://github.com/serradura/dicas-de-programacao-em-ruby)
 
 This "course" starts with a code that needs refactoring, and then it gives 12 tips to improve the code to use some of the Ruby best practices.
