@@ -186,6 +186,7 @@ Below is a list of some books I read that helped me on being the professional I 
 - The Phoenix Project - A novel about IT, DevOps and helping your business win - by Gene Kim, Kevin Behr, and George Spafford
 - Extreme Programming - Embrace change - by Kent Beck
 - Extreme Programming - Practices for day to day agile software development, by Daniel Wild, Dionatan Moura, Guilherme Lacerda, and Rafael Helm
+- Building Software Teams - Ten best practices for effective software development - by Joost Visser **(currently reading)**
 - Clean Code - A handbook of agile software craftsmanship - by Robert C. Martin
 - The Clean Coder - A code of conduct for professional programmers - by Robert C. Martin
 - Clean architecture - A craftsman's guide to software structure and design - by Robert C. Martin
