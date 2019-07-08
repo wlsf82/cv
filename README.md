@@ -210,6 +210,10 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
+### Test-Driven Rails - [Thoughtbot](https://thoughtbot.com/upcase/test-driven-rails) (in-progress - 38% complete)
+
+Learn Test-Driven Rails Development using RSpec and Capybara in this series of tutorials. As part of the course, you can follow along with Josh as he lets his test drive through each of the steps needed to build out an application.
+
 ### Selenium WebDriver with Ruby - [Test Automation University](https://testautomationu.applitools.com/selenium-webdriver-with-ruby/)
 
 WebDriver is a powerful framework to drive actions in the web browser. This course covers:
