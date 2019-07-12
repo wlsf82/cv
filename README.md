@@ -210,6 +210,14 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
+### Learn Vue.js - [codecademy](https://www.codecademy.com/learn/learn-vue-js) (in-progress - 50% complete)
+
+Learn how to make front-end web apps with ease using Vue.js, an increasingly popular JavaScript front-end framework.
+
+#### The learnings from the course can be found through the following public project on Gitlab (fork from the course):
+
+- https://gitlab.com/wlsf82/learning-vuejs
+
 ### Test-Driven Rails - [Thoughtbot](https://thoughtbot.com/upcase/test-driven-rails) (in-progress - 38% complete)
 
 Learn Test-Driven Rails Development using RSpec and Capybara in this series of tutorials. As part of the course, you can follow along with Josh as he lets his test drive through each of the steps needed to build out an application.
