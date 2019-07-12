@@ -221,7 +221,7 @@ WebDriver is a powerful framework to drive actions in the web browser. This cour
 - WebDriver basics and setting up WebDriver and Ruby
 - The API and common use cases/tests using WebDriver
 
-#### The learnings from the course can be found through the following public project on Gitlab (fork from the course):
+#### The learnings from the course can be found through the following public project on Github (fork from the course):
 
 - https://github.com/wlsf82/webdriver-ruby-practice
 
