@@ -214,7 +214,7 @@ Below is a list of some books I read that helped me on being the professional I 
 
 Learn how to make front-end web apps with ease using Vue.js, an increasingly popular JavaScript front-end framework.
 
-#### The learnings from the course can be found through the following public project on Gitlab (fork from the course):
+#### The learnings from the course can be found through the following public project on Gitlab:
 
 - https://gitlab.com/wlsf82/learning-vuejs
 
