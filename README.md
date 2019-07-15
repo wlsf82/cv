@@ -274,7 +274,7 @@ Learn how to do test driven development using Ruby within 4 hours.
 
 The code created based on the course can be found [here](https://github.com/wlsf82/ruby-exercises/tree/master/udemy).
 
-### Test-Driven Development - [codecademy](https://help.codecademy.com/hc/en-us/articles/115003950354-What-curriculum-is-covered-in-Test-Driven-Development-)
+### Test-Driven Development - [codecademy](https://www.codecademy.com/learn/learn-testing-for-web-development)
 
 Why test? Fundamentals of testing, full-stack test-driven development, and the development of two full-stack web applications using outside-in TDD.
 
