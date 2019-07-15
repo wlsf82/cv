@@ -280,7 +280,7 @@ Why test? Fundamentals of testing, full-stack test-driven development, and the d
 
 ![Image of certificate](https://github.com/wlsf82/cv/blob/master/images/TDD%20certificate%20-%20Codecademy%20-%20Walmyr%20Filho.png)
 
-### Introduction to JavaScript - [codecademy](https://www.codecademy.com/en-US/learn/introduction-to-javascript)
+### Introduction to JavaScript - [codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
 
 Introduction to JavaScript variables, control flow, functions and higher-order functions, scope, arrays, loops, iterators, objects, advanced objects,  classes, browser compatibility and transpilation, intermediate JavaScript modules, promises, async-await, and finally, requests (with ES5, ES6 and ES7 syntax).
 
