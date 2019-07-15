@@ -218,7 +218,7 @@ Learn how to make front-end web apps with ease using Vue.js, an increasingly pop
 
 - https://gitlab.com/wlsf82/learning-vuejs
 
-### Test-Driven Rails - [Thoughtbot](https://thoughtbot.com/upcase/test-driven-rails) (in-progress - 38% complete)
+### Test-Driven Rails - [Thoughtbot](https://thoughtbot.com/upcase/test-driven-rails) (in-progress - 75% complete)
 
 Learn Test-Driven Rails Development using RSpec and Capybara in this series of tutorials. As part of the course, you can follow along with Josh as he lets his test drive through each of the steps needed to build out an application.
 
