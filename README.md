@@ -210,7 +210,7 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
-### Learn Vue.js - [codecademy](https://www.codecademy.com/learn/learn-vue-js) (in-progress - 50% complete)
+### Learn Vue.js - [codecademy](https://www.codecademy.com/learn/learn-vue-js)
 
 Learn how to make front-end web apps with ease using Vue.js, an increasingly popular JavaScript front-end framework.
 
