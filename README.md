@@ -210,7 +210,7 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
-### KMP I & KMP II - [Aspercom](http://aspercom.com.br/treinamento/) (in-progress)
+### KMP I & KMP II - [Aspercom](http://aspercom.com.br/treinamento/)
 
 Kanban System Design & Kanban Management Professional
 
