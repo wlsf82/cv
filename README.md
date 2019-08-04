@@ -104,7 +104,7 @@ _Stack:_ Javascript and PL/SQL
 
 In March 2018 I launched an online school to teach test automation to new QAs or even experienced professionals.
 
-The school already have more than **900** students and four courses, one with an introduction to test automation (theoretic and available for free), two about visual regression testing with BackstopJS (hands-on - one paid and one free), and another one about test architecture with the Protractor framework (also hands-on and paid).
+The school already have more than **900** students and five courses, one with an introduction to test automation (theoretic and available for free), two about visual regression testing with BackstopJS (hands-on - one paid and one free), one about test architecture with the Protractor framework (also hands-on and paid), and a brand new one about test automation with Cypress - basic (also hands-on and paid).
 
 ### Udemy course: [Introduction to test automation](https://www.udemy.com/introduction-to-test-automation)
 
