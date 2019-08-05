@@ -223,9 +223,11 @@ Learn how to make front-end web apps with ease using Vue.js, an increasingly pop
 
 - https://gitlab.com/wlsf82/learning-vuejs
 
-### Test-Driven Rails - [Thoughtbot](https://thoughtbot.com/upcase/test-driven-rails) (in-progress - 75% complete)
+### Test-Driven Rails - [Thoughtbot](https://thoughtbot.com/upcase/test-driven-rails)
 
 Learn Test-Driven Rails Development using RSpec and Capybara in this series of tutorials. As part of the course, you can follow along with Josh as he lets his test drive through each of the steps needed to build out an application.
+
+This course covers testing at all the levels of a Rails application and it helps on getting a new level of confidence in Rails apps - TDD is a great way to build robust and clean code.
 
 ### Selenium WebDriver with Ruby - [Test Automation University](https://testautomationu.applitools.com/selenium-webdriver-with-ruby/)
 
