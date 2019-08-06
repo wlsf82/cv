@@ -215,6 +215,10 @@ Below is a list of some books I read that helped me on being the professional I 
 
 Kanban System Design & Kanban Management Professional
 
+![Image of certificate](https://github.com/wlsf82/cv/blob/master/images/KMP%20I.png)
+
+![Image of certificate](https://github.com/wlsf82/cv/blob/master/images/KMP%20II.png)
+
 ### Learn Vue.js - [codecademy](https://www.codecademy.com/learn/learn-vue-js)
 
 Learn how to make front-end web apps with ease using Vue.js, an increasingly popular JavaScript front-end framework.
