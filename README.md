@@ -33,8 +33,8 @@ Bachelor in business management with an emphasis in system information analysis 
 
 _Projects:_
 
-- [GitLab Community Edition](https://gitlab.com/gitlab-org/gitlab-ce/)
-- [GitLab Enterprise Edition](https://gitlab.com/gitlab-org/gitlab-ee)
+- [GitLab Community Edition](https://gitlab.com/gitlab-org/gitlab-foss)
+- [GitLab Enterprise Edition](https://gitlab.com/gitlab-org/gitlab)
 - [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/)
 
 _Stack:_ Selenium, Capybara, Rspec, Docker, Ruby, Ruby on Rails and GitLab.
