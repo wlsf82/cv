@@ -40,7 +40,7 @@ _Projects:_
 _Stack:_ Selenium, Capybara, Rspec, Docker, Ruby, Ruby on Rails, VueJS, and GitLab.
 
 ### QA engineer at [Qelp](http://qelp.com) (July 2018 - February 2019)
-I am helping on defining a new software development process where quality is in our minds since the definition of the software requirements until the moment it is running in production.
+I helped on defining a new software development process where quality is in our minds since the definition of the software requirements until the moment it is running in production.
 Some of the activities I perform as a QA engineer at Qelp are:
 - writing automated graphical user interface functional tests;
 - writing automated acceptance tests;
