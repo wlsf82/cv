@@ -211,6 +211,11 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
+### Introduction to Cypress - [Test Automation University](https://testautomationu.applitools.com/cypress-tutorial/) (in-progress - 37.5% complete)
+
+This course covers:
+Setting up Cypress, writing the first test, accessing elements and interacting with them, validations, grouping tests with Mocha, Cypress CLI, Page Objects in Cypress, and visual validation.
+
 ### KMP I & KMP II - [Aspercom](http://aspercom.com.br/treinamento/)
 
 Kanban System Design & Kanban Management Professional
