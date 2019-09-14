@@ -77,6 +77,7 @@ _Projects:_
 - [Natura Relatório Anual](http://www.natura.com.br/relatorio-anual)
 - [Natura Consumidor Final](http://www.natura.com.br/)
 - [Adoro Maquiagem](http://adoromaquiagem.com.br/)
+- [Drupal PECE](https://github.com/PECE-project/drupal-pece)
 - [FIESC-SENAI Portal/Sistema Espaço do Estudante](http://estudante.sc.senai.br/)
 - [Preço Info](http://precoinfo.com.br)
 - [Blog Taller](https://blog.taller.net.br/author/walmyr/)
