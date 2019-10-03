@@ -184,6 +184,7 @@ Below is a list of some books I read that helped me on being the professional I 
 - How to change the world - Change management 3.0 - by Jurgen Appelo
 - Getting Real - The smarter, faster, easier way to build a successful web application - from BaseCamp
 - The Lean startup - How constant innovation creates radically successful businesses - by Eric Ries
+- Dive Into Design Patters - by Alexander Shvets **(currently reading)**
 - Continuous Delivery - Reliable software releases through build, test, and deployment automation - by Jez Humble, and David Farley
 - The Phoenix Project - A novel about IT, DevOps and helping your business win - by Gene Kim, Kevin Behr, and George Spafford
 - Extreme Programming - Embrace change - by Kent Beck
