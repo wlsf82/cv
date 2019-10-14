@@ -214,6 +214,11 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
+### Web Element Locator Strategies - [Test Automation University](https://testautomationu.applitools.com/web-element-locator-strategies/) (in-progress - 50% complete)
+
+This course covers:
+What's in a Web page, programming with the DOM, finding live Web elements, CSS selectors, XPaths, advanced XPaths, picking the right locator, and using locators for testing.
+
 ### Introduction to Cypress - [Test Automation University](https://testautomationu.applitools.com/cypress-tutorial/)
 
 This course covers:
