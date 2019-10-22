@@ -214,6 +214,11 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
+### The Whole Team Approach to Continuous Testing - [Test Automation University](https://testautomationu.applitools.com/the-whole-team-approach-to-continuous-testing/)
+
+This course covers:
+Continuous testing, The Whole Team Approach, How to Tackle Automation without an Expert, Working Solo, Pairing Up, The Mob Approach, and The Need to Experiment.
+
 ### Web Element Locator Strategies - [Test Automation University](https://testautomationu.applitools.com/web-element-locator-strategies/)
 
 This course covers:
