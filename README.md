@@ -214,6 +214,17 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
+### Testing of modern applications with Cypress - [Udemy](https://www.udemy.com/course/testes-cypress/) (in-progress)
+
+This course covers:
+- How to create a project of automated tests with Cypress from scratch
+- How to interact with the most common HTML elements
+- Strategies to manage test data used by tests
+- Strategies of locators
+- How Cypress synchronize test scripts
+- How to test Rest APIs
+- How to mock Rest API calls to test frontend components independently of the backend
+
 ### The Whole Team Approach to Continuous Testing - [Test Automation University](https://testautomationu.applitools.com/the-whole-team-approach-to-continuous-testing/)
 
 This course covers:
