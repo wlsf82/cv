@@ -214,6 +214,10 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
+### Testing NuBank clone mobile app with Robot framework - [QA Ninja](https://www.qaninja.io)
+
+![Image of certificate](./images/robot-framework-certificate-walmyr.png)
+
 ### Testing of modern applications with Cypress - [Udemy](https://www.udemy.com/course/testes-cypress/) (in-progress)
 
 This course covers:
