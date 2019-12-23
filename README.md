@@ -248,9 +248,9 @@ Setting up Cypress, writing the first test, accessing elements and interacting w
 
 Kanban System Design & Kanban Management Professional
 
-![Image of certificate](https://github.com/wlsf82/cv/blob/master/images/KMP%20I.png)
+![Image of certificate](./images/KMP%20I.png)
 
-![Image of certificate](https://github.com/wlsf82/cv/blob/master/images/KMP%20II.png)
+![Image of certificate](./images/KMP%20II.png)
 
 ### Learn Vue.js - [codecademy](https://www.codecademy.com/learn/learn-vue-js)
 
@@ -322,7 +322,7 @@ The code created based on the course can be found [here](https://github.com/wlsf
 
 Why test? Fundamentals of testing, full-stack test-driven development, and the development of two full-stack web applications using outside-in TDD.
 
-![Image of certificate](https://github.com/wlsf82/cv/blob/master/images/TDD%20certificate%20-%20Codecademy%20-%20Walmyr%20Filho.png)
+![Image of certificate](./images/TDD%20certificate%20-%20Codecademy%20-%20Walmyr%20Filho.png)
 
 ### Introduction to JavaScript - [codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
 
@@ -330,4 +330,4 @@ Introduction to JavaScript variables, control flow, functions and higher-order f
 
 ### Advanced WebRTC Architecture course - [BlogGeek.me](https://bloggeek.me/course/webrtc-architecture/)
 
-![Image of certificate](https://github.com/wlsf82/cv/blob/master/images/bloggeek.me%20certificate%20-%20advanced%20webrtc%20architecture%20course.png)
+![Image of certificate](./images/bloggeek.me%20certificate%20-%20advanced%20webrtc%20architecture%20course.png)
