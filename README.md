@@ -111,6 +111,10 @@ The school already has more than **1200** students and six courses. An introduct
 
 Learn test automation concepts at different application layers for the development of high quality systems.
 
+### Udemy course: [Test automation with Cypress basic](https://www.udemy.com/course/test-automation-with-cypress-basic/)
+
+Learn how to write fast and reliable tests in a simple and objective way.
+
 ### Book: [End to end testing with Protractor - Lessons learned about e2e test automation](https://leanpub.com/end-to-end-testing-with-protractor)
 
 In this book you will find a collection of practices to implement end to end test automation in the web applications development process, using the Protractor framework.
