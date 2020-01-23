@@ -105,7 +105,7 @@ _Stack:_ Javascript and PL/SQL
 
 In March of 2018 I launched an online school to teach test automation to new QAs or even experienced professionals.
 
-The school already has more than **1100** students and six courses. An introductory course on test automation, two courses about the Cypress framework, one course about the Protractor framework, and two courses about visual regression testing.
+The school already has more than **1200** students and six courses. An introductory course on test automation, two courses about the Cypress framework, one course about the Protractor framework, and two courses about visual regression testing.
 
 ### Udemy course: [Introduction to test automation](https://www.udemy.com/introduction-to-test-automation)
 
