@@ -115,6 +115,10 @@ Learn test automation concepts at different application layers for the developme
 
 Learn how to write fast and reliable tests in a simple and objective way.
 
+### Udemy course: [Test automation with Cypress intermediate](https://www.udemy.com/course/test-automation-with-cypress-intermediate/)
+
+Optimize GUI tests with API calls
+
 ### Book: [End to end testing with Protractor - Lessons learned about e2e test automation](https://leanpub.com/end-to-end-testing-with-protractor)
 
 In this book you will find a collection of practices to implement end to end test automation in the web applications development process, using the Protractor framework.
