@@ -338,6 +338,6 @@ Why test? Fundamentals of testing, full-stack test-driven development, and the d
 
 Introduction to JavaScript variables, control flow, functions and higher-order functions, scope, arrays, loops, iterators, objects, advanced objects,  classes, browser compatibility and transpilation, intermediate JavaScript modules, promises, async-await, and finally, requests (with ES5, ES6 and ES7 syntax).
 
-### Advanced WebRTC Architecture course - [BlogGeek.me](https://bloggeek.me/course/webrtc-architecture/)
+### Advanced WebRTC Architecture course - [BlogGeek.me](https://webrtccourse.com/course/webrtc-architecture/)
 
 ![Image of certificate](./images/bloggeek.me%20certificate%20-%20advanced%20webrtc%20architecture%20course.png)
