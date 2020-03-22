@@ -220,6 +220,10 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
+### Learn Node.js - [Codecademy](https://www.codecademy.com/learn/learn-node-js)
+
+Learn about the different components of a web application's back-end and explore the Node.js JavaScript runtime environment.
+
 ### Agile Development Using Ruby on Rails - The Basics - [EDX](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=2ahUKEwiu0r3hjsjnAhWsM-wKHUuJDQYQFjADegQIBRAB&url=https%3A%2F%2Fwww.edx.org%2Fcourse%2Fagile-development-using-ruby-on-rails-advanced&usg=AOvVaw1X9E9gO17XKhAzzxHiWXXF) (in-progress)
 
 Learn how to apply Agile techniques to enhance and refactor legacy code to become a true Ruby on Rails developer.
