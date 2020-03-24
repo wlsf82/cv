@@ -221,6 +221,14 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
+### Introduction to TypeScript 2 - [edX](https://www.edx.org/course/introduction-to-typescript-2) (in-progress)
+
+Learn all the basics of TypeScript to build great web applications. TypeScript is the future of web development.
+
+### Asynchronous JavaScript - [Codecademy](https://www.codecademy.com/learn/asynchronous-javascript)
+
+Learn how to write asynchronous JavaScript using promises and async await syntax!
+
 ### Learn Node.js - [Codecademy](https://www.codecademy.com/learn/learn-node-js)
 
 Learn about the different components of a web application's back-end and explore the Node.js JavaScript runtime environment.
