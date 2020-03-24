@@ -5,6 +5,7 @@
 **Website:** https://walmyr-filho.com<br />
 **Medium:** https://medium.com/@walmyrlimaesilv<br />
 **Blog:** https://talkingabouttesting.com<br />
+**Codecademy profile:** https://www.codecademy.com/profiles/wlsf82<br />
 **Location:** Amsterdam, Netherlands<br />
 
 I'm a software engineer that loves testing, but I'm also a clean coder, blogger, YouTuber, writer, online teacher, mentor, speaker at conferences, an active member of technology communities and fan of good music, tattoos, and skateboarding.
