@@ -237,24 +237,9 @@ Learn how to write asynchronous JavaScript using promises and async await syntax
 
 Learn about the different components of a web application's back-end and explore the Node.js JavaScript runtime environment.
 
-### Agile Development Using Ruby on Rails - The Basics - [edX](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=2ahUKEwiu0r3hjsjnAhWsM-wKHUuJDQYQFjADegQIBRAB&url=https%3A%2F%2Fwww.edx.org%2Fcourse%2Fagile-development-using-ruby-on-rails-advanced&usg=AOvVaw1X9E9gO17XKhAzzxHiWXXF) (in-progress)
-
-Learn how to apply Agile techniques to enhance and refactor legacy code to become a true Ruby on Rails developer.
-
 ### Testing NuBank clone mobile app with Robot framework - [QA Ninja](https://www.qaninja.io)
 
 ![Image of certificate](./images/robot-framework-certificate-walmyr.png)
-
-### Testing of modern applications with Cypress - [Udemy](https://www.udemy.com/course/testes-cypress/) (in-progress)
-
-This course covers:
-- How to create a project of automated tests with Cypress from scratch
-- How to interact with the most common HTML elements
-- Strategies to manage test data used by tests
-- Strategies of locators
-- How Cypress synchronize test scripts
-- How to test Rest APIs
-- How to mock Rest API calls to test frontend components independently of the backend
 
 ### The Whole Team Approach to Continuous Testing - [Test Automation University](https://testautomationu.applitools.com/the-whole-team-approach-to-continuous-testing/)
 
@@ -315,10 +300,6 @@ This course covers the following subjects: introduction to Docker, Docker instal
 #### Some of the learnings from the course can be found through the following public project on Gitlab:
 
 - https://gitlab.com/wlsf82/scaling-tests-with-docker
-
-### Ruby on Rails: Authentication - [codecademy](https://www.codecademy.com/learn/rails-auth) (in-progress - 50% complete)
-
-Learn how to add user sign up, login & logout functionality to your Rails applications.
 
 ### Learn Ruby on Rails - [codecademy](https://www.codecademy.com/learn/learn-rails)
 
