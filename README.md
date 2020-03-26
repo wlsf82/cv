@@ -221,6 +221,10 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
+### JavaScript Errors and Debugging - [Codecademy](https://www.codecademy.com/courses/javascript-errors-debugging) (in-progress)
+
+Learn how to debug and handle errors in your code!
+
 ### Introduction to TypeScript 2 - [edX](https://www.edx.org/course/introduction-to-typescript-2) (in-progress)
 
 Learn all the basics of TypeScript to build great web applications. TypeScript is the future of web development.
