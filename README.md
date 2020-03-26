@@ -29,6 +29,7 @@ Bachelor in business management with an emphasis in system information analysis 
 - Occasionally contribute to the company blog
 - Independently and regularly manage project schedules ensuring objectives are aligned with team/department goals
 - Work on problems of diverse scope requiring independent evaluation of identifiable factors; recommend new approaches to resolve problems
+- Work 100% remote
 
 _Projects:_
 
