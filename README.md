@@ -222,7 +222,7 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
-### JavaScript Errors and Debugging - [Codecademy](https://www.codecademy.com/courses/javascript-errors-debugging) (in-progress)
+### JavaScript Errors and Debugging - [Codecademy](https://www.codecademy.com/courses/javascript-errors-debugging)
 
 Learn how to debug and handle errors in your code!
 
