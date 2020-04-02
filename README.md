@@ -226,7 +226,7 @@ Below is a list of some books I read that helped me on being the professional I 
 
 Learn the Document Object Model, the interface between JavaScript and HTML elements, and combine HTML, CSS, and JavaScript into exciting interactive sites!
 
-#### Some of the applications built during the course can be found through the below links:
+#### The applications built during the course can be found through the below links:
 
 - https://chore-door.s3.eu-central-1.amazonaws.com/index.html
 - https://piano-player.s3.eu-central-1.amazonaws.com/index.html
