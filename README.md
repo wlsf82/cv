@@ -222,7 +222,7 @@ Below is a list of some books I read that helped me on being the professional I 
 
 ## Recent courses:
 
-### Building Interactive JavaScript Websites - [Codecademy](https://www.codecademy.com/learn/build-interactive-websites) (in-progress)
+### Building Interactive JavaScript Websites - [Codecademy](https://www.codecademy.com/learn/build-interactive-websites)
 
 Learn the Document Object Model, the interface between JavaScript and HTML elements, and combine HTML, CSS, and JavaScript into exciting interactive sites!
 
@@ -230,6 +230,7 @@ Learn the Document Object Model, the interface between JavaScript and HTML eleme
 
 - https://chore-door.s3.eu-central-1.amazonaws.com/index.html
 - https://piano-player.s3.eu-central-1.amazonaws.com/index.html
+- https://musicon-codecademy.s3.eu-central-1.amazonaws.com/index.html
 
 ### JavaScript Errors and Debugging - [Codecademy](https://www.codecademy.com/courses/javascript-errors-debugging)
 
