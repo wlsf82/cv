@@ -17,18 +17,19 @@ Bachelor in business management with an emphasis on system information analysis 
 
 ### Senior Software Engineer in Test at [GitLab](https://gitlab.com) (March 2019 - current job)
 
-- Lead test automation implementation and guide testing approaches for new feature development
-- Create test plans for new features and steer the team to ensure test coverage based on the test plan
-- Identify test gaps and prioritize adding coverage based on areas of risk
-- Provide input into testing the security and scalability of the product
-- Lead development of new tooling and infrastructure
-- Implement new automation framework features with little guidance
-- Recommend new test automation tools and processes that will improve our quality and velocity
-- Take ownership of test failures and ensure that our CI system is reliable
-- Mentor other engineers
-- Independently and regularly manage project schedules ensuring objectives are aligned with team/department goals
-- Work on problems of diverse scope requiring independent evaluation of identifiable factors; recommend new approaches to resolve problems
-- Work 100% remote
+Some of the activities I perform as a SET at GitLab are:
+
+- Leading test automation implementation and guiding testing approaches for new feature development
+- Identifying test gaps and prioritizing adding coverage based on areas of risk
+- Providing input into testing the security and scalability of the product
+- Leading development of new tooling and infrastructure
+- Implementing new automation framework features with little guidance
+- Recommending new test automation tools and processes that will improve quality and velocity
+- Taking ownership of test failures and ensuring that the CI system is reliable
+- Mentoring other engineers
+- Independently and regularly managing project schedules ensuring objectives are aligned with team/department goals
+- Working on problems of diverse scope requiring independent evaluation of identifiable factors; recommending new approaches to resolve problems
+- At GitLab I work 100% remote
 
 _Projects:_
 
