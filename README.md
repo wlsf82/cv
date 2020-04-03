@@ -1,12 +1,12 @@
 # Walmyr Filho
 
-**E-mail:** wlsf82@gmail.com<br />
-**Phone:** +31 06 15 18 91 75<br />
-**Website:** https://walmyr-filho.com<br />
-**Medium:** https://medium.com/@walmyrlimaesilv<br />
-**Blog:** https://talkingabouttesting.com<br />
-**Codecademy:** https://www.codecademy.com/profiles/wlsf82<br />
-**Location:** Amsterdam, Netherlands<br />
+**E-mail:** wlsf82@gmail.com  
+**Phone:** +31 06 15 18 91 75  
+**Website:** https://walmyr-filho.com  
+**Medium:** https://medium.com/@walmyrlimaesilv  
+**Blog:** https://talkingabouttesting.com  
+**Codecademy:** https://www.codecademy.com/profiles/wlsf82  
+**Location:** Amsterdam, Netherlands  
 
 I'm a software engineer that loves testing. I'm also a clean coder, blogger, YouTuber, writer, online teacher, mentor, speaker at conferences, an active member of technology communities, and a fan of good music, tattoos, and skateboarding.
 
