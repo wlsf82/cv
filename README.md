@@ -172,33 +172,33 @@ In this book, you will find a collection of practices to implement end-to-end te
 
 NOTE: This book is also available in Portuguese through the following [link](http://casadocodigo.com.br/products/livro-protractor).
 
-### YouTube channel: [Talking About Testing](https://www.youtube.com/user/wlsf82/videos)
+### YouTube channel: [Talking About Testing](https://www.youtube.com/talkingabouttesting)
 
-YouTube channel with hands-on videos about software test automation with the Protractor framework (from the basics until more advanced things).
+This project is a YouTube channel with hands-on videos about test automation, group conversations, mentoring sessions, and career-related topics.
 
 NOTE: The content is in Portuguese.
 
 ### Node module: [protractor-helper](http://npmjs.com/package/protractor-helper)
 
-Library with different methods that can be used together with Protractor for creating robust end-to-end tests.
+This project is a library with different methods that can be used together with Protractor for creating robust and flakiness-free end-to-end tests.
 
 _Stack:_ Node.js
 
 ### [backstop-config](https://github.com/wlsf82/backstop-config)
 
-A sample project with a simple implementation of BackstopJS tests that can be used by anyone who needs to run screenshot comparison tests in static web pages that have different URLs.
+This project has a simple implementation of BackstopJS tests that can be used by anyone who needs to run screenshot comparison tests in static web pages that have different URLs.
 
 _Stack:_ Node.js
 
 ### Architecture proposal: [Protractor components and page objects](https://github.com/wlsf82/protractor-components-and-page-objects)
 
-Sample project to demonstrate an architecture proposal for writing GUI tests with Protractor using a concept of components, to have stable, reliable and maintainable end-to-end tests
+In this project, I demonstrate an architecture proposal for writing GUI tests with Protractor using a concept of components, to have stable, reliable, and maintainable end-to-end tests.
 
 _Stack:_ Node.js
 
 ### [Mentoring](https://talkingabouttesting.com/mentoria-coaching/)
 
-I mentor Jr. QAs in subjects related to test automation, agile testing, continuous integration, etc., to help them grow and be better professionals.
+In this project, I mentor junior QAs in subjects related to test automation, agile testing, continuous integration, DevOps, and career, to help them grow and be better professionals.
 
 ### [Mentors without borders](https://www.mentorswithoutborders.net/)
 
