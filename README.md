@@ -39,6 +39,7 @@ _Projects:_
 _Stack:_ Selenium, Capybara, Rspec, Docker, Ruby, Ruby on Rails, VueJS, and GitLab.
 
 ### QA engineer at [Qelp](http://qelp.com) (July 2018 - February 2019)
+
 I helped on defining a new software development process where quality is in mind since the definition of the software requirements until the moment it is running in production.
 Some of the activities I performed as a QA engineer at Qelp were:
 - Writing automated graphical user interface functional tests;
@@ -58,6 +59,7 @@ Some of the activities I performed as a QA engineer at Qelp were:
 _Stack:_ AWS, NodeJS, JavaScript, TypeScript, React, GraphQL, Apollo, Cypress, Protractor, BackstopJS, SemaphoreCI and Jenkins.
 
 ### Senior QA engineer at [appear.in](http://appear.in) (June 2016 - February 2018)
+
 I helped the team creating end-to-end tests with the [Protractor](http://www.protractortest.org/#/) framework and visual regression tests with [BackstopJS](https://github.com/garris/BackstopJS) (for the web application), and UI Tests with XCUI Test (for the iOS app), and these tests were executed in a CI/CD system ([gocd](http://gocd.org)) for each created pull request, providing fast feedback while changing the system. I was also responsible for maintaining the previously mentioned CI/CD system and its infrastructure, with approximately 30 pipelines as code.
 Every two months I was the on-call engineer, available 24/7 in case of production incidents, having to deal with things such as assessing the criticality of issues, accessing Linux servers and analyzing logs, analyzing git logs, working with monitoring tools like NewRelic, etc., in order to understand what was the issue and fixing it. I used to work remote occasionally.
 
@@ -69,6 +71,7 @@ _Projects:_
 _Stack:_ NodeJS, AngularJS, React, Protractor, Selenium Webdriver JS, BackstopJS, XCUI Test, AWS, Terraform, Jenkins and GoCD.
 
 ### Software developer and agile testing coach at [Taller Digital Business](http://taller.net.br/en/) (June 2014 – May 2016)
+
 At first, I was hired as QA engineer to create automated acceptance tests in Gherkin format with Cucumber (in Ruby language), but with some time I helped the company in a big transformation, where software test was not a phase during the software development process anymore, but part of it. In this transformation I changed my position to a software developer, helping the team on developing features, fixing bugs, performing refactoring, and also as an agile testing coach, sharing knowledge about agile testing throughout all the company, and helping the team on building a mindset where everyone is responsible for the quality of the software developed. At this position, I worked firstly using Scrum, and then we evolved for using Kanban and a continuous flow. I used to work remote occasionally.
 
 _Projects:_
@@ -85,11 +88,13 @@ _Stack:_ Drupal, HTML, CSS, Javascript, jQuery, SASS, Protractor, Cucumber, Vagr
 
 
 ### QA at [ADP](https://www.adp.com) (April 2011 – May 2014)
+
 At APD I worked in two different projects (both as QA analyst), but in the first one I developed automated tests in Java (using Selenium), and in the second one I developed automated tests in VBScript (using QTP). Also, here I had my first contact with agile methodologies, such as Scrum, and I was the leader of an internal project called Tech Talks. I used to work remote occasionally.
 
 _Stack:_ Java, VBScript, SQL and Jenkins.
 
 ### Manual and automated test analyst at [Good Card](http://goodcard.com.br) (November 2009 - March 2011)
+
 In this job I had my first contact with software test automation, having to make my manager understand that software test automation is not about record and playback. At this company, I started the creation of a test automation framework for web applications. Part of my job was also creating unit tests for database triggers and procedures (since many business rules were in the database), creating and executing manual test cases, and managing bugs. At this job I had also a small experience as software developer, writing PL/SQL code.
 
 _Projects:_
