@@ -26,7 +26,6 @@ Bachelor in business management with an emphasis on system information analysis 
 - Recommend new test automation tools and processes that will improve our quality and velocity
 - Take ownership of test failures and ensure that our CI system is reliable
 - Mentor other engineers
-- Occasionally contribute to the company blog
 - Independently and regularly manage project schedules ensuring objectives are aligned with team/department goals
 - Work on problems of diverse scope requiring independent evaluation of identifiable factors; recommend new approaches to resolve problems
 - Work 100% remote
