@@ -78,16 +78,28 @@ _Stack:_ NodeJS, AngularJS, React, Protractor, Selenium Webdriver JS, BackstopJS
 
 ### Software developer and agile testing coach at [Taller Digital Business](http://taller.net.br/en/) (June 2014 – May 2016)
 
-At first, I was hired as QA engineer to create automated acceptance tests in Gherkin format with Cucumber (in Ruby language), but with some time I helped the company in a big transformation, where software test was not a phase during the software development process anymore, but part of it. In this transformation I changed my position to a software developer, helping the team on developing features, fixing bugs, performing refactoring, and also as an agile testing coach, sharing knowledge about agile testing throughout all the company, and helping the team on building a mindset where everyone is responsible for the quality of the software developed. At this position, I worked firstly using Scrum, and then we evolved for using Kanban and a continuous flow. I used to work remote occasionally.
+At first, I was hired as a QA engineer to create automated acceptance tests in Gherkin format with Cucumber (in Ruby language).
+
+After some time, I helped the company in a significant transformation, where software testing was not a phase during the software development process anymore, but part of it.
+
+During this transformation, I changed my position to a software developer.
+
+As a software developer, I helped the team develop features, fixing bugs, writing tests, and refactoring code.
+
+At Taller, I also had the role of an agile testing coach. As so, I used to share knowledge about agile testing throughout all the company, and help the team on building a mindset where everyone is responsible for the quality of the developed software.
+
+At this position, I worked firstly using Scrum, and then we evolved for using Kanban and continuous flow.
+
+I used to work remotely occasionally.
 
 _Projects:_
 
-- [Natura Relatório Anual](http://www.natura.com.br/relatorio-anual)
-- [Natura Consumidor Final](http://www.natura.com.br/)
-- [Adoro Maquiagem](http://adoromaquiagem.com.br/)
+- [Natura Relatório Anual](https://www.natura.com.br/relatorio-anual)
+- [Natura Consumidor Final](https://www.natura.com.br/)
+- [Adoro Maquiagem](https://adoromaquiagem.com.br/)
 - [Drupal PECE](https://github.com/PECE-project/drupal-pece)
-- [FIESC-SENAI Portal/Sistema Espaço do Estudante](http://estudante.sc.senai.br/)
-- [Preço Info](http://precoinfo.com.br)
+- [FIESC-SENAI Portal/Sistema Espaço do Estudante](https://estudante.sc.senai.br/)
+- [Preço Info](https://precoinfo.com.br)
 - [Blog Taller](https://blog.taller.net.br/author/walmyr/)
 
 _Stack:_ Drupal, HTML, CSS, Javascript, jQuery, SASS, Protractor, Cucumber, Vagrant and, StriderCD.
