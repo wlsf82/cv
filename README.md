@@ -200,36 +200,6 @@ _Stack:_ Node.js
 
 In this project, I mentor junior QAs in subjects related to test automation, agile testing, continuous integration, DevOps, and career, to help them grow and be better professionals.
 
-### [Mentors without borders](https://www.mentorswithoutborders.net/)
-
-Mentors without borders is a group of volunteers who want to teach young people from all over the world how to enjoy the process of setting goals and taking steps towards these goals in their chosen fields. We believe that passion should be the main driver for everything that our students do because this is what will make them really efficient in pursuing their dreams.
-We also help connect the students who want to pursue a career in computer programming with experienced mentors in this field.
-
-### Code lab: [Protractor and WebRTC](http://github.com/wlsf82/protractor-and-webrtc)
-
-Code lab to teach the basics of creating end-to-end tests with Protractor for WebRTC applications.
-
-_Stack:_ Node.js
-
-### Tutorial: [Visual regression testing with BackstopJS](https://github.com/wlsf82/backstopjs-example)
-
-Tutorial on how to use BackstopJS to run visual regression tests for web applications, starting with the basics and moving forward to more advanced stuff.
-
-_Stack:_ Node.js
-
-### [Faker experiments](https://github.com/wlsf82/faker-experiments)
-
-Project with Protractor tests to experiment the node module faker.js, used to generate massive amounts of fake data.
-
-_Stack:_ Node.js, ES2015
-
-Team members: [raulovidiu](https://github.com/raulovidiu), [@wlsf82](https://github.com/wlsf82)
-
-### [GraphQL Explorer](https://github.com/sebas5384/graphql-explorer)
-
-GraphQL Explorer is an application that helps you define entities related to your business domains, relate them, and then generate GraphQL schemas that can be used to connect different parts of your software, such as client and server.
-I have contributed to this project refactoring its documentation and I intend to contribute more, fixing issues, developing new features and helping on making an MVP.
-
 ## Books I read
 
 Below is a list of some books I read that helped me on being the professional I am today.
