@@ -202,7 +202,7 @@ In this project, I mentor junior QAs in subjects related to test automation, agi
 
 ## Books I read
 
-Below is a list of some books I read that helped me on being the professional I am today.
+Below is a list of some books I read that helped me with being the professional I am today.
 
 - Kanban - Successful Evolutionary Change for Your Technology Business - by David J. Anderson **(currently reading)**
 - The Goal - A process of ongoing improvement - 30th anniversary edition - by Eliyahu M. Goldratt, and Jeff Cox
@@ -237,7 +237,7 @@ Below is a list of some books I read that helped me on being the professional I 
 - The Road to Learn React - by Robin Wieruch
 - The Road to GraphQL - by Robin Wieruch **(currently reading)**
 
-## Recent courses:
+## Recent courses I took:
 
 ### Building Interactive JavaScript Websites - [Codecademy](https://www.codecademy.com/learn/build-interactive-websites)
 
@@ -333,7 +333,7 @@ This course covers the following subjects: introduction to Docker, Docker instal
 
 Learn the basics of building applications with this convenient and powerful web development framework.
 
-#### Some of the applications built during the course can be found through the below links on GitLab:
+#### Some of the applications built during the course can be found through the following public project on Gitlab:
 
 - https://gitlab.com/wlsf82/myapp
 - https://gitlab.com/wlsf82/messengerapp
