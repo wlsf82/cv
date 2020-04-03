@@ -56,7 +56,7 @@ Some of the activities I performed as a QA engineer at Qelp were:
 - Debugging and fixing bugs;
 - Refactoring code.
 
-_Stack:_ AWS, NodeJS, JavaScript, TypeScript, React, GraphQL, Apollo, Cypress, Protractor, BackstopJS, SemaphoreCI and Jenkins.
+_Stack:_ AWS, NodeJS, JavaScript, TypeScript, React, GraphQL, Apollo, Cypress, Protractor, BackstopJS, SemaphoreCI, and Jenkins.
 
 ### Senior QA engineer at [appear.in](http://appear.in) (June 2016 - February 2018)
 
@@ -68,7 +68,7 @@ _Projects:_
 - [appear.in](https://appear.in)
 - [appear.in (iOS)](https://apps.apple.com/us/app/whereby-video-meetings/id878583078)
 
-_Stack:_ NodeJS, AngularJS, React, Protractor, Selenium Webdriver JS, BackstopJS, XCUI Test, AWS, Terraform, Jenkins and GoCD.
+_Stack:_ NodeJS, AngularJS, React, Protractor, Selenium Webdriver JS, BackstopJS, XCUI Test, AWS, Terraform, Jenkins, and GoCD.
 
 ### Software developer and agile testing coach at [Taller Digital Business](http://taller.net.br/en/) (June 2014 – May 2016)
 
@@ -84,14 +84,14 @@ _Projects:_
 - [Preço Info](http://precoinfo.com.br)
 - [Blog Taller](https://blog.taller.net.br/author/walmyr/)
 
-_Stack:_ Drupal, HTML, CSS, Javascript, jQuery, SASS, Protractor, Cucumber, Vagrant and StriderCD.
+_Stack:_ Drupal, HTML, CSS, Javascript, jQuery, SASS, Protractor, Cucumber, Vagrant and, StriderCD.
 
 
 ### QA at [ADP](https://www.adp.com) (April 2011 – May 2014)
 
 At APD I worked in two different projects (both as QA analyst), but in the first one I developed automated tests in Java (using Selenium), and in the second one I developed automated tests in VBScript (using QTP). Also, here I had my first contact with agile methodologies, such as Scrum, and I was the leader of an internal project called Tech Talks. I used to work remote occasionally.
 
-_Stack:_ Java, VBScript, SQL and Jenkins.
+_Stack:_ Java, VBScript, SQL, and Jenkins.
 
 ### Manual and automated test analyst at [Good Card](http://goodcard.com.br) (November 2009 - March 2011)
 
@@ -102,7 +102,7 @@ _Projects:_
 - [Eco Benefícios](http://www.ecobeneficios.com.br/home)
 - [Eco Frotas](https://www.ecofrotas.com.br/en/)
 
-_Stack:_ Javascript and PL/SQL
+_Stack:_ Javascript, and PL/SQL
 
 ## Other projects and community contribution
 ### Online School: [talkingabouttesting.coursify.me](http://talkingabouttesting.coursify.me)
