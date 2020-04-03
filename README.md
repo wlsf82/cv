@@ -107,7 +107,17 @@ _Stack:_ Drupal, HTML, CSS, Javascript, jQuery, SASS, Protractor, Cucumber, Vagr
 
 ### QA at [ADP](https://www.adp.com) (April 2011 – May 2014)
 
-At APD I worked in two different projects (both as QA analyst), but in the first one I developed automated tests in Java (using Selenium), and in the second one I developed automated tests in VBScript (using QTP). Also, here I had my first contact with agile methodologies, such as Scrum, and I was the leader of an internal project called Tech Talks. I used to work remote occasionally.
+At APD, I worked in two different projects (both as a QA analyst).
+
+In the first project, I developed automated tests in Java (using Selenium).
+
+In the second project, I developed automated tests in VBScript (using HP Quick Test Pro).
+
+At ADP, I had my first contact with agile methodologies, such as Scrum.
+
+I was also the leader of an internal project called Tech Talks, used for internal knowledge sharing.
+
+I used to work remotely occasionally.
 
 _Stack:_ Java, VBScript, SQL, and Jenkins.
 
