@@ -168,9 +168,9 @@ In this course, I teach how to optimize GUI tests using API calls.
 
 ### Book: [End to end testing with Protractor - Lessons learned about e2e test automation](https://leanpub.com/end-to-end-testing-with-protractor)
 
-In this book you will find a collection of practices to implement end to end test automation in the web applications development process, using the Protractor framework.
+In this book, you will find a collection of practices to implement end-to-end test automation in the development process of web applications, using the Protractor framework.
 
-NOTE: This is also available in Portuguese through the following [link](http://casadocodigo.com.br/products/livro-protractor).
+NOTE: This book is also available in Portuguese through the following [link](http://casadocodigo.com.br/products/livro-protractor).
 
 ### YouTube channel: [Talking About Testing](https://www.youtube.com/user/wlsf82/videos)
 
