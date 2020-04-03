@@ -66,7 +66,7 @@ Every two months I was the on-call engineer, available 24/7 in case of productio
 _Projects:_
 
 - [appear.in](https://appear.in)
-- [appear.in (iOS)](https://itunes.apple.com/us/app/appear.in-free-group-video/id878583078?mt=8)
+- [appear.in (iOS)](https://apps.apple.com/us/app/whereby-video-meetings/id878583078)
 
 _Stack:_ NodeJS, AngularJS, React, Protractor, Selenium Webdriver JS, BackstopJS, XCUI Test, AWS, Terraform, Jenkins and GoCD.
 
