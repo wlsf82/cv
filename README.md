@@ -45,19 +45,19 @@ I helped on defining a new software development process where quality is in mind
 
 Some of the activities I performed as a QA engineer at Qelp were:
 
-- Writing automated graphical user interface functional tests;
-- Writing automated acceptance tests;
-- Writing automated visual regression tests;
-- Defining and tunning continuous integration and continuous delivery/deployment pipelines;
-- Code review;
-- Extending the application to add testability into it;
-- Writing business requirements together with the business analyst;
-- Pair programming;
-- Knowledge sharing sessions;
-- Actively participating in software architecture meetings;
-- Actively participating in scrum meetings;
-- Debugging and fixing bugs;
-- Refactoring code.
+- Writing automated graphical user interface functional tests
+- Writing automated acceptance tests
+- Writing automated visual regression tests
+- Defining and tunning continuous integration and continuous delivery/deployment pipelines
+- Code review
+- Extending the application to add testability into it
+- Writing business requirements together with the business analyst
+- Pair programming
+- Knowledge sharing sessions
+- Actively participating in software architecture meetings
+- Actively participating in scrum meetings
+- Debugging and fixing bugs
+- Refactoring code
 
 _Stack:_ AWS, NodeJS, JavaScript, TypeScript, React, GraphQL, Apollo, Cypress, Protractor, BackstopJS, SemaphoreCI, and Jenkins.
 
