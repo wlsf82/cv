@@ -61,17 +61,20 @@ Some of the activities I performed as a QA engineer at Qelp were:
 
 _Stack:_ AWS, NodeJS, JavaScript, TypeScript, React, GraphQL, Apollo, Cypress, Protractor, BackstopJS, SemaphoreCI, and Jenkins.
 
-### Senior QA engineer at [appear.in](http://appear.in) (June 2016 - February 2018)
+### Senior QA engineer at [Whereby](https://whereby.com/) (June 2016 - February 2018)
 
-I helped the team creating end-to-end tests with the [Protractor](http://www.protractortest.org/#/) framework and visual regression tests with [BackstopJS](https://github.com/garris/BackstopJS) (for the web application), and UI Tests with XCUI Test (for the iOS app), and these tests were executed in a CI/CD system ([gocd](http://gocd.org)) for each created pull request, providing fast feedback while changing the system. I was also responsible for maintaining the previously mentioned CI/CD system and its infrastructure, with approximately 30 pipelines as code.
-Every two months I was the on-call engineer, available 24/7 in case of production incidents, having to deal with things such as assessing the criticality of issues, accessing Linux servers and analyzing logs, analyzing git logs, working with monitoring tools like NewRelic, etc., in order to understand what was the issue and fixing it. I used to work remote occasionally.
+I helped the team creating end-to-end tests with the [Protractor](http://www.protractortest.org/#/) framework and visual regression tests with [BackstopJS](https://github.com/garris/BackstopJS) (for the web application), and UI tests with XCUI Test (for the iOS app). These tests were executed on CI/CD ([gocd](http://gocd.org)) for each pull request, providing fast feedback while changing the applications. I was also responsible for maintaining the CI/CD system and its infrastructure-as-code, with approximately 30 pipelines.
+
+Every two months, I was the on-call engineer (available 24/7 in case of production incidents). In such cases, I'd have to deal with assessing the criticality of issues, accessing Linux servers for log analysis, working with monitoring tools like NewRelic, and Graphana to understand what was the issue and fixing it.
+
+I used to work remotely very often.
 
 _Projects:_
 
-- [appear.in](https://appear.in)
-- [appear.in (iOS)](https://apps.apple.com/us/app/whereby-video-meetings/id878583078)
+- [Whereby](https://whereby.com/)
+- [Whereby (iOS)](https://apps.apple.com/us/app/whereby-video-meetings/id878583078)
 
-_Stack:_ NodeJS, AngularJS, React, Protractor, Selenium Webdriver JS, BackstopJS, XCUI Test, AWS, Terraform, Jenkins, and GoCD.
+_Stack:_ NodeJS, AngularJS, React, Protractor, Selenium Webdriver JS, BackstopJS, XCUI Test, Mocha, Tape, AWS, Terraform, Jenkins, and GoCD.
 
 ### Software developer and agile testing coach at [Taller Digital Business](http://taller.net.br/en/) (June 2014 – May 2016)
 
