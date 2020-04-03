@@ -17,7 +17,7 @@ Bachelor in business management with an emphasis on system information analysis 
 
 ### Senior Software Engineer in Test at [GitLab](https://gitlab.com) (March 2019 - current job)
 
-- Lead test automation implementation and provide guidance on testing approaches for new feature development
+- Lead test automation implementation and guide testing approaches for new feature development
 - Create test plans for new features and steer the team to ensure test coverage based on the test plan
 - Identify test gaps and prioritize adding coverage based on areas of risk
 - Provide input into testing the security and scalability of the product
