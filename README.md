@@ -164,13 +164,13 @@ The courses are:
 
 In this book, you will find a collection of practices to implement end-to-end test automation in the development process of web applications, using the Protractor framework.
 
-NOTE: This book is also available in Portuguese through the following [link](http://casadocodigo.com.br/products/livro-protractor).
+**Note:** This book is also available in Portuguese through the following [link](http://casadocodigo.com.br/products/livro-protractor).
 
 ### YouTube channel: [Talking About Testing](https://www.youtube.com/talkingabouttesting)
 
 This project is a YouTube channel with hands-on videos about test automation, group conversations, mentoring sessions, and career-related topics.
 
-NOTE: The content is in Portuguese.
+**Note:** The content is in Portuguese.
 
 ### Node module: [protractor-helper](http://npmjs.com/package/protractor-helper)
 
