@@ -156,15 +156,15 @@ The courses are:
 
 ### Udemy course: [Introduction to test automation](https://www.udemy.com/introduction-to-test-automation)
 
-Learn test automation concepts at different application layers for the development of high quality systems.
+In this course, I teach test automation concepts at different application layers for the development of high-quality systems.
 
 ### Udemy course: [Test automation with Cypress basic](https://www.udemy.com/course/test-automation-with-cypress-basic/)
 
-Learn how to write fast and reliable tests in a simple and objective way.
+In this course, I teach how to write fast and reliable tests simply and objectively.
 
 ### Udemy course: [Test automation with Cypress intermediate](https://www.udemy.com/course/test-automation-with-cypress-intermediate/)
 
-Optimize GUI tests with API calls
+In this course, I teach how to optimize GUI tests using API calls.
 
 ### Book: [End to end testing with Protractor - Lessons learned about e2e test automation](https://leanpub.com/end-to-end-testing-with-protractor)
 
