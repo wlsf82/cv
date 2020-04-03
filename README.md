@@ -11,7 +11,7 @@
 I'm a software engineer that loves testing. I'm also a clean coder, blogger, YouTuber, writer, online teacher, mentor, speaker at conferences, an active member of technology communities, and a fan of good music, tattoos, and skateboarding.
 
 ## Education
-Bachelor in business management with an emphasis in system information analysis at PUCRS (2012)
+Bachelor in business management with an emphasis on system information analysis at PUCRS (2012)
 
 ## Professional experience
 
