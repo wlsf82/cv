@@ -123,12 +123,18 @@ _Stack:_ Java, VBScript, SQL, and Jenkins.
 
 ### Manual and automated test analyst at [Good Card](http://goodcard.com.br) (November 2009 - March 2011)
 
-In this job I had my first contact with software test automation, having to make my manager understand that software test automation is not about record and playback. At this company, I started the creation of a test automation framework for web applications. Part of my job was also creating unit tests for database triggers and procedures (since many business rules were in the database), creating and executing manual test cases, and managing bugs. At this job I had also a small experience as software developer, writing PL/SQL code.
+In this job, I had my first contact with test automation, having to make my manager understand that test automation is not about record and playback.
+
+At Good Card, I started the creation of a test automation framework for web applications using JavaScript.
+
+Part of my job was also creating unit tests for database triggers and procedures, creating and executing manual test cases, and managing bugs.
+
+At this job, I also had a quick experience as a software developer, writing PL/SQL code.
 
 _Projects:_
 
-- [Eco Benefícios](http://www.ecobeneficios.com.br/home)
-- [Eco Frotas](https://www.ecofrotas.com.br/en/)
+- [Eco Benefícios](https://www.ecobeneficios.com.br)
+- [Eco Frotas](https://www.ecofrotas.com.br)
 
 _Stack:_ Javascript, and PL/SQL
 
