@@ -51,6 +51,6 @@ _Stack:_ Node.js
 
 ## [Mentoring](https://talkingabouttesting.com/mentoria-coaching/)
 
-In this project, I mentor junior QAs in subjects related to test automation, agile testing, continuous integration, DevOps, and career, to help them grow and be better professionals.
+In this project, I mentor QAs in subjects related to test automation, agile testing, continuous integration, version control, DevOps, and career, to help them grow and be better professionals.
 
 [Back to homepage](../README.md)
