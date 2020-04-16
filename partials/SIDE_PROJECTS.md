@@ -8,7 +8,7 @@ The school already has more than **1300** students and four courses.
 
 The courses are:
 
-- [Introduction to testing automation](https://talkingabouttesting.coursify.me/courses/introducao-aos-testes-automatizados)
+- [Introduction to test automation](https://talkingabouttesting.coursify.me/courses/introducao-aos-testes-automatizados)
 - [backtop-config mini-course](https://talkingabouttesting.coursify.me/courses/mini-curso-testes-de-regressao-visual-com-backstop-config)
 - [Test automation with Cypress (basic)](https://talkingabouttesting.coursify.me/courses/testes-automatizados-com-cypress-basico)
 - [Test automation with Cypress (intermediate)](https://talkingabouttesting.coursify.me/courses/testes-automatizados-com-cypress-intermediario)
