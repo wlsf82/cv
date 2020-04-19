@@ -14,7 +14,7 @@ Learn the Document Object Model, the interface between JavaScript and HTML eleme
 
 Learn how to debug and handle errors in your code!
 
-## Introduction to TypeScript 2 - [edX](https://www.edx.org/course/introduction-to-typescript-2) (in-progress)
+## Introduction to TypeScript 2 - [edX](https://www.edx.org/course/introduction-to-typescript-2)
 
 Learn all the basics of TypeScript to build great web applications. TypeScript is the future of web development.
 
