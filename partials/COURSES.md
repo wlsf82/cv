@@ -1,4 +1,4 @@
-# Courses I recently took
+# Courses I took recently
 
 ## Building Interactive JavaScript Websites - [Codecademy](https://www.codecademy.com/learn/build-interactive-websites)
 
