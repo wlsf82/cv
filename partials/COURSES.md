@@ -1,5 +1,15 @@
 # Courses I took recently
 
+## Exploring Service APIs through Test Automation - [Test Automation University](https://testautomationu.applitools.com/exploring-service-apis-through-test-automation/)
+
+This course covers:
+
+- What exactly is a service API, and why is it so important to make sure that they have their own thorough test cycle
+- Tools for API discovery and exploration
+- Deep dive into the Postman tools
+- The P.O.I.S.E.D. testing heuristic to improve and expand the testing strategy
+- How to use Postman to run automated tests, do data-driven testing and include tests in a continuous integration environment
+
 ## Building Interactive JavaScript Websites - [Codecademy](https://www.codecademy.com/learn/build-interactive-websites)
 
 Learn the Document Object Model, the interface between JavaScript and HTML elements, and combine HTML, CSS, and JavaScript into exciting interactive sites!
