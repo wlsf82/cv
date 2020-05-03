@@ -20,7 +20,7 @@ The courses are:
 - [Test automation with Cypress basic](https://www.udemy.com/course/test-automation-with-cypress-basic/)
 - [Test automation with Cypress intermediate](https://www.udemy.com/course/test-automation-with-cypress-intermediate/)
 
-**Note:** On Udemy, I already have more than **700** students.
+**Note:** On Udemy, I already have more than **800** students.
 
 ## Book: [End to end testing with Protractor - Lessons learned about e2e test automation](https://leanpub.com/end-to-end-testing-with-protractor)
 
