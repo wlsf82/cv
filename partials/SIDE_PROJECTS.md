@@ -4,7 +4,7 @@
 
 In March of 2018, I launched an online school to teach test automation to new QAs or even experienced professionals.
 
-The school already has more than **1300** students and four courses.
+The school already has more than **1300** students and five courses.
 
 The courses are:
 
@@ -12,6 +12,7 @@ The courses are:
 - [backtop-config mini-course](https://talkingabouttesting.coursify.me/courses/mini-curso-testes-de-regressao-visual-com-backstop-config)
 - [Test automation with Cypress (basic)](https://talkingabouttesting.coursify.me/courses/testes-automatizados-com-cypress-basico)
 - [Test automation with Cypress (intermediate)](https://talkingabouttesting.coursify.me/courses/testes-automatizados-com-cypress-intermediario)
+- [Testes de regressão visual com BackstopJS](https://talkingabouttesting.coursify.me/courses/testes-de-regressao-visual-com-backstopjs)
 
 ## Udemy courses:
 
