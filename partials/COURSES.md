@@ -43,7 +43,7 @@ Learn how to create automated tests for mobile apps using the Robot framework.
 <details>
   <summary>Click to see the certificate</summary>
 
-  ![Image of certificate](./images/robot-framework-certificate-walmyr.png)
+  ![Image of certificate](./certificates/robot-framework-certificate-walmyr.png)
 </details>
 
 ## The Whole Team Approach to Continuous Testing - [Test Automation University](https://testautomationu.applitools.com/the-whole-team-approach-to-continuous-testing/)
@@ -68,9 +68,9 @@ Kanban System Design & Kanban Management Professional
 <details>
   <summary>Click to see the certificates</summary>
 
-  ![Image of certificate](./images/KMP%20I.png)
+  ![Image of certificate](./certificates/KMP%20I.png)
 
-  ![Image of certificate](./images/KMP%20II.png)
+  ![Image of certificate](./certificates/KMP%20II.png)
 </details>
 
 ## Learn Vue.js - [codecademy](https://www.codecademy.com/learn/learn-vue-js)
@@ -138,7 +138,7 @@ Why test? Fundamentals of testing, full-stack test-driven development, and the d
 <details>
   <summary>Click to see the certificate</summary>
 
-  ![Image of certificate](./images/TDD%20certificate%20-%20Codecademy%20-%20Walmyr%20Filho.png)
+  ![Image of certificate](./certificates/TDD%20certificate%20-%20Codecademy%20-%20Walmyr%20Filho.png)
 </details>
 
 ## Introduction to JavaScript - [codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
@@ -150,7 +150,7 @@ Introduction to JavaScript variables, control flow, functions and higher-order f
 <details>
   <summary>Click to see the certificate</summary>
 
-  ![Image of certificate](./images/bloggeek.me%20certificate%20-%20advanced%20webrtc%20architecture%20course.png)
+  ![Image of certificate](./certificates/bloggeek.me%20certificate%20-%20advanced%20webrtc%20architecture%20course.png)
 </details>
 
 [Back to homepage](../README.md)
