@@ -20,8 +20,7 @@
 - The Flip Manifesto - 16 counterintuitive ideas about motivation, innovation, and leadership - by Daniel H. Pink
 - Release It - Design and deploy production-ready software - by Michael T. Nygard
 - The DevOps handbook - How to create world-class agility, reliability, & security in technology organizations - by Gene Kim, Jez Humble, Patrick Debois & John Willis
-- Refactoring - Improve the design of existing code (first edition) - by Martin Fowler
-- Refactoring - Improve the design of existing code (second edition) - by Martin Fowler **(currently reading)**
+- Refactoring - Improve the design of existing code (first and second editions) - by Martin Fowler
 - Agile Testing - A practical guide for testers and agile teams - by Lisa Crispin, and Janet Gregory
 - Pride and Paradev - A collection of agile software testing contradictions - by Alister Scott
 - Fifty Quick Ideas to Improve Your Tests - by Gojko Adzic, David Evans, and Tom Roden **(currently reading)**
