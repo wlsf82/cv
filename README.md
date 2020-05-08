@@ -105,7 +105,7 @@ _Projects:_
 _Stack:_ Drupal, HTML, CSS, Javascript, jQuery, SASS, Protractor, Cucumber, Vagrant and, StriderCD.
 
 
-### QA at [ADP](https://www.adp.com) (April 2011 – May 2014)
+### QA analyst at [ADP](https://www.adp.com) (April 2011 – May 2014)
 
 At APD, I worked in two different projects (both as a QA analyst).
 
