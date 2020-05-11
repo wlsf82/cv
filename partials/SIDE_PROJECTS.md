@@ -19,6 +19,7 @@ The courses are:
 - [Introduction to test automation](https://www.udemy.com/introduction-to-test-automation)
 - [Test automation with Cypress basic](https://www.udemy.com/course/test-automation-with-cypress-basic/)
 - [Test automation with Cypress intermediate](https://www.udemy.com/course/test-automation-with-cypress-intermediate/)
+- [Visual regression testing with BackstopJS](https://www.udemy.com/course/visual-regression-testing-with-backstopjs)
 
 **Note:** On Udemy, I already have more than **800** students.
 
