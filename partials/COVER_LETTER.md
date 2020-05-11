@@ -1,6 +1,6 @@
 # I'm open to new opportunities
 
-I'm looking for a challenging opportunity as a **Quality Assurance Engineer**, **Software Engineer in Test (SET)**, or **Software Developer Engineer in Test (SDET)**.
+I'm looking for a challenging opportunity as a **Quality Assurance Engineer**, **Software Engineer in Test (SET)**, or **Software Development Engineer in Test (SDET)**.
 
 The ideal position would be in the **JavaScript/TypeScript** realm, using **React** in the frontend, **Node.js** in the backend, **Cypress** or **Protractor** for end-to-end testing, and one of the following tools for continuous integration (**GoCD**, **SemaphoreCI 2.0**, or **GitHub Actions**).
 
