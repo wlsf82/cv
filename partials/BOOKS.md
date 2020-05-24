@@ -32,6 +32,6 @@
 - Outliers - The Story of Success - by Malcolm Gladwell
 - Emotional Intelligence - Why It Can Matter More Than IQ - by Daniel Goleman
 - The Road to Learn React - by Robin Wieruch
-- The Road to GraphQL - by Robin Wieruch **(currently reading)**
+- The Road to GraphQL - by Robin Wieruch **(in-progress)**
 
 [Back to homepage](../README.md)
