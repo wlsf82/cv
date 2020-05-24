@@ -23,7 +23,6 @@
 - Refactoring - Improve the design of existing code (first and second editions) - by Martin Fowler
 - Agile Testing - A practical guide for testers and agile teams - by Lisa Crispin, and Janet Gregory
 - Pride and Paradev - A collection of agile software testing contradictions - by Alister Scott
-- Fifty Quick Ideas to Improve Your Tests - by Gojko Adzic, David Evans, and Tom Roden **(currently reading)**
 - Lean Analytics - Use data to build a better startup faster - by Alistair Croll, and Benjamin Yoskovitz
 - The World is Flat - The globalized world in the twenty-first century - by Thomas L. Friedman
 - Hot, Flat, & Crowded - Why the world needs a green revolution - and how we can renew our global future - by Thomas L. Friedman
