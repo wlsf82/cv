@@ -4,7 +4,7 @@
 
 In March of 2018, I launched an online school to teach test automation to new QAs or even experienced professionals.
 
-The school already has more than **1300** students and **five** courses.
+The school already has more than **1300** students and **six** courses.
 
 The courses are:
 
@@ -13,6 +13,7 @@ The courses are:
 - [Test automation with Cypress (basic)](https://talkingabouttesting.coursify.me/courses/testes-automatizados-com-cypress-basico)
 - [Test automation with Cypress (intermediate)](https://talkingabouttesting.coursify.me/courses/testes-automatizados-com-cypress-intermediario)
 - [Visual regression testing with BackstopJS](https://talkingabouttesting.coursify.me/courses/testes-de-regressao-visual-com-backstopjs)
+- [Test architecture with Protractor](https://talkingabouttesting.coursify.me/courses/arquitetura-de-testes-com-protractor)
 
 ## Udemy courses:
 
@@ -21,7 +22,7 @@ The courses are:
 - [Test automation with Cypress intermediate](https://www.udemy.com/course/test-automation-with-cypress-intermediate/)
 - [Visual regression testing with BackstopJS](https://www.udemy.com/course/visual-regression-testing-with-backstopjs)
 
-**Note:** On Udemy, I already have more than **950** students.
+**Note:** On Udemy, I already have more than **1000** students.
 
 ## Book: [End to end testing with Protractor - Lessons learned about e2e test automation](https://leanpub.com/end-to-end-testing-with-protractor)
 
