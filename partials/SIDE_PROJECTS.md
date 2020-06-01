@@ -15,6 +15,8 @@ The courses are:
 - [Visual regression testing with BackstopJS](https://talkingabouttesting.coursify.me/courses/testes-de-regressao-visual-com-backstopjs)
 - [Test architecture with Protractor](https://talkingabouttesting.coursify.me/courses/arquitetura-de-testes-com-protractor)
 
+**Note:** The above courses are only available in Portuguese.
+
 ## Udemy courses:
 
 - [Introduction to test automation](https://www.udemy.com/course/introduction-to-test-automation/)
