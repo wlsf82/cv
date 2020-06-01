@@ -18,14 +18,14 @@ The courses are:
 ## Udemy courses:
 
 - [Introduction to test automation](https://www.udemy.com/course/introduction-to-test-automation/)
-- [Introduction to test automation](https://www.udemy.com/course/introducao-aos-testes-automatizados/) (Portugueses)
+- [Introduction to test automation](https://www.udemy.com/course/introducao-aos-testes-automatizados/) (Portuguese)
 - [Test automation with Cypress basic](https://www.udemy.com/course/test-automation-with-cypress-basic/)
-- [Test automation with Cypress basic](https://www.udemy.com/course/testes-automatizados-com-cypress-basico/) (Portugueses)
+- [Test automation with Cypress basic](https://www.udemy.com/course/testes-automatizados-com-cypress-basico/) (Portuguese)
 - [Test automation with Cypress intermediate](https://www.udemy.com/course/test-automation-with-cypress-intermediate/)
-- [Test automation with Cypress intermediate](https://www.udemy.com/course/testes-automatizados-com-cypress-intermediario/) (Portugueses)
+- [Test automation with Cypress intermediate](https://www.udemy.com/course/testes-automatizados-com-cypress-intermediario/) (Portuguese)
 - [Visual regression testing with BackstopJS](https://www.udemy.com/course/visual-regression-testing-with-backstopjs)
-- [Visual regression testing with BackstopJS](https://www.udemy.com/course/testes-de-regressao-visual-com-backstopjs/) (Portugueses)
-- [Test architecture with Protractor](https://www.udemy.com/course/arquitetura-de-testes-com-protractor/) (Portugueses)
+- [Visual regression testing with BackstopJS](https://www.udemy.com/course/testes-de-regressao-visual-com-backstopjs/) (Portuguese)
+- [Test architecture with Protractor](https://www.udemy.com/course/arquitetura-de-testes-com-protractor/) (Portuguese)
 
 **Note:** On Udemy, I already have more than **1000** students.
 
