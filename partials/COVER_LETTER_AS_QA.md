@@ -12,3 +12,7 @@ The company must value things such as **test automation**, **clean code**, **ref
 If your company has a position that could be a good fit for my profile, I'd be happy to have a chat.
 
 You can find my updated CV on **https://github.com/wlsf82/cv**.
+
+Regards,
+
+Walmyr
