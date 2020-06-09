@@ -13,6 +13,6 @@ If your company has a position that could be a good fit for my profile, I'd be h
 
 You can find my updated CV on **https://github.com/wlsf82/cv**.
 
-Regards,
+Best regards,
 
 Walmyr
