@@ -6,7 +6,7 @@ I've been working with software development focused on quality assurance for mor
 
 Due to this belief, I want to move to the **dev side of the force**. <(-_-)>
 
-I've a short experience with **React** and **React-Native** development, but I have also been studying and practicing **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, and **GraphQL** for quite a while on some side projects (listed at the the end of this letter), and I'd love to continue working as a software developer from now on.
+I have a little experience with **React** and **React-Native** development. Still, I have also been studying and practicing **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, and **GraphQL** for quite a while on some side projects (listed at the end of this letter), and I'd love to continue working as a software developer from now on.
 
 As a bonus, I can help with **end-to-end testing**!
 
