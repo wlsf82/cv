@@ -74,7 +74,7 @@ _Projects:_
 - [Whereby](https://whereby.com/)
 - [Whereby (iOS)](https://apps.apple.com/us/app/whereby-video-meetings/id878583078)
 
-_Stack:_ NodeJS, AngularJS, React, Protractor, Selenium Webdriver JS, BackstopJS, XCUI Test, Mocha, Tape, AWS, Terraform, Jenkins, and GoCD.
+_Stack:_ NodeJS, AngularJS, React, Protractor, Selenium WebdriverJS, BackstopJS, XCUI Test, Mocha, Tape, AWS, Terraform, Jenkins, and GoCD.
 
 ### Software developer and agile testing coach at [Taller Digital Business](http://taller.net.br/en/) (June 2014 – May 2016)
 
