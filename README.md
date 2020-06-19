@@ -13,6 +13,13 @@ I'm a software engineer that loves testing. I'm also a clean coder, blogger, You
 ## Education
 Bachelor in business management with an emphasis on system information analysis at PUCRS (2012)
 
+## Technologies and languages
+
+* **Languages:** JavaScript, TypeScript, Ruby, PHP, PL/SQL, Java, VBScript
+* **Technologies:** Nodejs, React, VueJS, Angular, jQuery, Handlebars, Express, GraphQL, HTML5, CSS3, Drupal, Rails, MongoDB, WebRTC, AWS, Terraform, git, GitHub, GitLab, Bitbucket, GoCD, SemaphoreCI, Jenkins, Docker, Vagrant, Selenium, Cypress, Protractor, Webdriver IO, Applitools, BackstopJS, Rspec, Capybara, Jasmine, Mocha, Jest, Enzime, Chai, Supertest, JSDOM, Tape, XCUI Test, Postman, StandardJS, ESLint, Babel, Linux, Unix
+* **Programing paradigms:** Object-oriented programming, functional programming, procedural programming
+* **Other:** Jira, Trello, Rally, Slack, GSuite, Zoom, Whereby
+
 ## Professional experience
 
 ### Senior Software Engineer in Test at [GitLab](https://gitlab.com) (March 2019 - current job)
@@ -37,8 +44,6 @@ _Projects:_
 - [GitLab Enterprise Edition](https://gitlab.com/gitlab-org/gitlab)
 - [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/)
 
-_Stack:_ Selenium, Capybara, Rspec, Docker, Ruby, Ruby on Rails, VueJS, and GitLab.
-
 ### QA engineer at [Qelp](http://qelp.com) (July 2018 - February 2019)
 
 I helped on defining a new software development process where quality is in mind since the definition of the software requirements until the moment it is running in production.
@@ -59,8 +64,6 @@ Some of the activities I performed as a QA engineer at Qelp were:
 - Debugging and fixing bugs
 - Refactoring code
 
-_Stack:_ AWS, NodeJS, JavaScript, TypeScript, React, GraphQL, Apollo, Cypress, Protractor, BackstopJS, SemaphoreCI, and Jenkins.
-
 ### Senior QA engineer at [Whereby](https://whereby.com/) (June 2016 - February 2018)
 
 I helped the team creating end-to-end tests with the [Protractor](http://www.protractortest.org/#/) framework and visual regression tests with [BackstopJS](https://github.com/garris/BackstopJS) (for the web application), and UI tests with XCUI Test (for the iOS app). These tests were executed on CI/CD ([gocd](http://gocd.org)) for each pull request, providing fast feedback while changing the applications. I was also responsible for maintaining the CI/CD system and its infrastructure-as-code, with approximately 30 pipelines.
@@ -73,8 +76,6 @@ _Projects:_
 
 - [Whereby](https://whereby.com/)
 - [Whereby (iOS)](https://apps.apple.com/us/app/whereby-video-meetings/id878583078)
-
-_Stack:_ NodeJS, AngularJS, React, Protractor, Selenium WebdriverJS, BackstopJS, XCUI Test, Mocha, Tape, AWS, Terraform, Jenkins, and GoCD.
 
 ### Software developer and agile testing coach at [Taller Digital Business](http://taller.net.br/en/) (June 2014 – May 2016)
 
@@ -102,8 +103,6 @@ _Projects:_
 - [Preço Info](https://precoinfo.com.br)
 - [Blog Taller](https://blog.taller.net.br/author/walmyr/)
 
-_Stack:_ Drupal, HTML, CSS, Javascript, jQuery, SASS, Protractor, Cucumber, Vagrant and, StriderCD.
-
 
 ### QA analyst at [ADP](https://www.adp.com) (April 2011 – May 2014)
 
@@ -119,8 +118,6 @@ I was also the leader of an internal project called Tech Talks, used for interna
 
 I used to work remotely occasionally.
 
-_Stack:_ Java, VBScript, SQL, and Jenkins.
-
 ### Manual and automated test analyst at [Good Card](http://goodcard.com.br) (November 2009 - March 2011)
 
 In this job, I had my first contact with test automation, having to make my manager understand that test automation is not about record and playback.
@@ -135,8 +132,6 @@ _Projects:_
 
 - [Eco Benefícios](https://www.ecobeneficios.com.br)
 - [Eco Frotas](https://www.ecofrotas.com.br)
-
-_Stack:_ Javascript, and PL/SQL
 
 ## Side projects and community contribution
 
