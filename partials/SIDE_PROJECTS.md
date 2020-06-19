@@ -49,7 +49,7 @@ This project is a library with different methods that can be used together with 
 
 _Stack:_ Node.js
 
-## [backstop-config](https://github.com/wlsf82/backstop-config)
+## Visual regression testing with [backstop-config](https://github.com/wlsf82/backstop-config)
 
 This project has a simple implementation of BackstopJS tests that can be used by anyone who needs to run screenshot comparison tests in static web pages that have different URLs.
 
