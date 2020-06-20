@@ -47,19 +47,13 @@ This project is a YouTube channel with hands-on videos about test automation, gr
 
 This project is a library with different methods that can be used together with Protractor for creating robust and flakiness-free end-to-end tests.
 
-_Stack:_ Node.js
-
 ## Visual regression testing with [backstop-config](https://github.com/wlsf82/backstop-config)
 
 This project has a simple implementation of BackstopJS tests that can be used by anyone who needs to run screenshot comparison tests in static web pages that have different URLs.
 
-_Stack:_ Node.js
-
 ## Architecture proposal: [Protractor components and page objects](https://github.com/wlsf82/protractor-components-and-page-objects)
 
 In this project, I demonstrate an architecture proposal for writing GUI tests with Protractor using a concept of components, to have stable, reliable, and maintainable end-to-end tests.
-
-_Stack:_ Node.js
 
 ## [Mentoring](https://talkingabouttesting.com/mentoria-coaching/)
 
