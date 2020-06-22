@@ -53,7 +53,7 @@ Some of the activities I performed as a QA engineer at Qelp were:
 - Writing automated graphical user interface functional tests
 - Writing automated acceptance tests
 - Writing automated visual regression tests
-- Defining and tunning continuous integration and continuous delivery/deployment pipelines
+- Defining and tuning continuous integration and continuous delivery/deployment pipelines
 - Code reviews
 - Extending the application to add testability into it
 - Writing business requirements together with the business analyst
