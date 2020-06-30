@@ -22,7 +22,7 @@ Bachelor in business management with an emphasis on system information analysis 
 
 ## Professional experience
 
-### Senior Software Engineer in Test at [GitLab](https://gitlab.com) (March 2019 - current job)
+### Senior Software Engineer in Test at [GitLab](https://gitlab.com) (March 2019 - June 2020)
 
 Some of the activities I perform as a SET at GitLab are:
 
