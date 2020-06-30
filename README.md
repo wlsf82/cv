@@ -24,7 +24,7 @@ Bachelor in business management with an emphasis on system information analysis 
 
 ### Senior Software Engineer in Test at [GitLab](https://gitlab.com) (March 2019 - June 2020)
 
-Some of the activities I perform as a SET at GitLab are:
+Some of the activities I performed as a SET at GitLab were:
 
 - Leading test automation implementation and guiding testing approaches for new feature development
 - Identifying test gaps and prioritizing adding coverage based on areas of risk
