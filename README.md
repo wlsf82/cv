@@ -16,7 +16,7 @@ Bachelor in business management with an emphasis on system information analysis 
 ## Technologies and languages
 
 * **Languages:** JavaScript, TypeScript, Ruby
-* **Technologies:** Nodejs, React, VueJS, Angular, jQuery, Handlebars, Express, GraphQL, HTML5, CSS3, Drupal, Rails, MongoDB, WebRTC, AWS, Terraform, git, GitHub, GitLab, Bitbucket, GoCD, SemaphoreCI, Jenkins, Docker, Vagrant, Selenium, Cypress, Protractor, Webdriver IO, Applitools, BackstopJS, Rspec, Capybara, Jasmine, Mocha, Jest, Enzime, Chai, Supertest, JSDOM, Tape, XCUI Test, Postman, StandardJS, ESLint, Babel, Linux, Unix
+* **Technologies:** Nodejs, React, Next.js, VueJS, Angular, jQuery, Handlebars, Express, GraphQL, HTML5, CSS3, Drupal, Rails, MongoDB, WebRTC, AWS, Terraform, git, GitHub, GitLab, Bitbucket, GoCD, SemaphoreCI, Jenkins, Docker, Vagrant, Selenium, Cypress, Protractor, Webdriver IO, Applitools, BackstopJS, Rspec, Capybara, Jasmine, Mocha, Jest, Enzime, Chai, Supertest, JSDOM, Tape, XCUI Test, Postman, StandardJS, ESLint, Babel, Linux, Unix
 * **Programing paradigms:** Object-oriented programming, functional programming
 * **Other:** Jira, Trello, Rally, Slack, GSuite, Zoom, Whereby
 
