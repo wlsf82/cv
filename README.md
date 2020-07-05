@@ -36,7 +36,7 @@ Some of the activities I performed as a SET at GitLab were:
 - Mentoring other engineers
 - Independently and regularly managing project schedules ensuring objectives are aligned with team/department goals
 - Working on problems of diverse scope requiring independent evaluation of identifiable factors; recommending new approaches to resolve problems
-- At GitLab I work 100% remote
+- At GitLab I worked 100% remote
 
 _Projects:_
 
