@@ -6,14 +6,14 @@ I've been working with software development focused on quality assurance for mor
 
 Due to this belief, I want to move to the **dev side of the force**. <(-_-)>
 
-I have a little experience with **React** and **React-Native** development. Still, I have also been studying and practicing **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, and **GraphQL** for quite a while on some side projects (listed at the end of this letter), and I'd love to continue working as a software developer from now on.
+I experience have with **Node.js**, **React** and **React-Native**. I'm also **always** studying and practicing **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Next.js**, and **GraphQL** on some side projects (listed at the end of this letter), and I'd love to continue working as a software developer from now on.
 
-As a bonus, I can help with **end-to-end testing**!
+As a bonus, I can help with **end-to-end testing** and **visual regression testing**!
 
 Ideally, the position would be **100% remote**.
 Also, it would be for **product development**.
 
-Finally, the company must value things such as **test automation**, **clean code**, **refactoring**, **pair programming**, **code reviews**, **small iterations**, **knowledge sharing**, and a **culture of mentorship**.
+Finally, the company must value things such as **test automation**, **clean code**, **clean architecture**, **refactoring**, **pair programming**, **code reviews**, **small iterations**, **knowledge sharing**, and a **culture of mentorship**.
 
 If your company has a position that could be a good fit for my profile, I'd be happy to have a chat.
 
@@ -31,6 +31,8 @@ And below, you can find the list of side-projects that I mentioned earlier.
 * https://github.com/wlsf82/the-road-to-graphql
 * https://github.com/wlsf82/vidbits-codecademy
 * https://github.com/wlsf82/gather-codecademy
+* https://github.com/wlsf82/nextjs-blog
+* https://github.com/wlsf82/walmyr-nextjs
 
 Best regards,
 
