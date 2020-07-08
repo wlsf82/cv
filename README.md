@@ -22,6 +22,12 @@ Bachelor in business management with an emphasis on system information analysis 
 
 ## Professional experience
 
+### Software Developer at [Taller Digital Business](https://taller.net.br/en/) (July 2020 - current job)
+
+> I work part-time for Taller.
+
+TBD.
+
 ### Senior Software Engineer in Test at [GitLab](https://gitlab.com) (March 2019 - June 2020)
 
 Some of the activities I performed as a SET at GitLab were:
@@ -44,7 +50,7 @@ _Projects:_
 - [GitLab Enterprise Edition](https://gitlab.com/gitlab-org/gitlab)
 - [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/)
 
-### QA engineer at [Qelp](http://qelp.com) (July 2018 - February 2019)
+### QA engineer at [Qelp](https://qelp.com) (July 2018 - February 2019)
 
 I helped on defining a new software development process where quality is in mind since the definition of the software requirements until the moment it is running in production.
 
@@ -66,7 +72,7 @@ Some of the activities I performed as a QA engineer at Qelp were:
 
 ### Senior QA engineer at [Whereby](https://whereby.com/) (June 2016 - February 2018)
 
-I helped the team creating end-to-end tests with the [Protractor](http://www.protractortest.org/#/) framework and visual regression tests with [BackstopJS](https://github.com/garris/BackstopJS) (for the web application), and UI tests with XCUI Test (for the iOS app). These tests were executed on CI/CD ([gocd](http://gocd.org)) for each pull request, providing fast feedback while changing the applications. I was also responsible for maintaining the CI/CD system and its infrastructure-as-code, with approximately 30 pipelines.
+I helped the team creating end-to-end tests with the [Protractor](https://www.protractortest.org/#/) framework and visual regression tests with [BackstopJS](https://github.com/garris/BackstopJS) (for the web application), and UI tests with XCUI Test (for the iOS app). These tests were executed on CI/CD ([gocd](https://gocd.org)) for each pull request, providing fast feedback while changing the applications. I was also responsible for maintaining the CI/CD system and its infrastructure-as-code, with approximately 30 pipelines.
 
 Every two months, I was the on-call engineer (available 24/7 in case of production incidents). In such cases, I'd have to deal with assessing the criticality of issues, accessing Linux servers for log analysis, working with monitoring tools like NewRelic, and Graphana to understand what was the issue and fixing it.
 
@@ -77,7 +83,7 @@ _Projects:_
 - [Whereby](https://whereby.com/)
 - [Whereby (iOS)](https://apps.apple.com/us/app/whereby-video-meetings/id878583078)
 
-### Software developer and agile testing coach at [Taller Digital Business](http://taller.net.br/en/) (June 2014 – May 2016)
+### Software developer and agile testing coach at [Taller Digital Business](https://taller.net.br/en/) (June 2014 – May 2016)
 
 At first, I was hired as a QA engineer to create automated acceptance tests in Gherkin format with Cucumber (in Ruby language).
 
@@ -118,7 +124,7 @@ I was also the leader of an internal project called Tech Talks, used for interna
 
 I used to work remotely occasionally.
 
-### Manual and automated test analyst at [Good Card](http://goodcard.com.br) (November 2009 - March 2011)
+### Manual and automated test analyst at [Good Card](https://goodcard.com.br) (November 2009 - March 2011)
 
 In this job, I had my first contact with test automation, having to make my manager understand that test automation is not about record and playback.
 
