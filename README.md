@@ -2,13 +2,13 @@
 
 **E-mail:** wlsf82@gmail.com  
 **Phone:** +31 06 15 18 91 75  
-**Website:** https://walmyr-filho.com  
+**Website:** https://walmyr.dev  
 **Medium:** https://medium.com/@walmyrlimaesilv  
 **Blog:** https://talkingabouttesting.com  
 **Codecademy:** https://www.codecademy.com/profiles/wlsf82  
 **Location:** Amsterdam, Netherlands  
 
-I'm a software engineer that loves testing. I'm also a clean coder, blogger, YouTuber, writer, online teacher, mentor, speaker, an active member of technology communities, and a fan of good music, tattoos, and skateboarding.
+I'm a software engineer that loves testing. I'm also a clean coder, blogger, YouTuber, writer, online teacher, mentor, speaker, an active member of the testing automation and JavaScript communities, and a fan of good music, tattoos, and skateboarding.
 
 ## Education
 Bachelor in business management with an emphasis on system information analysis at PUCRS (2012)
@@ -16,7 +16,7 @@ Bachelor in business management with an emphasis on system information analysis 
 ## Technologies and languages
 
 * **Languages:** JavaScript, TypeScript, Ruby
-* **Technologies:** Nodejs, React, Next.js, VueJS, Angular, jQuery, Handlebars, Express, GraphQL, HTML5, CSS3, Drupal, Rails, MongoDB, WebRTC, AWS, Terraform, git, GitHub, GitLab, Bitbucket, GoCD, SemaphoreCI, Jenkins, Docker, Vagrant, Selenium, Cypress, Protractor, Webdriver IO, Applitools, BackstopJS, Rspec, Capybara, Jasmine, Mocha, Jest, Enzime, Chai, Supertest, JSDOM, Tape, XCUI Test, Postman, StandardJS, ESLint, Babel, Linux, Unix
+* **Technologies:** Nodejs, React, React Native, Next.js, VueJS, Angular, jQuery, Handlebars, Express, GraphQL, HTML5, CSS3, Styled Components, CSS Modules, Drupal, Rails, MongoDB, WebRTC, AWS, Terraform, git, GitHub, GitLab, Bitbucket, GoCD, SemaphoreCI, Jenkins, Docker, Vagrant, Selenium, Cypress, Protractor, Webdriver IO, Applitools, BackstopJS, Rspec, Capybara, Jasmine, Mocha, Jest, Enzime, Chai, Supertest, JSDOM, Tape, XCUI Test, Postman, StandardJS, ESLint, Babel, Linux, Unix
 * **Programing paradigms:** Object-oriented programming, functional programming
 * **Other:** Jira, Trello, Rally, Slack, GSuite, Zoom, Whereby
 
