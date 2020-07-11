@@ -8,7 +8,7 @@
 **Codecademy:** https://www.codecademy.com/profiles/wlsf82  
 **Location:** Amsterdam, Netherlands  
 
-I'm a software engineer that loves testing. I'm also a clean coder, entrepreneur,blogger, YouTuber, writer, online teacher, mentor, speaker, an active member of the testing automation and JavaScript communities, and a fan of good music, tattoos, and skateboarding.
+I'm a software engineer that loves testing. I'm also a clean coder, entrepreneur, blogger, YouTuber, writer, online teacher, mentor, speaker, an active member of the testing automation and JavaScript communities, and a fan of good music, tattoos, and skateboarding.
 
 ## Education
 Bachelor in business management with an emphasis on system information analysis at PUCRS (2012)
