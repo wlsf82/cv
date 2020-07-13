@@ -26,7 +26,9 @@ Bachelor in business management with an emphasis on system information analysis 
 
 > I work part-time for Taller.
 
-TBD.
+- Full-stack development with Drupal, React, Next.js, GraphQL, and Apollo
+- Using kanban for project management
+- 100% remote
 
 ### Senior Software Engineer in Test at [GitLab](https://gitlab.com) (March 2019 - June 2020)
 
