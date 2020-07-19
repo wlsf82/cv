@@ -22,9 +22,7 @@ Bachelor in business management with an emphasis on system information analysis 
 
 ## Professional experience
 
-### Software Developer at [Taller Digital Business](https://taller.net.br/en/) (July 2020 - current job)
-
-> I work part-time for Taller.
+### Part-time Software Developer at [Taller Digital Business](https://taller.net.br/en/) (July 2020 - current job)
 
 - Full-stack development with Drupal, React, Next.js, GraphQL, and Apollo
 - Using kanban for project management
