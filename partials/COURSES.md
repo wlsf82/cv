@@ -1,5 +1,21 @@
 # Courses I took recently
 
+## TDD Day - [Eric Elliott JS](https://ericelliottjs.com/premium-content)
+
+This course covers:
+
+- What is TDD?
+- Why TDD?
+- Why Test First? Q&A
+- Kinds of Tests
+- 5 Questions and RITE Way
+- Project - Unit Tests
+- What are Functional Tests
+- Project - Functional Testing
+- Mocking is a Code Smell
+- Mocking is a Code Smell Q&A
+- Project - Reducer Tests
+
 ## Exploring Service APIs through Test Automation - [Test Automation University](https://testautomationu.applitools.com/exploring-service-apis-through-test-automation/)
 
 This course covers:
