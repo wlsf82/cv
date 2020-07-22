@@ -24,7 +24,7 @@ Bachelor in business management with an emphasis on system information analysis 
 
 ### Part-time Software Developer at [Taller Digital Business](https://taller.net.br/en/) (July 2020 - current job)
 
-- Full-stack development with Drupal, React, Next.js, GraphQL, and Apollo
+- Full-stack development with Drupal, React, React Native, Next.js, GraphQL, and Apollo
 - Using kanban for project management
 - 100% remote
 
