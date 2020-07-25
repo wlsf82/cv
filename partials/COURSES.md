@@ -1,5 +1,15 @@
 # Courses I took recently
 
+## Functional Programming - [Eric Elliott JS](https://ericelliottjs.com/premium-content) (**in-progress**)
+
+This course covers:
+
+- Abstraction and Composition
+- ES6 Curry and Function Composition
+- How to Redux
+- What is a Clousure?
+- Pure Functions
+
 ## TDD Day - [Eric Elliott JS](https://ericelliottjs.com/premium-content)
 
 This course covers:
