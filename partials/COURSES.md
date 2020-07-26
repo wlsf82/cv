@@ -10,6 +10,17 @@ This course covers:
 - What is a Clousure?
 - Pure Functions
 
+## Introduction to Node and Express - [Eric Elliott JS](https://ericelliottjs.com/premium-content)
+
+This course covers:
+
+- A basic introcution to Node and Express
+- How to install Node using NVM (Node version manager)
+- Express installation and usage (creating a simple node server)
+- Working with environment variables
+- Testing of Express routes with Supertest and Tape
+- Refactoring Express routes to avoiding code duplication
+
 ## TDD Day - [Eric Elliott JS](https://ericelliottjs.com/premium-content)
 
 This course covers:
