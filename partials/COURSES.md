@@ -19,7 +19,7 @@ This course covers:
 - Express installation and usage (creating a simple node server)
 - Working with environment variables
 - Testing of Express routes with Supertest and Tape
-- Refactoring Express routes to avoiding code duplication
+- Refactoring Express routes with middleware to avoiding code duplication
 
 ## TDD Day - [Eric Elliott JS](https://ericelliottjs.com/premium-content)
 
