@@ -21,6 +21,8 @@ This course covers:
 - Testing of Express routes with Supertest and Tape
 - Refactoring Express routes with middleware to avoiding code duplication
 
+> The code created during this course can be found in the following repo https://github.com/wlsf82/node-and-express/.
+
 ## TDD Day - [Eric Elliott JS](https://ericelliottjs.com/premium-content)
 
 This course covers:
