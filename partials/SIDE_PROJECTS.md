@@ -4,7 +4,7 @@
 
 In March of 2018, I launched an online school to teach test automation to new QAs or even experienced professionals.
 
-The school already has more than **1350** students and **six** courses.
+The school already has more than **1400** students and **six** courses.
 
 The courses are:
 
