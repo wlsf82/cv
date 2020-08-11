@@ -16,15 +16,16 @@ Bachelor in business management with an emphasis on system information analysis 
 ## Technologies and languages
 
 * **Languages:** JavaScript, TypeScript, Ruby
-* **Technologies:** Nodejs, React, React Native, Next.js, VueJS, Angular, jQuery, Handlebars, Express, GraphQL, HTML5, CSS3, Styled Components, CSS Modules, Drupal, Rails, MongoDB, WebRTC, AWS, Terraform, git, GitHub, GitLab, Bitbucket, GoCD, SemaphoreCI, Jenkins, Docker, Vagrant, Selenium, Cypress, Protractor, Webdriver IO, Applitools, BackstopJS, Rspec, Capybara, Jasmine, Mocha, Jest, Enzime, Chai, Supertest, JSDOM, Tape, XCUI Test, Postman, StandardJS, ESLint, Babel, Linux, Unix
+* **Technologies:** Nodejs, Serverless Stack, Seed, Netlify, React, React Native, Next.js, Vercel, Firebase, Heroku, VueJS, Angular, jQuery, Handlebars, Express, GraphQL, HTML5, CSS3, Styled Components, CSS Modules, Drupal, Rails, MongoDB, WebRTC, AWS, Terraform, git, GitHub, GitLab, Bitbucket, GoCD, SemaphoreCI, Jenkins, Docker, Vagrant, Selenium, Cypress, Protractor, Webdriver IO, Applitools, BackstopJS, Rspec, Capybara, Jasmine, Mocha, Jest, Enzime, Chai, Supertest, JSDOM, Tape, XCUI Test, Postman, StandardJS, ESLint, Babel, Linux, Unix
 * **Programing paradigms:** Object-oriented programming, functional programming
 * **Other:** Jira, Trello, Rally, Slack, GSuite, Zoom, Whereby
 
 ## Professional experience
 
-### Part-time Software Developer at [Taller Digital Business](https://taller.net.br/en/) (July 2020 - current job)
+### Software Consultant at [Taller Digital Business](https://taller.net.br/en/) (July 2020 - current job)
 
-- Full-stack development with Drupal, React, React Native, Next.js, GraphQL, and Apollo
+- Consulting in quality assurance subjects
+- Workshops and trainings in testing automation topics
 - Using kanban for project management
 - 100% remote
 
