@@ -33,6 +33,8 @@ And below, you can find the list of side-projects that I mentioned earlier.
 * https://github.com/wlsf82/gather-codecademy
 * https://github.com/wlsf82/nextjs-blog
 * https://github.com/wlsf82/walmyr-nextjs
+* https://github.com/wlsf82/serverless-stack-api
+* https://github.com/wlsf82/serverless-stack-client
 
 Best regards,
 
