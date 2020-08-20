@@ -28,6 +28,7 @@ Bachelor in business management with an emphasis on system information analysis 
 - Workshops and trainings in testing automation topics
 - Using kanban for project management
 - 100% remote
+- I work for Taller only 10 hours per month
 
 ### Senior Software Engineer in Test at [GitLab](https://gitlab.com) (March 2019 - June 2020)
 
