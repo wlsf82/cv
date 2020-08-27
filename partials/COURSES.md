@@ -1,5 +1,18 @@
 # Courses I took recently
 
+## Contract Tests with Pact - [Test Automation University](https://testautomationu.applitools.com/pact-contract-tests/) (**in-progress**)
+
+This course covers:
+
+- Introduction to Contract Tests
+- Setting up Pact
+- Creating your first test
+- Publishing and Matching
+- Best Practices for Contract Testing
+- Authentication and Authorization
+- Common Issues and Analyzing Test Results
+- CI/CD Pipeline
+
 ## Functional Programming - [Eric Elliott JS](https://ericelliottjs.com/premium-content) (**in-progress**)
 
 This course covers:
