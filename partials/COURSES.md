@@ -13,6 +13,8 @@ This course covers:
 - Common Issues and Analyzing Test Results
 - CI/CD Pipeline
 
+**Note:** The code created during this course can be found through the following URL https://github.com/wlsf82/tau-pact-nodejs-course.
+
 ## Functional Programming - [Eric Elliott JS](https://ericelliottjs.com/premium-content) (**in-progress**)
 
 This course covers:
