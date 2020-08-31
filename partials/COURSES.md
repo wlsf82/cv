@@ -1,6 +1,6 @@
 # Courses I took recently
 
-## Contract Tests with Pact - [Test Automation University](https://testautomationu.applitools.com/pact-contract-tests/) (**in-progress**)
+## Contract Tests with Pact - [Test Automation University](https://testautomationu.applitools.com/pact-contract-tests/)
 
 This course covers:
 
