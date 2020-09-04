@@ -1,6 +1,6 @@
 # Courses I took recently
 
-## [THE BADASS WORKSHOP](https://www.thebadassworkshop.com) - by Bozama Saint Jones
+## [THE BADASS WORKSHOP](https://www.thebadassworkshop.com) - by Bozama Saint John
 
 This workshop covers:
 
