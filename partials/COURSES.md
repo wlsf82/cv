@@ -1,5 +1,15 @@
 # Courses I took recently
 
+## [THE BADASS WORKSHOP](https://www.thebadassworkshop.com) - by Bozama Saint Jones
+
+This workshop covers:
+
+- Session 1: Learn to identify your unique talents and show up as your full self
+- Session 2: Find your voice to create the career you want... and be LOUD about it
+- Session 3: How to ask, get, make, and do the most
+- Session 4: Condition your inner BUSINESS athlete to play the long game
+- Session 5: Manifest the lessons in sessions 1-4 into your future self RIGHT NOW
+
 ## Contract Tests with Pact - [Test Automation University](https://testautomationu.applitools.com/pact-contract-tests/)
 
 This course covers:
