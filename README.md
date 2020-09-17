@@ -22,6 +22,10 @@ Bachelor in business management with an emphasis on system information analysis 
 
 ## Professional experience
 
+### QA engineer at [QWIC](https://qwic.eu/)  (September 2020 - current job)
+
+TBD.
+
 ### Software Consultant at [Taller Digital Business](https://taller.net.br/en/) (July 2020 - current job)
 
 - Consulting in quality assurance subjects
