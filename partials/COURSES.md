@@ -1,5 +1,17 @@
 # Courses I took recently
 
+## Functional Programming and SOLID - by Robert C. Martin on [Clean Coders](https://cleancoders.com/episode/clean-code-episode-58)
+
+This video talks about how SOLID principles can adhere to the functional paradigm.
+
+The five solid principles are:
+
+- SRP - The Single Responsibility Principle,
+- OCP - The Open-Closed Principle,
+- LSP - The Liskov Substitution Principle,
+- ISP - The Interface Segregation Principle, and
+- DIP - The Dependency Inversion Principle.
+
 ## [THE BADASS WORKSHOP](https://www.thebadassworkshop.com) - by Bozama Saint John
 
 This workshop covers:
