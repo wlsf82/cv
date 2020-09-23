@@ -32,7 +32,7 @@ Some of the activities I perform (or will perform in the near future) at QWIC ar
 - Component testing
 - Continuous integration, continuous deployment, and continuous delivery
 
-### Software Consultant at [Taller Digital Business](https://taller.net.br/en/) (July 2020 - current job)
+### Software Consultant at [Taller Digital Business](https://taller.net.br/en/) (July 2020 - currently consulting)
 
 - Consulting in quality assurance subjects
 - Workshops and trainings in testing automation topics
