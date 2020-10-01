@@ -24,12 +24,13 @@ Bachelor in business management with an emphasis on system information analysis 
 
 ### QA engineer at [QWIC](https://qwic.eu/)  (September 2020 - current job)
 
-Some of the activities I perform (or will perform in the near future) at QWIC are:
+Some of the activities I perform (or will perform in the future) at QWIC are:
 
 - End-to-end testing with Puppeteer and Jest
 - Researching and making proofs of concepts for iOT testing
 - Integration testing (API and contract testing)
 - Component testing
+- Mobile testing
 - Continuous integration, continuous deployment, and continuous delivery
 
 ### Software Consultant at [Taller Digital Business](https://taller.net.br/en/) (July 2020 - currently consulting)
