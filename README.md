@@ -22,7 +22,7 @@ Bachelor in business management with an emphasis on system information analysis 
 
 ## Professional experience
 
-### QA engineer at [QWIC](https://qwic.eu/)  (September 2020 - current job)
+### Senior QA engineer at [QWIC](https://qwic.eu/)  (September 2020 - current job)
 
 Some of the activities I perform (or will perform in the future) at QWIC are:
 
