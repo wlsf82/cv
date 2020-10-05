@@ -33,13 +33,12 @@ Some of the activities I perform (or will perform in the future) at QWIC are:
 - Mobile testing
 - Continuous integration, continuous deployment, and continuous delivery
 
-### Software Consultant at [Taller Digital Business](https://taller.net.br/en/) (July 2020 - currently consulting)
+### Software Consultant at [Taller Digital Business](https://taller.net.br/en/) (July 2020 - September 2020)
 
 - Consulting in quality assurance subjects
 - Workshops and trainings in testing automation topics
 - Using kanban for project management
 - 100% remote
-- I work for Taller 10 hours per month
 
 ### Senior Software Engineer in Test at [GitLab](https://gitlab.com) (March 2019 - June 2020)
 
