@@ -1,5 +1,19 @@
 # Courses I took recently
 
+## [Epic React](https://epicreact.dev) - by Kent C. Dodds (**in-progress**)
+
+This course covers:
+
+- React Fundamentals
+- React Hooks
+- Advanced React Hooks
+- Advanced React Patterns
+- React Performance
+- Testing React Apps
+- React Suspense
+- Build an Epic React App
+- Bonus Interviews with React Community Experts
+
 ## Functional Programming and SOLID - by Robert C. Martin on [Clean Coders](https://cleancoders.com/episode/clean-code-episode-58)
 
 This video talks about how SOLID principles can adhere to the functional paradigm.
