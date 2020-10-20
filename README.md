@@ -27,7 +27,7 @@ Bachelor in business management with an emphasis on system information analysis 
 Some of the activities I perform (or will perform in the future) at QWIC are:
 
 - End-to-end testing with Puppeteer and Jest
-- Researching and making proofs of concepts for iOT testing
+- Researching and making proofs of concepts for IoT testing
 - Integration testing (API and contract testing)
 - Component testing
 - Mobile testing
