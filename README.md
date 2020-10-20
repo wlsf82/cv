@@ -31,6 +31,7 @@ Some of the activities I perform (or will perform in the future) at QWIC are:
 - Integration testing (API and contract testing)
 - Component testing
 - Mobile testing
+- Code review
 - Continuous integration, continuous deployment, and continuous delivery
 
 ### Software Consultant at [Taller Digital Business](https://taller.net.br/en/) (July 2020 - September 2020)
