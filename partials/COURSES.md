@@ -14,6 +14,10 @@ This course covers:
 - Build an Epic React App
 - Bonus Interviews with React Community Experts
 
+I've started documenting the learnings of each module, and I'll list them below, as I finish each one.
+
+- http://github.com/wlsf82/epic-react-fundamentals
+
 ## Functional Programming and SOLID - by Robert C. Martin on [Clean Coders](https://cleancoders.com/episode/clean-code-episode-58)
 
 This video talks about how SOLID principles can adhere to the functional paradigm.
