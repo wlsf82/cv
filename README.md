@@ -34,6 +34,11 @@ Some of the activities I perform (or will perform in the future) at QWIC are:
 - Code review
 - Continuous integration, continuous deployment, and continuous delivery
 
+Some of my achievements at QWIC so far are:
+
+- Improvements in the test automation framework to allow for easy maintenance and readability
+- Improvements on git workflow to improve the overal team effeciency and productivity
+
 ### Software Consultant at [Taller Digital Business](https://taller.net.br/en/) (July 2020 - September 2020)
 
 - Consulting in quality assurance subjects
