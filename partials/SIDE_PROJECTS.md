@@ -12,7 +12,7 @@ The courses are:
 - [backtop-config mini-course](https://talkingabouttesting.coursify.me/courses/mini-curso-testes-de-regressao-visual-com-backstop-config)
 - [Test automation with Cypress (basic)](https://talkingabouttesting.coursify.me/courses/testes-automatizados-com-cypress-basico)
 - [Test automation with Cypress (intermediate)](https://talkingabouttesting.coursify.me/courses/testes-automatizados-com-cypress-intermediario)
-- [Test automation with Cypress and Percy (basic)](https://talkingabouttesting.coursify.me/courses/testes-automatizados-com-cypress-e-percy-basico)
+- [Visual regression testing with Cypress and Percy (basic)](https://talkingabouttesting.coursify.me/courses/testes-automatizados-com-cypress-e-percy-basico)
 - [Visual regression testing with BackstopJS](https://talkingabouttesting.coursify.me/courses/testes-de-regressao-visual-com-backstopjs)
 - [Test architecture with Protractor](https://talkingabouttesting.coursify.me/courses/arquitetura-de-testes-com-protractor)
 
@@ -26,7 +26,7 @@ The courses are:
 - [Test automation with Cypress basic](https://www.udemy.com/course/testes-automatizados-com-cypress-basico/) (Portuguese)
 - [Test automation with Cypress intermediate](https://www.udemy.com/course/test-automation-with-cypress-intermediate/)
 - [Test automation with Cypress intermediate](https://www.udemy.com/course/testes-automatizados-com-cypress-intermediario/) (Portuguese)
-- [Test automation with Cypress and Percy basic](https://www.udemy.com/course/testes-automatizados-com-cypress-e-percy-basico/) (Portuguese)
+- [Visual regression testing with Cypress and Percy basic](https://www.udemy.com/course/testes-automatizados-com-cypress-e-percy-basico/) (Portuguese)
 - [Visual regression testing with BackstopJS](https://www.udemy.com/course/visual-regression-testing-with-backstopjs)
 - [Visual regression testing with BackstopJS](https://www.udemy.com/course/testes-de-regressao-visual-com-backstopjs/) (Portuguese)
 - [Test architecture with Protractor](https://www.udemy.com/course/arquitetura-de-testes-com-protractor/) (Portuguese)
