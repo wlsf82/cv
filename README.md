@@ -32,8 +32,10 @@ Some of the activities I perform (or will perform in the future) at QWIC are:
 - Component testing
 - Mobile testing
 - Code review
+- Code refacrtoring
 - Triaging of service desk issues
 - Continuous integration, continuous deployment, and continuous delivery
+- Development and small features using React
 
 Some of my achievements at QWIC so far are:
 
