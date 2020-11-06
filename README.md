@@ -41,6 +41,8 @@ Some of my achievements at QWIC so far are:
 
 - Improvements in the test automation framework to allow for easy maintenance and readability
 - Improvements on git workflow to improve the overal team effeciency and productivity
+- Process improvements using Kanban to allow for a more steady and predictable system
+- Automatic version and security updates implementation using GitHub Dependabot
 
 ### Software Consultant at [Taller Digital Business](https://taller.net.br/en/) (July 2020 - September 2020)
 
