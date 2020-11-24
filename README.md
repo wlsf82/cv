@@ -40,7 +40,7 @@ Some of the activities I perform (or will perform in the future) at QWIC are:
 Some of my achievements at QWIC so far are:
 
 - Improvements in the test automation framework to allow for easy maintenance and readability
-- Improvements on git workflow to improve the overal team effeciency and productivity
+- Improvements on git workflow to improve the overall team efficiency and productivity
 - Process improvements using Kanban to allow for a more steady and predictable system
 - Automatic version and security updates implementation using GitHub Dependabot
 
