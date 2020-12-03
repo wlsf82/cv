@@ -2,7 +2,7 @@
 
 I'm looking for a challenging opportunity as a **Quality Assurance Engineer**, **Software Engineer in Test (SET)**, or **Software Development Engineer in Test (SDET)**.
 
-The ideal position would be in the **JavaScript/TypeScript** realm, using **React** in the frontend, **Node.js** in the backend, **Cypress** or **Protractor** for end-to-end testing, and one of the following tools for continuous integration (**GoCD** or **SemaphoreCI**).
+The ideal position would be in the **JavaScript/TypeScript** realm, using **React** in the frontend, **Node.js** in the backend, **Cypress** for test automation, and one of the following tools for continuous integration (**GoCD** or **SemaphoreCI**).
 
 Ideally, this position would be **100% remote**.
 Also, it would be for **product development**.
