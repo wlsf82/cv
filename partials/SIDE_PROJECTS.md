@@ -31,7 +31,7 @@ The courses are:
 - [Visual regression testing with BackstopJS](https://www.udemy.com/course/testes-de-regressao-visual-com-backstopjs/) (Portuguese)
 - [Test architecture with Protractor](https://www.udemy.com/course/arquitetura-de-testes-com-protractor/) (Portuguese)
 
-**Note:** On Udemy, I already have more than **2000** students.
+**Note:** On Udemy, I already have more than **2100** students.
 
 ## Book: [End to end testing with Protractor - Lessons learned about e2e test automation](https://leanpub.com/end-to-end-testing-with-protractor)
 
