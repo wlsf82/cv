@@ -31,7 +31,7 @@ Some of the activities I perform at QWIC are:
 - Code refacrtoring
 - Triaging of service desk issues
 - Continuous integration, continuous deployment, and continuous delivery
-- Development and small features using React
+- Development of small features using React
 
 Some of my achievements at QWIC so far are:
 
