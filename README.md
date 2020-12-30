@@ -24,13 +24,9 @@ Bachelor in business management with an emphasis on system information analysis 
 
 ### Senior QA engineer at [QWIC](https://qwic.eu/)  (September 2020 - current job)
 
-Some of the activities I perform (or will perform in the future) at QWIC are:
+Some of the activities I perform at QWIC are:
 
 - End-to-end testing with Puppeteer and Jest
-- Researching and making proofs of concepts for IoT testing
-- Integration testing (API and contract testing)
-- Component testing
-- Mobile testing
 - Code review
 - Code refacrtoring
 - Triaging of service desk issues
