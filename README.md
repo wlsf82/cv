@@ -44,7 +44,6 @@ Some of my achievements at QWIC so far are:
 
 - Consulting in quality assurance subjects
 - Workshops and trainings in testing automation topics
-- Using kanban for project management
 - 100% remote
 
 ### Senior Software Engineer in Test at [GitLab](https://gitlab.com) (March 2019 - June 2020)
