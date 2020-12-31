@@ -51,7 +51,7 @@ This project is a library with different methods that can be used together with 
 
 ## Visual regression testing with [backstop-config](https://github.com/wlsf82/backstop-config)
 
-This project has a simple implementation of BackstopJS tests that can be used by anyone who needs to run screenshot comparison tests in static web pages that have different URLs.
+This project has a simple implementation of BackstopJS tests that can be used by anyone who needs to run screenshot comparison tests in static web pages that have different relative URLs.
 
 ## Architecture proposal: [Protractor components and page objects](https://github.com/wlsf82/protractor-components-and-page-objects)
 
