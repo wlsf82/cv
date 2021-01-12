@@ -27,8 +27,9 @@ Bachelor in business management with an emphasis on system information analysis 
 Some of the activities I perform at QWIC are:
 
 - End-to-end testing with Puppeteer and Jest
-- Code review
-- Code refacrtoring
+- Component testing with Cypress
+- Code reviews
+- Refacrtoring
 - Triaging of service desk issues
 - Continuous integration, continuous deployment, and continuous delivery
 - Development of small features using React
