@@ -2,7 +2,7 @@
 
 **E-mail:** wlsf82@gmail.com  
 **Phone:** +31 06 15 18 91 75  
-**Website:** https://walmyr.dev  
+**Websites:** https://walmyr.dev and https://walmyrfilho.com 
 **Medium:** https://medium.com/@walmyrlimaesilv  
 **Blog:** https://talkingabouttesting.com  
 **Codecademy:** https://www.codecademy.com/profiles/wlsf82  
