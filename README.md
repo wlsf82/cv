@@ -1,4 +1,5 @@
 # Walmyr Filho
+### Thought leader in quality assurance | online teacher | YouTubber | Blogger | Mentor
 
 **E-mail:** wlsf82@gmail.com  
 **Phone:** +31 06 15 18 91 75  
