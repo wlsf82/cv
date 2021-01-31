@@ -22,11 +22,23 @@ Bachelor in business management with an emphasis on system information analysis 
 
 ## Professional experience
 
-### Senior QA engineer at [QWIC](https://qwic.eu/)  (September 2020 - current job)
+### Online teacher and founder at [Talking About Testing school](https://talkingabouttesting.coursify.me) (2018 - current job)
 
-Some of the activities I perform at QWIC are:
+In 2018, I've started an online school called Talking About Testing, and for three years I worked on it as a side-project. The school is focused on teaching all about testing automation.
+
+The school already has seven courses in Portuguese, and five courses in English (the courses in English are available on [Udemy](https://www.udemy.com/user/walmyr/).)
+
+Summing up the number of students on both platforms, I already have almost 4K students.
+
+From February of 2021, I'm taking the school to its next level, and I'm making it my fulltime job, and I intend to reclycle old-courses, launch new ones, besides other smaller improvements here and there.
+
+### Senior QA engineer at [QWIC](https://qwic.eu/)  (September 2020 - January 2021)
+
+Some of the activities I performed at QWIC were:
 
 - End-to-end testing with Puppeteer and Jest
+- Migrating Puppeteer + Jest tests into Cypress tests
+- Increasing the test coverage
 - Component testing with Cypress
 - Code reviews
 - Refacrtoring
@@ -34,12 +46,13 @@ Some of the activities I perform at QWIC are:
 - Continuous integration, continuous deployment, and continuous delivery
 - Development of small features using React
 
-Some of my achievements at QWIC so far are:
+Some of my achievements at QWIC were:
 
 - Improvements in the test automation framework to allow for easy maintenance and readability
 - Improvements on git workflow to improve the overall team efficiency and productivity
 - Process improvements using Kanban to allow for a more steady and predictable system
 - Automatic version and security updates implementation using GitHub Dependabot
+- Allowing test the frontend independent of the backend
 
 ### Software Consultant at [Taller Digital Business](https://taller.net.br/en/) (July 2020 - September 2020)
 
