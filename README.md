@@ -42,7 +42,7 @@ Some of the activities I performed at QWIC were:
 - Increasing the test coverage
 - Component testing with Cypress
 - Code reviews
-- Refacrtoring
+- Refactoring
 - Triaging of service desk issues
 - Continuous integration, continuous deployment, and continuous delivery
 - Development of small features using React
