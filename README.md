@@ -4,6 +4,7 @@
 **E-mail:** wlsf82@gmail.com  
 **Phone:** +31 06 15 18 91 75  
 **Websites:** https://walmyr.dev and https://walmyrfilho.com  
+**Dev Community:** https://dev.to/walmyrlimaesilv  
 **Medium:** https://medium.com/@walmyrlimaesilv  
 **Blog:** https://talkingabouttesting.com  
 **Codecademy:** https://www.codecademy.com/profiles/wlsf82  
