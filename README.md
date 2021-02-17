@@ -30,7 +30,7 @@ In 2018, I started an online school called Talking About Testing, and for three 
 
 The school already has seven courses in Portuguese and six courses in English (the courses in English are available on [Udemy](https://www.udemy.com/user/walmyr/).)
 
-Summing up the number of students on both platforms, I already have almost 4K students.
+Summing up the number of students on both platforms, I already have more than 4K students.
 
 From February of 2021, I'm taking the school to its next level, and I'm making it my full-time job, where I intend to recycle old-courses, launch new ones, besides other smaller improvements here and there.
 
