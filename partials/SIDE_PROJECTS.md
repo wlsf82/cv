@@ -29,6 +29,7 @@ The courses are:
 - [Visual regression testing with Cypress and Percy basic](https://www.udemy.com/course/testes-automatizados-com-cypress-e-percy-basico/) (Portuguese)
 - [Visual regression testing with BackstopJS](https://www.udemy.com/course/visual-regression-testing-with-backstopjs)
 - [Visual regression testing with BackstopJS](https://www.udemy.com/course/testes-de-regressao-visual-com-backstopjs/) (Portuguese)
+- [Testing automation with Protractor](https://www.udemy.com/course/testing-automation-with-protractor/)
 - [Test architecture with Protractor](https://www.udemy.com/course/arquitetura-de-testes-com-protractor/) (Portuguese)
 
 **Note:** On Udemy, I already have more than **2400** students.
