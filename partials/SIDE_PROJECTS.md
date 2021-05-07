@@ -47,7 +47,7 @@ In this book, you will find a collection of practices to implement end-to-end te
 
 This project is a YouTube channel with hands-on videos about test automation, group conversations, mentoring sessions, and career-related topics.
 
-**Note:** The content is in Portuguese.
+**Note:** The majority of the content is in Portuguese, but I've started a English content playlist.
 
 ## Node module: [protractor-helper](http://npmjs.com/package/protractor-helper)
 
