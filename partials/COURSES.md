@@ -1,5 +1,21 @@
 # Courses I took recently
 
+## [Advanced Cypress](https://testautomationu.applitools.com/advanced-cypress-tutorial/) - by Filip Hric
+
+This course covers:
+
+- Setup
+- Chaining commands
+- Multiple assertions
+- Changing the DOM
+- Cookies
+- Sending requests
+- Intercepting newtwork requests
+- Stubbing responses
+- Creating a custom command
+- Installing plugins
+- Running a task
+
 ## [Epic React](https://epicreact.dev) - by Kent C. Dodds (**in-progress**)
 
 This course covers:
