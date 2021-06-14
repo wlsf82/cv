@@ -26,11 +26,6 @@ And below, you can find the list of side-projects that I mentioned earlier.
 * https://github.com/wlsf82/hackernews
 * https://github.com/wlsf82/meal-maker
 * https://github.com/wlsf82/chore-door
-* https://github.com/wlsf82/piano-player
-* https://github.com/wlsf82/musicon
-* https://github.com/wlsf82/the-road-to-graphql
-* https://github.com/wlsf82/vidbits-codecademy
-* https://github.com/wlsf82/gather-codecademy
 * https://github.com/wlsf82/nextjs-blog
 * https://github.com/wlsf82/walmyr-nextjs
 * https://github.com/wlsf82/serverless-stack-api
