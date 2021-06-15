@@ -24,11 +24,11 @@ Bachelor in business management with an emphasis on system information analysis 
 
 ## Professional experience
 
-### Online teacher and founder at [Talking About Testing school](https://talkingabouttesting.coursify.me) (2018 - current job)
+### Online teacher and founder at [Talking About Testing school](https://www.udemy.com/user/walmyr/) (2018 - current job)
 
 In 2018, I started an online school called Talking About Testing, and for three years, I worked on it as a side-project. The school is focused on teaching all about testing automation.
 
-The school already has eight courses in Portuguese and seven courses in English (the courses in English are available on [Udemy](https://www.udemy.com/user/walmyr/).)
+The school already has eight courses in Portuguese and seven courses in English.
 
 Summing up the number of students on both platforms, I already have more than 5K students.
 
