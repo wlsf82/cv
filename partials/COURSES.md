@@ -171,7 +171,7 @@ What's in a Web page, programming with the DOM, finding live Web elements, CSS s
 This course covers:
 Setting up Cypress, writing the first test, accessing elements and interacting with them, validations, grouping tests with Mocha, Cypress CLI, Page Objects in Cypress, and visual validation.
 
-## KMP I & KMP II - [Aspercom](http://aspercom.com.br/treinamento/)
+## KMP I & KMP II - [Aspercom](https://aspercom.com.br/treinamentos/)
 
 Kanban System Design & Kanban Management Professional
 
