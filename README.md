@@ -28,9 +28,9 @@ Bachelor in business management with an emphasis on system information analysis 
 
 In 2018, I started an online school called Talking About Testing, and for three years, I worked on it as a side-project. The school is focused on teaching all about testing automation.
 
-The school already has eight courses in Portuguese and seven courses in English.
+The school already has nine courses in Portuguese and seven courses in English.
 
-Summing up the number of students on both platforms, I already have more than 5K students.
+Summing up the number of students on both platforms (Coursify.me and Udemy), I already have more than 6.5K students.
 
 From February of 2021, I'm taking the school to its next level, and I'm making it my full-time job, where I intend to recycle old-courses, launch new ones, besides other smaller improvements here and there.
 
