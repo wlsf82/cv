@@ -13,6 +13,7 @@
 - Building Software Teams - Ten best practices for effective software development - by Joost Vissers
 - Building Maintainable Software - Ten guidelines for future-proof code - by Joost Vissers
 - Composing Software - An explanation of functional programming and object composition in JavaScript - by Eric Elliott
+- Programming JavaScript Applications - Robust web architecture with Node, HTML5, and modern JS libraries, by Eric Elliott **(in-progress)**
 - Clean Code - A handbook of agile software craftsmanship - by Robert C. Martin
 - The Clean Coder - A code of conduct for professional programmers - by Robert C. Martin
 - Clean architecture - A craftsman's guide to software structure and design - by Robert C. Martin
