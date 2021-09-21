@@ -18,13 +18,13 @@ Bachelor in business management with an emphasis on system information analysis 
 ## Technologies and languages
 
 * **Languages:** JavaScript, TypeScript, Ruby
-* **Technologies:** Nodejs, Serverless Stack, Seed, Netlify, React, React Native, Next.js, Vercel, Firebase, Heroku, VueJS, Angular, jQuery, Handlebars, Express, GraphQL, HTML5, CSS3, Styled Components, CSS Modules, Drupal, Rails, MongoDB, WebRTC, AWS, Terraform, Sentry, git, GitHub, GitLab, Bitbucket, GoCD, SemaphoreCI, CircleCI, Jenkins, Docker, Vagrant, Selenium, Cypress, Puppeteer, Protractor, Webdriver IO, Applitools, BackstopJS, Rspec, Capybara, Jasmine, Mocha, Jest, Enzime, Chai, Supertest, JSDOM, Tape, XCUI Test, Postman, StandardJS, ESLint, Babel, Linux, Unix
+* **Technologies:** Nodejs, Serverless Stack, Seed, Netlify, React, React Native, Next.js, Vercel, Firebase, Heroku, VueJS, Angular, jQuery, Handlebars, Express, GraphQL, HTML5, CSS3, Styled Components, CSS Modules, Drupal, Rails, MongoDB, WebRTC, AWS, Terraform, Sentry, git, GitHub, GitLab, Bitbucket, GoCD, SemaphoreCI, CircleCI, Jenkins, Docker, Vagrant, Selenium, Cypress, Puppeteer, Protractor, Webdriver IO, Applitools, BackstopJS, Percy, Rspec, Capybara, Jasmine, Mocha, Jest, Enzime, Chai, Supertest, JSDOM, Tape, XCUI Test, Postman, StandardJS, ESLint, Babel, Linux, Unix
 * **Programing paradigms:** Object-oriented programming, functional programming
 * **Other:** Jira, Trello, Rally, Slack, GSuite, Zoom, Whereby, MS Teams
 
 ## Professional experience
 
-### Online teacher and founder at [Talking About Testing school](https://www.udemy.com/user/walmyr/) (2018 - current job)
+### Online instructor and founder at [Talking About Testing school](https://www.udemy.com/user/walmyr/) (2018 - current job)
 
 In 2018, I started an online school called Talking About Testing, and for three years, I worked on it as a side-project. The school is focused on teaching all about testing automation.
 
@@ -32,7 +32,7 @@ The school already has nine courses in Portuguese and seven courses in English.
 
 Summing up the number of students on both platforms (Coursify.me and Udemy), I already have more than 7K students.
 
-From February of 2021, I'm taking the school to its next level, and I'm making it my full-time job, where I intend to recycle old-courses, launch new ones, besides other smaller improvements here and there.
+From February of 2021, I'm taking the school to its next level, and I'm making it my full-time job, where I intend to recycle old-courses, launch new ones, besides other improvements here and there.
 
 ### Senior QA engineer at [QWIC](https://qwic.eu/)  (September 2020 - January 2021)
 
@@ -54,7 +54,7 @@ Some of my achievements at QWIC were:
 - Improvements on git workflow to improve the overall team efficiency and productivity
 - Process improvements using Kanban to allow for a more steady and predictable system
 - Automatic version and security updates implementation using GitHub Dependabot
-- Allowing to test the frontend independent of the backend
+- Allowing to test the frontend independent of the backend using Cypress
 
 ### Software Consultant at [Taller Digital Business](https://taller.net.br/en/) (July 2020 - September 2020)
 
