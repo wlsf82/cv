@@ -173,6 +173,10 @@ _Projects:_
 - [Eco Benefícios](https://www.ecobeneficios.com.br)
 - [Eco Frotas](https://www.ecofrotas.com.br)
 
+### Other jobs as a tester/QA
+
+Before moving into test automation, I worked as a manual tester at Hewlett-Packard, Sicredi, Softplan, Dell Computers, and Datum TI.
+
 ## Side projects and community contribution
 
 Here's a [list of side projects](./partials/SIDE_PROJECTS.md) I work on.
