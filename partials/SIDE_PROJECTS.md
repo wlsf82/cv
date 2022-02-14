@@ -1,5 +1,9 @@
 # Side projects & community contributions
 
+## Podcast: [Testando na Gringa](https://anchor.fm/testando-na-gringa)
+
+In January of 2022, together with Alekson Fortes, I started a podcast to talk about everything related to software engineering and quality.
+
 ## Online School: [talkingabouttesting.coursify.me](http://talkingabouttesting.coursify.me)
 
 In March of 2018, I launched an online school to teach test automation to new QAs or even experienced professionals.
