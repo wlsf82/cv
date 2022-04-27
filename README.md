@@ -24,7 +24,7 @@ Bachelor in business management with an emphasis on system information analysis 
 
 ## Professional experience
 
-### Senior Quality Assistance Software Engineer at [Typeform](https://https://www.typeform.com)
+### Senior Quality Assistance Software Engineer at [Typeform](https://https://www.typeform.com) (March 2022 - current job)
 
 TBD.
 
