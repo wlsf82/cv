@@ -63,12 +63,4 @@ This project is a library with different methods that can be used together with 
 
 This project has a simple implementation of BackstopJS tests that can be used by anyone who needs to run screenshot comparison tests in static web pages that have different relative URLs.
 
-## Architecture proposal: [Protractor components and page objects](https://github.com/wlsf82/protractor-components-and-page-objects)
-
-In this project, I demonstrate an architecture proposal for writing GUI tests with Protractor using a concept of components, to have stable, reliable, and maintainable end-to-end tests.
-
-## [Mentoring](https://talkingabouttesting.com/mentoria-coaching/)
-
-In this project, I mentor QAs in subjects related to test automation, agile testing, continuous integration, version control, DevOps, and career, to help them grow and be better professionals.
-
 [Back to homepage](../README.md)
