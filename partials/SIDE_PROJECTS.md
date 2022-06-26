@@ -41,7 +41,7 @@ The courses are:
 - [Testing automation with Protractor](https://www.udemy.com/course/testing-automation-with-protractor/)
 - [Test architecture with Protractor](https://www.udemy.com/course/arquitetura-de-testes-com-protractor/) (Portuguese)
 
-**Note:** On Udemy, I already have more than **8000** students.
+**Note:** On Udemy, I already have more than **9000** students.
 
 ## Book: [End to end testing with Protractor - Lessons learned about e2e test automation](https://leanpub.com/end-to-end-testing-with-protractor)
 
