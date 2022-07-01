@@ -2,7 +2,7 @@
 ### Thought leader in QA | online teacher | YouTuber | Cypress.io Ambassador | Blogger | Mentor
 
 **E-mail:** wlsf82@gmail.com  
-**Phone:** +31 06 15 18 91 75  
+**Phone:** +34 669257533  
 **Websites:** https://walmyr.dev and https://walmyrfilho.com  
 **Dev Community:** https://dev.to/walmyrlimaesilv  
 **Medium:** https://medium.com/@walmyrlimaesilv  
