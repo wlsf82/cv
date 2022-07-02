@@ -26,7 +26,14 @@ Bachelor in business management with an emphasis on system information analysis 
 
 ### Senior Quality Assistance Software Engineer at [Typeform](https://https://www.typeform.com) (March 2022 - current job)
 
-TBD.
+At Typeform I:
+
+- Help teams with test automation tasks, especially with Cypress
+- Run Cypress Masterclasses
+- Run exploratory testing sessions
+- Help with visual regression testing related tasks
+- Refactor testing code
+- Review code
 
 ### Online instructor and founder at [Talking About Testing school](https://www.udemy.com/user/walmyr/) (2018 - current job)
 
