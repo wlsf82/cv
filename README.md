@@ -34,6 +34,7 @@ At Typeform I:
 - Help with visual regression testing related tasks
 - Refactor testing code
 - Review code
+- Enable teams on getting better at quality and testing-related subjects
 
 ### Online instructor and founder at [Talking About Testing school](https://www.udemy.com/user/walmyr/) (2018 - current job)
 
