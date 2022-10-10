@@ -42,7 +42,7 @@ In 2018, I started an online school called Talking About Testing, and for three 
 
 The school already has nine courses in Portuguese and six courses in English.
 
-Summing up the number of students on both platforms (Coursify.me and Udemy), I already have more than 12K students.
+Summing up the number of students on both platforms (Coursify.me and Udemy), I already have more than 13K students.
 
 From February of 2021, I'm taking the school to its next level, and I'm making it my full-time job, where I intend to recycle old-courses, launch new ones, besides other improvements here and there.
 
