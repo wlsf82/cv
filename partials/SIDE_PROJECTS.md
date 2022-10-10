@@ -55,7 +55,7 @@ This project is a YouTube channel with hands-on videos about test automation, gr
 **Note:** The majority of the content is in Portuguese, but I've started an [English content playlist](https://youtube.com/playlist?list=PL-eblSNRj0QFCgBuHFSSJUeEYDm6wwvHI).
 
 
-## Node module: [@walmyr-filho/cy-press]([http://npmjs.com/package/protractor-helper](https://www.npmjs.com/package/@walmyr-filho/cy-press))
+## Node module: [@walmyr-filho/cy-press](https://www.npmjs.com/package/@walmyr-filho/cy-press)
 
 A silly Cypress `.press()` command that simulates pressing a keyboard key.
 
