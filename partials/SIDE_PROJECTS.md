@@ -35,7 +35,6 @@ The courses are:
 - [Test automation with Cypress advanced](https://www.udemy.com/course/testes-automatizados-com-cypress-avancado/) (Portuguese)
 - [Good practices in testing automation with Cypress](https://www.udemy.com/course/boas-praticas-em-automacao-de-testes-com-cypress/?referralCode=53A9772BD676F93DC8A1) (Portuguese)
 - [End-to-end testing with Cypress](https://www.udemy.com/course/testes-end-to-end-com-cypress/?referralCode=BFC58FC7B29F2F37904D) (Portuguese)
-- [Visual regression testing with BackstopJS](https://www.udemy.com/course/visual-regression-testing-with-backstopjs)
 - [Visual regression testing with BackstopJS](https://www.udemy.com/course/testes-de-regressao-visual-com-backstopjs/) (Portuguese)
 - [Testing automation with Protractor](https://www.udemy.com/course/testing-automation-with-protractor/)
 - [Test architecture with Protractor](https://www.udemy.com/course/arquitetura-de-testes-com-protractor/) (Portuguese)
