@@ -40,7 +40,7 @@ At Typeform I:
 
 In 2018, I started an online school called Talking About Testing, and for three years, I worked on it as a side-project. The school is focused on teaching all about testing automation.
 
-The school already has nine courses in Portuguese and six courses in English.
+The school already has nine courses in Portuguese and five courses in English.
 
 Summing up the number of students on both platforms (Coursify.me and Udemy), I already have more than 13K students.
 
