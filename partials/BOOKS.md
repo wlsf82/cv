@@ -18,6 +18,7 @@
 - The Clean Coder - A code of conduct for professional programmers - by Robert C. Martin
 - Clean architecture - A craftsman's guide to software structure and design - by Robert C. Martin
 - Clean Agile - Back to Basics - by Robert C. Martin
+- The Software Craftsman: Professionalism, Pragmatism, Pride - By Sandro Mancuso
 - The Mantra of Productivity - Improve your productivity using focus techniques and personal organisation - by Dionatan Moura
 - To The Point - A receipt for creating lean products - by Paulo Caroli
 - The Flip Manifesto - 16 counterintuitive ideas about motivation, innovation, and leadership - by Daniel H. Pink
