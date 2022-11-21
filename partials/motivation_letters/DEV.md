@@ -13,7 +13,7 @@ As a bonus, I can help with **end-to-end testing** and **visual regression testi
 Ideally, the position would be **100% remote**.
 Also, it would be for **product development**.
 
-Finally, the company must value things such as **open-source**, **test automation**, **clean code**, **clean architecture**, **refactoring**, **pair programming**, **code reviews**, **small iterations**, **knowledge sharing**, and a **culture of mentorship**.
+Finally, the company must value things such as **open-source**, **test automation**, **clean code**, **clean architecture**, **refactoring**, **pair programming**, **code review**, **small iterations**, **knowledge sharing**, and a **culture of mentorship**.
 
 If your company has a position that could be a good fit for my profile, I'd be happy to have a chat.
 
