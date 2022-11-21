@@ -7,7 +7,7 @@ The ideal position would be in the **JavaScript/TypeScript** realm, using **Reac
 Ideally, this position would be **100% remote**.
 Also, it would be for **product development**.
 
-The company must value things such as **test automation**, **clean code**, **refactoring**, **pair programming**, **code reviews**, **small iterations**, **knowledge sharing**, **transparency**, and a **culture of mentorship**.
+The company must value things such as **open-source**, **test automation**, **clean code**, **refactoring**, **pair programming**, **code reviews**, **small iterations**, **knowledge sharing**, **transparency**, and a **culture of mentorship**.
 
 If your company has a position that could be a good fit for my profile, I'd be happy to have a chat.
 
