@@ -7,7 +7,7 @@ The ideal position would be in the **JavaScript/TypeScript** realm, using **Reac
 Ideally, this position would be **100% remote**, allow for **flexible working hours** (let people work when they're productive), encourage **async communication**, and have a **headcount of not greater than 50 people**.
 Also, it would be for **product development**.
 
-The company must value **autonomy**, **open-source**, **test automation**, **clean code/architecture**, **refactoring**, **pair programming**, **code review**, **small iterations**, **knowledge sharing**, **transparency**, and a **culture of mentorship**.
+The company must value **autonomy**, **results over worked hours**, **open-source**, **test automation**, **clean code/architecture**, **refactoring**, **pair programming**, **code review**, **small iterations**, **knowledge sharing**, **transparency**, and a **culture of mentorship**.
 
 If your company has a position that could be a good fit for my profile, I'd be happy to have a chat.
 
