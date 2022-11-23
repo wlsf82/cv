@@ -11,7 +11,7 @@ The company must value **autonomy**, **open-source**, **test automation**, **cle
 
 If your company has a position that could be a good fit for my profile, I'd be happy to have a chat.
 
-You can find my updated CV at **https://github.com/wlsf82/cv**.
+You can find my updated CV at **https://github.com/wlsf82/cv#walmyr-filho**.
 
 Best regards,
 
