@@ -160,7 +160,7 @@ At this job, I also had a quick experience as a software developer, writing PL/S
 
 ### Other jobs as a tester/QA
 
-Before moving into test automation, I worked as a manual tester at Hewlett-Packard, Sicredi, Softplan, Dell Computers, and Datum TI.
+Before moving into test automation (between 2004 and 2009), I worked as a manual tester at Hewlett-Packard, Sicredi, Softplan, Dell Computers, and Datum TI.
 
 ## Side projects and community contribution
 
