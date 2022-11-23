@@ -90,12 +90,6 @@ Some of the activities I performed as a SET at GitLab were:
 - Working on problems of diverse scope requiring independent evaluation of identifiable factors; recommending new approaches to resolve problems
 - At GitLab I worked 100% remote
 
-_Projects:_
-
-- [GitLab Community Edition](https://gitlab.com/gitlab-org/gitlab-foss)
-- [GitLab Enterprise Edition](https://gitlab.com/gitlab-org/gitlab)
-- [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/)
-
 ### QA engineer at [Qelp](https://qelp.com) (July 2018 - February 2019)
 
 I helped on defining a new software development process where quality is in mind since the definition of the software requirements until the moment it is running in production.
@@ -124,11 +118,6 @@ Every two months, I was the on-call engineer (available 24/7 in case of producti
 
 I used to work remotely very often.
 
-_Projects:_
-
-- [Whereby](https://whereby.com/)
-- [Whereby (iOS)](https://apps.apple.com/us/app/whereby-video-meetings/id878583078)
-
 ### Software developer and agile testing coach at [Taller Digital Business](https://taller.net.br/en/) (June 2014 – May 2016)
 
 At first, I was hired as a QA engineer to create automated acceptance tests in Gherkin format with Cucumber (in Ruby language).
@@ -144,17 +133,6 @@ At Taller, I also had the role of an agile testing coach. As so, I used to share
 At this position, I worked firstly using Scrum, and then we evolved for using Kanban and continuous flow.
 
 I used to work remotely occasionally.
-
-_Projects:_
-
-- [Natura Relatório Anual](https://www.natura.com.br/relatorio-anual)
-- [Natura Consumidor Final](https://www.natura.com.br/)
-- [Adoro Maquiagem](https://adoromaquiagem.com.br/)
-- [Drupal PECE](https://github.com/PECE-project/drupal-pece)
-- [FIESC-SENAI Portal/Sistema Espaço do Estudante](https://estudante.sc.senai.br/)
-- [Preço Info](https://precoinfo.com.br)
-- [Blog Taller](https://blog.taller.net.br/author/walmyr/)
-
 
 ### QA analyst at [ADP](https://www.adp.com) (April 2011 – May 2014)
 
@@ -179,11 +157,6 @@ At Good Card, I started the creation of a test automation framework for web appl
 Part of my job was also creating unit tests for database triggers and procedures, creating and executing manual test cases, and managing bugs.
 
 At this job, I also had a quick experience as a software developer, writing PL/SQL code.
-
-_Projects:_
-
-- [Eco Benefícios](https://www.ecobeneficios.com.br)
-- [Eco Frotas](https://www.ecofrotas.com.br)
 
 ### Other jobs as a tester/QA
 
