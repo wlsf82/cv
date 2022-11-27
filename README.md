@@ -172,4 +172,4 @@ Here's a [list of some books I read](./partials/BOOKS.md) that helped me with be
 
 ## Courses I took recently
 
-Here's a [list of courses I took recently](./partials/COURSES.md).
+Here's a [list of courses I took](./partials/COURSES.md).
