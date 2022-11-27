@@ -170,6 +170,6 @@ Here's a [list of side projects](./partials/SIDE_PROJECTS.md) I work on.
 
 Here's a [list of some books I read](./partials/BOOKS.md) that helped me with being the professional I am today.
 
-## Courses I took recently
+## Courses I took
 
 Here's a [list of courses I took](./partials/COURSES.md).
