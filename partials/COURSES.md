@@ -1,4 +1,4 @@
-# Courses I took recently
+# Courses I took
 
 ## [Advanced Cypress](https://testautomationu.applitools.com/advanced-cypress-tutorial/) - by Filip Hric
 
