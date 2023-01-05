@@ -1,5 +1,6 @@
 # Books I read
 
+- The Cathedral and the Bazaar - Musings on Linux and Open Source by an Accidental Revolutionary - by Eric S. Raymond 
 - Kanban - Successful Evolutionary Change for Your Technology Business - by David J. Anderson
 - The Goal - A process of ongoing improvement - 30th anniversary edition - by Eliyahu M. Goldratt, and Jeff Cox
 - How to change the world - Change management 3.0 - by Jurgen Appelo
