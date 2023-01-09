@@ -24,7 +24,17 @@ Bachelor in business management with an emphasis on system information analysis 
 
 ## Professional experience
 
-### Senior Quality Assistance Software Engineer at [Typeform](https://https://www.typeform.com) (March 2022 - current job)
+### Online instructor and founder at [Talking About Testing school](https://www.udemy.com/user/walmyr/) (2018 - current job)
+
+In 2018, I started an online school called Talking About Testing, and for three years, I worked on it as a side-project. The school is focused on teaching all about testing automation.
+
+The school already has nine courses in Portuguese and five courses in English.
+
+Summing up the number of students on both platforms (Coursify.me and Udemy), I already have more than 13K students.
+
+From February of 2021, I'm taking the school to its next level, and I'm making it my full-time job, where I intend to recycle old-courses, launch new ones, besides other improvements here and there.
+
+### Senior Quality Assistance Software Engineer at [Typeform](https://https://www.typeform.com) (March 2022 - January 2023)
 
 At Typeform I:
 
@@ -35,16 +45,6 @@ At Typeform I:
 - Refactor testing code
 - Review code
 - Enable teams on getting better at quality and testing-related subjects
-
-### Online instructor and founder at [Talking About Testing school](https://www.udemy.com/user/walmyr/) (2018 - current job)
-
-In 2018, I started an online school called Talking About Testing, and for three years, I worked on it as a side-project. The school is focused on teaching all about testing automation.
-
-The school already has nine courses in Portuguese and five courses in English.
-
-Summing up the number of students on both platforms (Coursify.me and Udemy), I already have more than 13K students.
-
-From February of 2021, I'm taking the school to its next level, and I'm making it my full-time job, where I intend to recycle old-courses, launch new ones, besides other improvements here and there.
 
 ### Senior QA engineer at [QWIC](https://qwic.eu/)  (September 2020 - January 2021)
 
