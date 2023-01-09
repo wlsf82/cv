@@ -38,13 +38,13 @@ From February of 2021, I'm taking the school to its next level, and I'm making i
 
 At Typeform I:
 
-- Help teams with test automation tasks, especially with Cypress
-- Run Cypress Masterclasses
-- Run exploratory testing sessions
-- Help with visual regression testing related tasks
-- Refactor testing code
-- Review code
-- Enable teams on getting better at quality and testing-related subjects
+- Helped teams with test automation tasks, especially with Cypress
+- Ran Cypress Masterclasses
+- Ran exploratory testing sessions
+- Helped with visual regression testing related tasks
+- Refactored testing code
+- Reviewed code
+- Enabled teams on getting better at quality and testing-related subjects
 
 ### Senior QA engineer at [QWIC](https://qwic.eu/)  (September 2020 - January 2021)
 
