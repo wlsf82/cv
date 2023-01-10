@@ -24,22 +24,19 @@ The courses are:
 
 ## Udemy courses:
 
-- [Introduction to test automation](https://www.udemy.com/course/introducao-aos-testes-automatizados/) (Portuguese)
-- [Test automation with Cypress basic](https://www.udemy.com/course/test-automation-with-cypress-basic/)
-- [Test automation with Cypress basic](https://www.udemy.com/course/testes-automatizados-com-cypress-basico/) (Portuguese)
-- [Test automation with Cypress intermediate](https://www.udemy.com/course/test-automation-with-cypress-intermediate/)
-- [Test automation with Cypress intermediate](https://www.udemy.com/course/testes-automatizados-com-cypress-intermediario/) (Portuguese)
-- [Visual regression testing with Cypress and Percy basic](https://www.udemy.com/course/visual-regression-testing-with-cypress-percy-basic/)
-- [Visual regression testing with Cypress and Percy basic](https://www.udemy.com/course/testes-automatizados-com-cypress-e-percy-basico/) (Portuguese)
-- [Test automation with Cypress advanced](https://www.udemy.com/course/testing-automation-with-cypress-advanced/?referralCode=FFBC3AC1BA3FE894480D)
-- [Test automation with Cypress advanced](https://www.udemy.com/course/testes-automatizados-com-cypress-avancado/) (Portuguese)
-- [Good practices in testing automation with Cypress](https://www.udemy.com/course/boas-praticas-em-automacao-de-testes-com-cypress/?referralCode=53A9772BD676F93DC8A1) (Portuguese)
-- [End-to-end testing with Cypress](https://www.udemy.com/course/testes-end-to-end-com-cypress/?referralCode=BFC58FC7B29F2F37904D) (Portuguese)
-- [Visual regression testing with BackstopJS](https://www.udemy.com/course/testes-de-regressao-visual-com-backstopjs/) (Portuguese)
-- [Testing automation with Protractor](https://www.udemy.com/course/testing-automation-with-protractor/)
-- [Test architecture with Protractor](https://www.udemy.com/course/arquitetura-de-testes-com-protractor/) (Portuguese)
+- [Introduction to test automation](https://www.udemy.com/course/introducao-aos-testes-automatizados/)
+- [Test automation with Cypress basic](https://www.udemy.com/course/testes-automatizados-com-cypress-basico/)
+- [Test automation with Cypress intermediate](https://www.udemy.com/course/testes-automatizados-com-cypress-intermediario/)
+- [Visual regression testing with Cypress and Percy basic](https://www.udemy.com/course/testes-automatizados-com-cypress-e-percy-basico/)
+- [Test automation with Cypress advanced](https://www.udemy.com/course/testes-automatizados-com-cypress-avancado/)
+- [Good practices in testing automation with Cypress](https://www.udemy.com/course/boas-praticas-em-automacao-de-testes-com-cypress/?referralCode=53A9772BD676F93DC8A1)
+- [End-to-end testing with Cypress](https://www.udemy.com/course/testes-end-to-end-com-cypress/?referralCode=BFC58FC7B29F2F37904D)
+- [Visual regression testing with BackstopJS](https://www.udemy.com/course/testes-de-regressao-visual-com-backstopjs/)
+- [Test architecture with Protractor](https://www.udemy.com/course/arquitetura-de-testes-com-protractor/)
 
-**Note:** On Udemy, I already have more than **11.5K** students.
+**Note:** On Udemy, I already have more than **12K** students.
+
+**Note 2:** The above courses are only available in Portuguese.
 
 ## Book: [End to end testing with Protractor - Lessons learned about e2e test automation](https://leanpub.com/end-to-end-testing-with-protractor)
 
