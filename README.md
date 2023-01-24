@@ -32,7 +32,7 @@ The school already has nine courses.
 
 Summing up the number of students on both platforms ([Coursify.me](https://talkingabouttesting.coursify.me/) and [Udemy](https://www.udemy.com/user/walmyr/)), I already have more than 14K students.
 
-From February of 2021, I'm taking the school to its next level, and I'm making it my full-time job, where I intend to recycle old-courses, launch new ones, besides other improvements here and there.
+Now, I'm taking the school to its next level, and I'm making it my full-time job, where I intend to recycle old-courses, launch new ones, besides other improvements here and there.
 
 ### Senior Quality Assistance Software Engineer at [Typeform](https://https://www.typeform.com) (March 2022 - January 2023)
 
