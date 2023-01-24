@@ -26,7 +26,7 @@ Bachelor in business management with an emphasis on system information analysis 
 
 ### Online instructor and founder at [Talking About Testing school](https://www.udemy.com/user/walmyr/) (2018 - current job)
 
-In 2018, I started an online school called Talking About Testing, and for three years, I worked on it as a side-project. The school is focused on teaching all about testing automation.
+In 2018, I started an online school called Talking About Testing.  The school is focused on teaching all about testing automation.
 
 The school already has nine courses.
 
