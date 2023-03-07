@@ -32,9 +32,8 @@ The courses are:
 - [Good practices in testing automation with Cypress](https://www.udemy.com/course/boas-praticas-em-automacao-de-testes-com-cypress/?referralCode=53A9772BD676F93DC8A1)
 - [End-to-end testing with Cypress](https://www.udemy.com/course/testes-end-to-end-com-cypress/?referralCode=BFC58FC7B29F2F37904D)
 - [Visual regression testing with BackstopJS](https://www.udemy.com/course/testes-de-regressao-visual-com-backstopjs/)
-- [Test architecture with Protractor](https://www.udemy.com/course/arquitetura-de-testes-com-protractor/)
 
-**Note:** On Udemy, I already have more than **12K** students.
+**Note:** On Udemy, I already have more than **12.5K** students.
 
 **Note 2:** The above courses are only available in Portuguese.
 
