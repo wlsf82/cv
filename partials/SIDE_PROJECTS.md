@@ -8,7 +8,7 @@ In January of 2022, together with Alekson Fortes, I started a podcast to talk ab
 
 In March of 2018, I launched an online school to teach test automation to new QAs or even experienced professionals.
 
-The school already has more than **2K** students and **seven** courses.
+The school already has more than **2.5K** students and **seven** courses.
 
 The courses are:
 
