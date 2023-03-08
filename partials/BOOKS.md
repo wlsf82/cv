@@ -1,5 +1,6 @@
 # Books I read
 
+- Talent Is Overrated - What Really Separates World-Class Performances from Everybody Else - by Geoff Colvin **(in-progress)**
 - A Philosophy of Software Design - by John Ousterhout
 - The Cathedral and the Bazaar - Musings on Linux and Open Source by an Accidental Revolutionary - by Eric S. Raymond 
 - Kanban - Successful Evolutionary Change for Your Technology Business - by David J. Anderson
@@ -15,7 +16,7 @@
 - Building Software Teams - Ten best practices for effective software development - by Joost Vissers
 - Building Maintainable Software - Ten guidelines for future-proof code - by Joost Vissers
 - Composing Software - An explanation of functional programming and object composition in JavaScript - by Eric Elliott
-- Programming JavaScript Applications - Robust web architecture with Node, HTML5, and modern JS libraries, by Eric Elliott **(in-progress)**
+- Programming JavaScript Applications - Robust web architecture with Node, HTML5, and modern JS libraries, by Eric Elliott
 - Clean Code - A handbook of agile software craftsmanship - by Robert C. Martin
 - The Clean Coder - A code of conduct for professional programmers - by Robert C. Martin
 - Clean architecture - A craftsman's guide to software structure and design - by Robert C. Martin
@@ -30,6 +31,8 @@
 - Agile Testing - A practical guide for testers and agile teams - by Lisa Crispin, and Janet Gregory
 - Pride and Paradev - A collection of agile software testing contradictions - by Alister Scott
 - Leading Quality - How Great Leaders Deliver High Quality Software & Accelerate Growth - by Ronald Cummings-John & Owais Peer 
+- The Road to Learn React - by Robin Wieruch
+- The Road to GraphQL - by Robin Wieruch **(in-progress)**
 - Lean Analytics - Use data to build a better startup faster - by Alistair Croll, and Benjamin Yoskovitz
 - The World is Flat - The globalized world in the twenty-first century - by Thomas L. Friedman
 - Hot, Flat, & Crowded - Why the world needs a green revolution - and how we can renew our global future - by Thomas L. Friedman
@@ -38,7 +41,5 @@
 - How to Win Friends and Influence People - by Dale Carnegie
 - Outliers - The Story of Success - by Malcolm Gladwell
 - Emotional Intelligence - Why It Can Matter More Than IQ - by Daniel Goleman
-- The Road to Learn React - by Robin Wieruch
-- The Road to GraphQL - by Robin Wieruch **(in-progress)**
 
 [Back to homepage](../README.md)
