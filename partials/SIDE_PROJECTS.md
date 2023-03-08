@@ -49,6 +49,9 @@ This project is a YouTube channel with hands-on videos about test automation, gr
 
 **Note:** The majority of the content is in Portuguese, but I've started an [English content playlist](https://youtube.com/playlist?list=PL-eblSNRj0QFCgBuHFSSJUeEYDm6wwvHI).
 
+## [GitLab-Cypress](https://github.com/wlsf82/gitlab-cypress)
+
+A sample project to experiment with [Cypress](https://cypress.io) for testing a complex web application such as [GitLab](https://hub.docker.com/r/wlsf82/gitlab-ce). In the project, I share some of my ideas about testing design, best-practices, optimizations, and more. This project could be used as base for those willing to learn about web testing with Cypress.
 
 ## Node module: [@walmyr-filho/cy-press](https://www.npmjs.com/package/@walmyr-filho/cy-press)
 
