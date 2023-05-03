@@ -1,6 +1,6 @@
 # Books I read
 
-- Talent Is Overrated - What Really Separates World-Class Performances from Everybody Else - by Geoff Colvin **(in-progress)**
+- Talent Is Overrated - What Really Separates World-Class Performances from Everybody Else - by Geoff Colvin
 - A Philosophy of Software Design - by John Ousterhout
 - The Cathedral and the Bazaar - Musings on Linux and Open Source by an Accidental Revolutionary - by Eric S. Raymond 
 - Kanban - Successful Evolutionary Change for Your Technology Business - by David J. Anderson
