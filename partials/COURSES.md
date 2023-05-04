@@ -1,5 +1,19 @@
 # Courses I took
 
+## [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+
+This course covers:
+
+- Introduction
+- Guidelines
+- Iterative
+- Summarizing
+- Inferring
+- Transforming
+- Expanding
+- Chatbot
+- Conclusion
+
 ## [Advanced Cypress](https://testautomationu.applitools.com/advanced-cypress-tutorial/) - by Filip Hric
 
 This course covers:
