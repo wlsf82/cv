@@ -6,9 +6,9 @@ In January of 2022, together with Alekson Fortes, I started a podcast to talk ab
 
 ## Online School: [talkingabouttesting.coursify.me](http://talkingabouttesting.coursify.me)
 
-In March of 2018, I launched an online school to teach test automation to new QAs or even experienced professionals.
+In March 2018, I launched an online school to teach test automation to new QAs or even experienced professionals.
 
-The school already has more than **2.5K** students and **eight** courses.
+The school already has more than **2.5K** students and **seven** courses.
 
 The courses are:
 
@@ -16,7 +16,6 @@ The courses are:
 - [backtop-config mini-course](https://talkingabouttesting.coursify.me/courses/mini-curso-testes-de-regressao-visual-com-backstop-config)
 - [Test automation with Cypress (basic)](https://talkingabouttesting.coursify.me/courses/testes-automatizados-com-cypress-basico)
 - [Test automation with Cypress (intermediate)](https://talkingabouttesting.coursify.me/courses/testes-automatizados-com-cypress-intermediario)
-- [Best practices in test automation with Cypress](https://talkingabouttesting.coursify.me/courses/boas-praticas-em-automacao-de-testes-com-cypress)
 - [Visual regression testing with Cypress and Percy (basic)](https://talkingabouttesting.coursify.me/courses/testes-automatizados-com-cypress-e-percy-basico)
 - [Visual regression testing with BackstopJS](https://talkingabouttesting.coursify.me/courses/testes-de-regressao-visual-com-backstopjs)
 - [Test architecture with Protractor](https://talkingabouttesting.coursify.me/courses/arquitetura-de-testes-com-protractor)
@@ -28,13 +27,12 @@ The courses are:
 - [Introduction to test automation](https://www.udemy.com/course/introducao-aos-testes-automatizados/)
 - [Test automation with Cypress basic](https://www.udemy.com/course/testes-automatizados-com-cypress-basico/)
 - [Test automation with Cypress intermediate](https://www.udemy.com/course/testes-automatizados-com-cypress-intermediario/)
-- [Visual regression testing with Cypress and Percy basic](https://www.udemy.com/course/testes-automatizados-com-cypress-e-percy-basico/)
 - [Test automation with Cypress advanced](https://www.udemy.com/course/testes-automatizados-com-cypress-avancado/)
 - [Good practices in testing automation with Cypress](https://www.udemy.com/course/boas-praticas-em-automacao-de-testes-com-cypress/?referralCode=53A9772BD676F93DC8A1)
 - [End-to-end testing with Cypress](https://www.udemy.com/course/testes-end-to-end-com-cypress/?referralCode=BFC58FC7B29F2F37904D)
 - [Visual regression testing with BackstopJS](https://www.udemy.com/course/testes-de-regressao-visual-com-backstopjs/)
 
-**Note:** On Udemy, I already have more than **12.5K** students.
+**Note:** On Udemy, I already have more than **14K** students.
 
 **Note 2:** The above courses are only available in Portuguese.
 
