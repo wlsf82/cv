@@ -32,7 +32,7 @@ The courses are:
 - [End-to-end testing with Cypress](https://www.udemy.com/course/testes-end-to-end-com-cypress/?referralCode=BFC58FC7B29F2F37904D)
 - [Visual regression testing with BackstopJS](https://www.udemy.com/course/testes-de-regressao-visual-com-backstopjs/)
 
-**Note:** On Udemy, I already have more than **14K** students.
+**Note:** On Udemy, I already have more than **15K** students.
 
 **Note 2:** The above courses are only available in Portuguese.
 
