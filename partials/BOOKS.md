@@ -1,5 +1,6 @@
 # Books I read
 
+- The Coaching Habit - Say Less, Ask More & Change the Way You Lead Forever - by Michael Bungay Stanier
 - Talent Is Overrated - What Really Separates World-Class Performances from Everybody Else - by Geoff Colvin
 - A Philosophy of Software Design - by John Ousterhout
 - The Cathedral and the Bazaar - Musings on Linux and Open Source by an Accidental Revolutionary - by Eric S. Raymond 
