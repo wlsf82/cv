@@ -2,7 +2,7 @@
 
 I'm looking for a challenging opportunity as a **QA Lead**, **Quality Assurance Software Engineer**, **Software Engineer in Test (SET)**, or **Software Development Engineer in Test (SDET)**.
 
-The ideal position would be in the **JavaScript/TypeScript** realm, using **React** in the frontend, **Node.js** in the backend, **Cypress** for test automation, and one of the following tools for continuous integration & delivery (**GitHub Actions**, **GoCD**, or **SemaphoreCI**).
+The ideal position would be in the **JavaScript/TypeScript** realm, using **React** in the frontend, **Node.js** in the backend, **Cypress** for test automation, and one of the following tools for continuous integration & delivery (**GitHub Actions**, or **SemaphoreCI**).
 
 Ideally, this position would be in the **product development** space, **100% remote**, allow for **flexible working hours** (let people work when they're productive), encourage **async communication**, and **the company's headcount should be not greater than 50 people**.
 
