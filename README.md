@@ -10,7 +10,7 @@
 **Codecademy:** https://www.codecademy.com/profiles/wlsf82  
 **Location:** Barcelona, Spain  
 
-I'm a software engineer who loves testing. I'm also a clean coder, entrepreneur, blogger, YouTuber, Cypress.io ambassador, online instructor, mentor, speaker, an active member of the testing automation and JavaScript communities, and a fan of good music, tattoos, vegan food, and skateboarding.
+I'm a software engineer who loves testing. I'm also a clean coder, entrepreneur, blogger, YouTuber, Cypress.io Ambassador, online instructor, mentor, speaker, an active member of the testing automation and JavaScript communities, and a fan of good music, tattoos, vegan food, gardening, and skateboarding.
 
 ## Education
 Bachelor in business management with an emphasis on system information analysis at PUCRS (2012)
