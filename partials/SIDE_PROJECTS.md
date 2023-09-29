@@ -31,14 +31,15 @@ The courses are:
 - [Good practices in testing automation with Cypress](https://www.udemy.com/course/boas-praticas-em-automacao-de-testes-com-cypress/?referralCode=53A9772BD676F93DC8A1)
 - [End-to-end testing with Cypress](https://www.udemy.com/course/testes-end-to-end-com-cypress/?referralCode=BFC58FC7B29F2F37904D)
 - [Visual regression testing with BackstopJS](https://www.udemy.com/course/testes-de-regressao-visual-com-backstopjs/)
+- [Cypress, from Zero to the Cloud](https://www.udemy.com/course/cypress-from-zero-to-the-cloud/?referralCode=CABCDDFA5ADBB7BE2E1A)
 
 **Note:** On Udemy, I already have more than **15K** students.
 
-**Note 2:** The above courses are only available in Portuguese.
+**Note 2:** All of the above courses (except **Cypress, from Zero to the Cloud**) are only available in Portuguese.
 
-## Book: [End to end testing with Protractor - Lessons learned about e2e test automation](https://leanpub.com/end-to-end-testing-with-protractor)
+## Book: [End-to-end testing with Protractor - Lessons learned about e2e test automation](https://leanpub.com/end-to-end-testing-with-protractor)
 
-In this book, you will find a collection of practices to implement end-to-end test automation in the development process of web applications, using the Protractor framework.
+In this book, you will find a collection of practices to implement end-to-end test automation in the development process of web applications using the Protractor framework.
 
 **Note:** This book is also available in Portuguese through the following [link](http://casadocodigo.com.br/products/livro-protractor).
 
@@ -50,7 +51,7 @@ This project is a YouTube channel with hands-on videos about test automation, gr
 
 ## [GitLab-Cypress](https://github.com/wlsf82/gitlab-cypress)
 
-A sample project to experiment with [Cypress](https://cypress.io) for testing a complex web application such as [GitLab](https://hub.docker.com/r/wlsf82/gitlab-ce). In the project, I share some of my ideas about testing design, best-practices, optimizations, and more. This project could be used as base for those willing to learn about web testing with Cypress.
+A sample project to experiment with [Cypress](https://cypress.io) for testing a complex web application such as [GitLab](https://hub.docker.com/r/wlsf82/gitlab-ce). In the project, I share some of my ideas about testing design, best practices, optimizations, and more. This project could be used as a base for those willing to learn about web testing with Cypress.
 
 ## Node module: [@walmyr-filho/cy-press](https://www.npmjs.com/package/@walmyr-filho/cy-press)
 
