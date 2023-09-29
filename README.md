@@ -28,11 +28,11 @@ Bachelor in business management with an emphasis on system information analysis 
 
 In 2018, I started an online school called Talking About Testing.
 
-The school is focused on teaching all about testing automation, and it already has seven courses.
+The school is focused on teaching all about testing automation, and it already has eight courses.
 
 Summing up the number of students on both platforms ([Coursify.me](https://talkingabouttesting.coursify.me/) and [Udemy](https://www.udemy.com/user/walmyr/)), I already have more than 17K students.
 
-Now, I'm taking the school to its next level, and I'm making it my full-time job, where I intend to recycle old-courses, launch new ones, besides other improvements here and there.
+Now, I'm taking the school to its next level, and I'm making it my full-time job, where I intend to recycle old courses and launch new ones, besides other improvements here and there.
 
 ### Senior Quality Assistance Software Engineer at [Typeform](https://https://www.typeform.com) (March 2022 - January 2023)
 
@@ -41,10 +41,10 @@ At Typeform I:
 - Helped teams with test automation tasks, especially with Cypress
 - Ran Cypress Masterclasses
 - Ran exploratory testing sessions
-- Helped with visual regression testing related tasks
+- Helped with visual regression testing-related tasks
 - Refactored testing code
 - Reviewed code
-- Enabled teams on getting better at quality and testing-related subjects
+- Enabled teams to get better at quality and testing-related subjects
 
 Some of my achievements at Typeform were:
 
@@ -75,7 +75,7 @@ Some of my achievements at QWIC were:
 ### Software Consultant at [Taller Digital Business](https://taller.net.br/en/) (July 2020 - September 2020)
 
 - Consulting in quality assurance subjects
-- Workshops and trainings in testing automation topics
+- Workshops and training in testing automation topics
 - 100% remote
 
 ### Senior Software Engineer in Test at [GitLab](https://gitlab.com) (March 2019 - June 2020)
@@ -90,13 +90,13 @@ Some of the activities I performed as a SET at GitLab were:
 - Recommending new test automation tools and processes that will improve quality and velocity
 - Taking ownership of test failures and ensuring that the CI system is reliable
 - Mentoring other engineers
-- Independently and regularly managing project schedules ensuring objectives are aligned with team/department goals
+- Independently and regularly managing project schedules, ensuring objectives are aligned with team/department goals
 - Working on problems of diverse scope requiring independent evaluation of identifiable factors; recommending new approaches to resolve problems
-- At GitLab I worked 100% remote
+- At GitLab, I worked 100% remote
 
 ### QA engineer at [Qelp](https://qelp.com) (July 2018 - February 2019)
 
-I helped on defining a new software development process where quality is in mind since the definition of the software requirements until the moment it is running in production.
+I helped define a new software development process where quality is in mind from the definition of the software requirements until the moment it is running in production.
 
 Some of the activities I performed as a QA engineer at Qelp were:
 
@@ -105,10 +105,10 @@ Some of the activities I performed as a QA engineer at Qelp were:
 - Writing automated visual regression tests
 - Defining and tuning continuous integration and continuous delivery/deployment pipelines
 - Code reviews
-- Extending the application to add testability into it
+- Extending the application to add testability to it
 - Writing business requirements together with the business analyst
 - Pair programming
-- Knowledge sharing sessions
+- Knowledge-sharing sessions
 - Actively participating in software architecture meetings
 - Actively participating in scrum meetings
 - Debugging and fixing bugs
@@ -116,9 +116,9 @@ Some of the activities I performed as a QA engineer at Qelp were:
 
 ### Senior QA engineer at [Whereby](https://whereby.com/) (June 2016 - February 2018)
 
-I helped the team creating end-to-end tests with the [Protractor](https://www.protractortest.org/#/) framework and visual regression tests with [BackstopJS](https://github.com/garris/BackstopJS) (for the web application), and UI tests with XCUI Test (for the iOS app). These tests were executed on CI/CD ([gocd](https://gocd.org)) for each pull request, providing fast feedback while changing the applications. I was also responsible for maintaining the CI/CD system and its infrastructure-as-code, with approximately 30 pipelines.
+I helped the team create end-to-end tests with the [Protractor](https://www.protractortest.org/#/) framework and visual regression tests with [BackstopJS](https://github.com/garris/BackstopJS) (for the web application), and UI tests with XCUI Test (for the iOS app). These tests were executed on CI/CD ([gocd](https://gocd.org)) for each pull request, providing fast feedback while changing the applications. I was also responsible for maintaining the CI/CD system and its infrastructure-as-code, with approximately 30 pipelines.
 
-Every two months, I was the on-call engineer (available 24/7 in case of production incidents). In such cases, I'd have to deal with assessing the criticality of issues, accessing Linux servers for log analysis, working with monitoring tools like NewRelic, and Graphana to understand what was the issue and fixing it.
+Every two months, I was the on-call engineer (available 24/7 in case of production incidents). In such cases, I'd have to deal with assessing the criticality of issues, accessing Linux servers for log analysis, and working with monitoring tools like NewRelic and Graphana to understand what the issue was and fix it.
 
 I used to work remotely very often.
 
@@ -126,21 +126,21 @@ I used to work remotely very often.
 
 At first, I was hired as a QA engineer to create automated acceptance tests in Gherkin format with Cucumber (in Ruby language).
 
-After some time, I helped the company in a significant transformation, where software testing was not a phase during the software development process anymore, but part of it.
+After some time, I helped the company in a significant transformation, where software testing was not a phase during the software development process anymore but part of it.
 
 During this transformation, I changed my position to a software developer.
 
-As a software developer, I helped the team develop features, fixing bugs, writing tests, and refactoring code.
+As a software developer, I helped the team develop features, fix bugs, write tests, and refactor code.
 
-At Taller, I also had the role of an agile testing coach. As so, I used to share knowledge about agile testing throughout all the company, and help the team on building a mindset where everyone is responsible for the quality of the developed software.
+At Taller, I also had the role of an agile testing coach. As so, I used to share knowledge about agile testing throughout the company and help the team on building a mindset where everyone is responsible for the quality of the developed software.
 
-At this position, I worked firstly using Scrum, and then we evolved for using Kanban and continuous flow.
+In this position, I worked firstly using Scrum, and then we evolved to use Kanban and continuous flow.
 
 I used to work remotely occasionally.
 
 ### QA analyst at [ADP](https://www.adp.com) (April 2011 – May 2014)
 
-At APD, I worked in two different projects (both as a QA analyst).
+At APD, I worked on two different projects (both as a QA analyst).
 
 In the first project, I developed automated tests in Java (using Selenium).
 
