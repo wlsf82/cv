@@ -30,7 +30,6 @@ The courses are:
 - [Test automation with Cypress advanced](https://www.udemy.com/course/testes-automatizados-com-cypress-avancado/)
 - [Good practices in testing automation with Cypress](https://www.udemy.com/course/boas-praticas-em-automacao-de-testes-com-cypress/?referralCode=53A9772BD676F93DC8A1)
 - [End-to-end testing with Cypress](https://www.udemy.com/course/testes-end-to-end-com-cypress/?referralCode=BFC58FC7B29F2F37904D)
-- [Visual regression testing with BackstopJS](https://www.udemy.com/course/testes-de-regressao-visual-com-backstopjs/)
 - [Cypress, from Zero to the Cloud](https://www.udemy.com/course/cypress-from-zero-to-the-cloud/?referralCode=CABCDDFA5ADBB7BE2E1A)
 
 **Note:** On Udemy, I already have more than **15K** students.
