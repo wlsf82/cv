@@ -28,7 +28,7 @@ Bachelor in business management with an emphasis on system information analysis 
 
 In 2018, I started an online school called Talking About Testing.
 
-The school is focused on teaching all about testing automation, and it already has eight courses.
+The school is focused on teaching all about testing automation, and it already has seven courses.
 
 Summing up the number of students on both platforms ([Coursify.me](https://talkingabouttesting.coursify.me/) and [Udemy](https://www.udemy.com/user/walmyr/)), I already have more than 17K students.
 
