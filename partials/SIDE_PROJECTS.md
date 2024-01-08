@@ -1,5 +1,9 @@
 # Side projects & community contributions
 
+## Podcast: [Tech & Accent](https://open.spotify.com/show/1ZRRgVDduSSSkWmhwyQIIE)
+
+In December of 2023, together with Alekson Fortes, we started a podcast to talk about technology from non-native English speakers.
+
 ## Podcast: [Testando na Gringa](https://anchor.fm/testando-na-gringa)
 
 In January of 2022, together with Alekson Fortes, I started a podcast to talk about everything related to software engineering and quality.
