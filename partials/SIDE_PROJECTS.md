@@ -36,7 +36,7 @@ The courses are:
 - [End-to-end testing with Cypress](https://www.udemy.com/course/testes-end-to-end-com-cypress/?referralCode=BFC58FC7B29F2F37904D)
 - [Cypress, from Zero to the Cloud](https://www.udemy.com/course/cypress-from-zero-to-the-cloud/?referralCode=CABCDDFA5ADBB7BE2E1A)
 
-**Note:** On Udemy, I already have more than **15K** students.
+**Note:** On Udemy, I already have more than **17K** students.
 
 **Note 2:** All of the above courses (except **Cypress, from Zero to the Cloud**) are only available in Portuguese.
 
