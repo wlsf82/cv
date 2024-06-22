@@ -1,5 +1,6 @@
 # Books I read
 
+- The Programmer's Brain - What every programmer needs to know about cognition - by Felienne Hermans
 - The Coaching Habit - Say Less, Ask More & Change the Way You Lead Forever - by Michael Bungay Stanier
 - Talent Is Overrated - What Really Separates World-Class Performances from Everybody Else - by Geoff Colvin
 - A Philosophy of Software Design - by John Ousterhout
