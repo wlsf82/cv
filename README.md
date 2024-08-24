@@ -1,4 +1,4 @@
-# Walmyr Filho
+# Walmyr Lima e Silva Filho
 
 ### Thought leader in QA | online instructor | YouTuber | Cypress.io Ambassador | Blogger | Podcaster | Mentor
 
