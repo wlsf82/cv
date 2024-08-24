@@ -1,5 +1,8 @@
 # Walmyr Filho
+
 ### Thought leader in QA | online instructor | YouTuber | Cypress.io Ambassador | Blogger | Podcaster | Mentor
+
+![qrcode 70528238](https://github.com/user-attachments/assets/0d655ebb-1f73-4ba2-82e3-35e746ea890f)
 
 **E-mail:** wlsf82@gmail.com  
 **Phone:** +34 669257533  
