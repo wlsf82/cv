@@ -26,7 +26,7 @@ In January of 2022, together with Alekson Fortes, I started a podcast to talk ab
 - [Cypress, from Zero to the Cloud](https://www.udemy.com/course/cypress-from-zero-to-the-cloud/?referralCode=CABCDDFA5ADBB7BE2E1A)
 - [Cypress Playground](https://www.udemy.com/course/cypress-playground/?referralCode=56D642D77624C195062C)
 
-**Note:** On Udemy, I already have more than **19K** students.
+**Note:** On Udemy, I already have more than **20K** students.
 
 **Note 2:** All of the above courses (except **Cypress, from Zero to the Cloud**) are only available in Portuguese.
 
