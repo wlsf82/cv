@@ -1,5 +1,6 @@
 # Books I read
 
+- The Pragmatic Programmer - your journey to mastery - 20th Anniversary Edition - by David Thomas and Andrew Hunt
 - Dynamic Flow - Applying system dynamics in the construction of digital products - by Celso Martins and Raphael Albino
 - The Programmer's Brain - What every programmer needs to know about cognition - by Felienne Hermans
 - The Coaching Habit - Say Less, Ask More & Change the Way You Lead Forever - by Michael Bungay Stanier
