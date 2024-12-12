@@ -18,7 +18,7 @@ In January of 2022, together with Alekson Fortes, I started a podcast to talk ab
 ## Udemy courses:
 
 - [Introduction to test automation](https://www.udemy.com/course/introducao-aos-testes-automatizados/)
-- [Elements of Automated Test Design](https://www.udemy.com/course/elementos-do-design-de-testes-automatizados/?referralCode=B0794A6F214DA875349E)
+- [Elements of automated test design](https://www.udemy.com/course/elementos-do-design-de-testes-automatizados/?referralCode=B0794A6F214DA875349E)
 - [Test automation with Cypress basic](https://www.udemy.com/course/testes-automatizados-com-cypress-basico/)
 - [Test automation with Cypress intermediate](https://www.udemy.com/course/testes-automatizados-com-cypress-intermediario/)
 - [Test automation with Cypress advanced](https://www.udemy.com/course/testes-automatizados-com-cypress-avancado/)
