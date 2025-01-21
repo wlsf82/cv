@@ -1,5 +1,9 @@
 # Side projects & community contributions
 
+## Podcast: [Talking About Testing](https://open.spotify.com/show/5HFlqWkk6qtgJquUixyuKo?si=BBc1P9VERUu6T775YcbMXg)
+
+In January of 2025, I started a podcast where I interview guests and they talk all about testing, automation, leadership, and more.
+
 ## Podcast: [Tech & Accent](https://open.spotify.com/show/1ZRRgVDduSSSkWmhwyQIIE)
 
 In December of 2023, together with Alekson Fortes, we started a podcast to talk about technology from non-native English speakers.
@@ -27,7 +31,7 @@ In January of 2022, together with Alekson Fortes, I started a podcast to talk ab
 - [Cypress, from Zero to the Cloud](https://www.udemy.com/course/cypress-from-zero-to-the-cloud/?referralCode=CABCDDFA5ADBB7BE2E1A)
 - [Cypress Playground](https://www.udemy.com/course/cypress-playground/?referralCode=56D642D77624C195062C)
 
-**Note:** On Udemy, I already have more than **20K** students.
+**Note:** On Udemy, I already have more than **21K** students.
 
 **Note 2:** All of the above courses (except **Cypress, from Zero to the Cloud**) are only available in Portuguese.
 
