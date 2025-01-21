@@ -21,19 +21,19 @@ In January of 2022, together with Alekson Fortes, I started a podcast to talk ab
 
 ## Udemy courses:
 
-- [Introduction to test automation](https://www.udemy.com/course/introducao-aos-testes-automatizados/)
-- [Elements of automated test design](https://www.udemy.com/course/elementos-do-design-de-testes-automatizados/?referralCode=B0794A6F214DA875349E)
-- [Test automation with Cypress basic](https://www.udemy.com/course/testes-automatizados-com-cypress-basico/)
-- [Test automation with Cypress intermediate](https://www.udemy.com/course/testes-automatizados-com-cypress-intermediario/)
-- [Test automation with Cypress advanced](https://www.udemy.com/course/testes-automatizados-com-cypress-avancado/)
-- [Good practices in testing automation with Cypress](https://www.udemy.com/course/boas-praticas-em-automacao-de-testes-com-cypress/?referralCode=53A9772BD676F93DC8A1)
-- [End-to-end testing with Cypress](https://www.udemy.com/course/testes-end-to-end-com-cypress/?referralCode=BFC58FC7B29F2F37904D)
-- [Cypress, from Zero to the Cloud](https://www.udemy.com/course/cypress-from-zero-to-the-cloud/?referralCode=CABCDDFA5ADBB7BE2E1A)
+- [Introduction to Test Automation](https://www.udemy.com/course/introducao-aos-testes-automatizados/)
+- [Elements of Automated Test Design](https://www.udemy.com/course/elementos-do-design-de-testes-automatizados/?referralCode=B0794A6F214DA875349E)
+- [Cypress, from Zero to the Cloud - PT-BR](https://www.udemy.com/course/testes-automatizados-com-cypress-basico/)
+- [Cypress Intermediate](https://www.udemy.com/course/testes-automatizados-com-cypress-intermediario/)
+- [Cypress Advanced](https://www.udemy.com/course/testes-automatizados-com-cypress-avancado/)
+- [Best Practices in Testing Automation with Cypress](https://www.udemy.com/course/boas-praticas-em-automacao-de-testes-com-cypress/?referralCode=53A9772BD676F93DC8A1)
+- [End-to-end Testing with Cypress](https://www.udemy.com/course/testes-end-to-end-com-cypress/?referralCode=BFC58FC7B29F2F37904D)
+- [Cypress, from Zero to the Cloud - EN](https://www.udemy.com/course/cypress-from-zero-to-the-cloud/?referralCode=CABCDDFA5ADBB7BE2E1A)
 - [Cypress Playground](https://www.udemy.com/course/cypress-playground/?referralCode=56D642D77624C195062C)
 
 **Note:** On Udemy, I already have more than **21K** students.
 
-**Note 2:** All of the above courses (except **Cypress, from Zero to the Cloud**) are only available in Portuguese.
+**Note 2:** From all of the above courses, **Cypress, from Zero to the Cloud** is the only one available both in English in Portuguese.
 
 ## Online School: [talkingabouttesting.coursify.me](http://talkingabouttesting.coursify.me)
 
