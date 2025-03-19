@@ -30,7 +30,7 @@ In January of 2022, together with Alekson Fortes, I started a podcast to talk ab
 - [End-to-end Testing with Cypress](https://www.udemy.com/course/testes-end-to-end-com-cypress/?referralCode=BFC58FC7B29F2F37904D)
 - [Cypress, from Zero to the Cloud - EN](https://www.udemy.com/course/cypress-from-zero-to-the-cloud/?referralCode=CABCDDFA5ADBB7BE2E1A)
 - [Cypress Playground](https://www.udemy.com/course/cypress-playground/?referralCode=56D642D77624C195062C)
-- [Test Automation and Generative AI]([https://www.udemy.com/course/testes-automatizados-e-ia-generativa/?](https://www.udemy.com/course/testes-automatizados-e-ia-generativa/?referralCode=779B16AF44D60BAFB846)
+- [Test Automation and Generative AI](https://www.udemy.com/course/testes-automatizados-e-ia-generativa/?referralCode=779B16AF44D60BAFB846)
 
 **Note:** On Udemy, I already have more than **21K** students.
 
