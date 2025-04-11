@@ -1,5 +1,6 @@
 # Books I read
 
+- Tidy First? - A Personal Exercise in Empirical Software Design - by Kent Beck
 - Digital Gold - Bitcoin and the inside story of the misfits and millionaires trying to reinvent money - by Nathaniel Popper
 - The Pragmatic Programmer - your journey to mastery - 20th Anniversary Edition - by David Thomas and Andrew Hunt
 - Dynamic Flow - Applying system dynamics in the construction of digital products - by Celso Martins and Raphael Albino
