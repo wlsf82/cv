@@ -32,7 +32,7 @@ In January of 2022, together with Alekson Fortes, I started a podcast to talk ab
 - [Cypress Playground](https://www.udemy.com/course/cypress-playground/?referralCode=56D642D77624C195062C)
 - [Test Automation and Generative AI](https://www.udemy.com/course/testes-automatizados-e-ia-generativa/?referralCode=779B16AF44D60BAFB846)
 
-**Note:** On Udemy, I already have more than **21K** students.
+**Note:** On Udemy, I already have more than **22K** students.
 
 **Note 2:** From all of the above courses, **Cypress, from Zero to the Cloud** is the only one available both in English in Portuguese.
 
