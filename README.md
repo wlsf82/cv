@@ -18,7 +18,7 @@ I'm a software engineer who loves testing. I'm also a clean coder, entrepreneur,
 ## Education
 Bachelor in business management with an emphasis on system information analysis at PUCRS (2012)
 
-## Technologies and languages
+## Technologies and programming languages
 
 * **Languages:** JavaScript, TypeScript
 * **Technologies:** Nodejs, React, Vercel, Heroku, VueJS, Angular, jQuery, Handlebars, Express, GraphQL, HTML5, CSS3, Styled Components, CSS Modules, Drupal, MongoDB, WebRTC, AWS, git, GitHub, GitLab, GoCD, SemaphoreCI, CircleCI, Jenkins, Docker, Selenium, Cypress, Puppeteer, Protractor, Webdriver IO, Applitools, BackstopJS, Percy, Jasmine, Mocha, Jest, Chai, Supertest, JSDOM, Tape, XCUI Test, Postman, StandardJS, ESLint, Linux, Unix, GitHub Copilot, Cursor, ChatGPT
@@ -168,6 +168,12 @@ At this job, I also had a quick experience as a software developer, writing PL/S
 ### Other jobs as a tester/QA
 
 Before moving into test automation (between 2004 and 2009), I worked as a manual tester at Hewlett-Packard, Sicredi, Softplan, Dell Computers, and Datum TI.
+
+## Languages
+
+- **English:** Bilingual or Proficient (C2)
+- **Spanish:** Intermediate (B1)
+- **Portuguese:** Bilingual or Proficient (C2)
 
 ## Side projects and community contribution
 
