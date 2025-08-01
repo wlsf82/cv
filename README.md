@@ -36,7 +36,7 @@ Summing up the number of students on all platforms ([Coursify.me](https://talkin
 
 Now, I'm taking the school to the next level and making it my full-time job, where I recycle courses, launch new ones, and make other improvements here and there.
 
-### Senior Quality Assistance Software Engineer at [Typeform](https://https://www.typeform.com) (March 2022 - January 2023)
+### Senior Quality Assistance Software Engineer at [Typeform](https://typeform.com/) (March 2022 - January 2023)
 
 At Typeform I:
 
