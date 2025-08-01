@@ -52,7 +52,7 @@ Some of my achievements at Typeform were:
 
 - Cost reduction with Visual Regression Testing by replacing a costly SaaS with a cheap self-hosted open-source service
 
-### Senior QA engineer at [QWIC](https://qwic.eu/)  (September 2020 - January 2021)
+### Senior QA engineer at [QWIC](https://qwic.de/)  (September 2020 - January 2021)
 
 Some of the activities I performed at QWIC were:
 
