@@ -154,7 +154,7 @@ I was also the leader of an internal project called Tech Talks, which was used f
 
 I used to work remotely occasionally.
 
-### Manual and automated test analyst at [Good Card](https://goodcard.com.br) (November 2009 - March 2011)
+### Manual and automated test analyst at Good Card (November 2009 - March 2011)
 
 In this job, I had my first experience with test automation, having to convince my manager that test automation is not just about record and playback.
 
