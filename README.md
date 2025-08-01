@@ -4,7 +4,8 @@
 
 **E-mail:** wlsf82@gmail.com  
 **Phone:** +34 669257533  
-**Location:** Barcelona, Spain  
+**Location:** Barcelona, Spain
+
 **Website:** https://walmyr.dev  
 **Dev Community:** https://dev.to/walmyrlimaesilv  
 **Medium:** https://medium.com/@walmyrlimaesilv  
