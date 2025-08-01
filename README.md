@@ -96,7 +96,7 @@ Some of the activities I performed as a SET at GitLab were:
 - Working on problems of diverse scope requiring independent evaluation of identifiable factors; recommending new approaches to resolve problems
 - At GitLab, I worked 100% remotely
 
-### QA engineer at [Qelp](https://qelp.com) (July 2018 - February 2019)
+### QA engineer at Qelp (July 2018 - February 2019)
 
 I helped define a new software development process that prioritizes quality from the initial definition of software requirements through to its deployment in production.
 
