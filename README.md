@@ -5,12 +5,19 @@
 ![qrcode 70528238](https://github.com/user-attachments/assets/0d655ebb-1f73-4ba2-82e3-35e746ea890f)
 
 **E-mail:** wlsf82@gmail.com
+
 **Phone:** +34 669257533
+
 **Location:** Barcelona, Spain
+
 **Website:** https://walmyr.dev
+
 **Dev Community:** https://dev.to/walmyrlimaesilv
+
 **Medium:** https://medium.com/@walmyrlimaesilv
+
 **Blog:** https://talkingabouttesting.com
+
 **Codecademy:** https://www.codecademy.com/profiles/wlsf82
 
 I'm a software engineer who loves testing. I'm also a clean coder, entrepreneur, blogger, YouTuber, Cypress.io Ambassador, online instructor, mentor, speaker, an active member of the testing automation and JavaScript communities, and a fan of good music, tattoos, vegan food, gardening, and skateboarding.
