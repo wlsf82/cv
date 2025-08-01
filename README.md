@@ -74,7 +74,7 @@ Some of my achievements at QWIC were:
 - Automatic version and security updates implementation using GitHub Dependabot
 - Allowing to test the frontend independent of the backend using Cypress
 
-### Software Consultant at [Taller Digital Business](https://taller.net.br/en/) (July 2020 - September 2020)
+### Software Consultant at [Taller Digital Business](https://taller.net.br) (July 2020 - September 2020)
 
 - Consulting in quality assurance subjects
 - Workshops and training in testing automation topics
@@ -124,7 +124,7 @@ Every two months, I was the on-call engineer (available 24/7 in case of producti
 
 I used to work remotely very often.
 
-### Software developer and agile testing coach at [Taller Digital Business](https://taller.net.br/en/) (June 2014 – May 2016)
+### Software developer and agile testing coach at [Taller Digital Business](https://taller.net.br/) (June 2014 – May 2016)
 
 Initially, I was hired as a QA engineer to create automated acceptance tests in Gherkin format using Cucumber (in Ruby).
 
