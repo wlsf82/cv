@@ -26,7 +26,7 @@ Bachelor's in business management with an emphasis on system information analysi
 
 ## Professional experience
 
-### Online instructor and founder at [Talking About Testing school](https://www.udemy.com/user/walmyr/) (2018 - current job)
+### Online instructor and founder at [Talking About Testing school](https://talking-about-testing.vercel.app/) (2018 - current job)
 
 In 2018, I started an online school called Talking About Testing.
 
