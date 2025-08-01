@@ -32,7 +32,7 @@ In 2018, I started an online school called Talking About Testing.
 
 The school focuses on teaching test automation, offering more than ten courses.
 
-Summing up the number of students on all platforms ([Coursify.me](https://talkingabouttesting.coursify.me/), [Hotmart](https://hotmart.com/pt-br/club/cypress-playground-ate-a-nuvem), and [Udemy](https://www.udemy.com/user/walmyr/)), I already have more than 24K students.
+Summing up the number of students on all platforms ([Coursify.me](https://talkingabouttesting.coursify.me/), [Hotmart](https://hotmart.com/pt-br/club/cypress-playground-ate-a-nuvem), and [Udemy](https://www.udemy.com/user/walmyr/)), I already have more than 25K students.
 
 Now, I'm taking the school to the next level and making it my full-time job, where I recycle courses, launch new ones, and make other improvements here and there.
 
