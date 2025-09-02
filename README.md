@@ -180,7 +180,7 @@ Here's a [list of side projects](./partials/SIDE_PROJECTS.md) I work on.
 
 ## Books I read
 
-Here's a [list of some books I read](./partials/BOOKS.md) that helped me with being the professional I am today.
+Here's a [list of some books I read](./partials/BOOKS.md) that helped me become the professional I am today.
 
 ## Courses I took
 
