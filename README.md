@@ -48,8 +48,6 @@ The school focuses on teaching test automation, offering more than ten courses.
 
 Summing up the number of students on all platforms ([Coursify.me](https://talkingabouttesting.coursify.me/), [Hotmart](https://hotmart.com/pt-br/club/cypress-playground-ate-a-nuvem), and [Udemy](https://www.udemy.com/user/walmyr/)), I already have more than 26K students.
 
-Now, I'm taking the school to the next level and making it my full-time job, where I recycle courses, launch new ones, and make other improvements here and there.
-
 ### Senior Quality Assistance Software Engineer at [Typeform](https://typeform.com/) (March 2022 - January 2023)
 
 At Typeform I:
