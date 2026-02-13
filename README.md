@@ -33,7 +33,7 @@ At Leadtech, I work on a web app project as a Senior QA Engineer and for the who
 For the web project:
 
 - I'm defining and implementing a Quality Strategy
-- I'm implementing automated tests using Cypress
+- I'm implementing automated tests using Cypress and Playwright
 - I'm implementing continuous integration workflows
 - I'm participating in Scrum ceremonies
 - I'm running exploratory testing sessions
