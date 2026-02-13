@@ -38,7 +38,7 @@ For the web project:
 - I'm participating in Scrum ceremonies
 - I'm running exploratory testing sessions
 
-As a company QA Advisor, I'll help them with QA best practices after we succeed with the web project.
+As a QA Advisor, I help the company's engineering teams with QA best practices.
 
 ### Online instructor and founder at [Talking About Testing school](https://talking-about-testing.vercel.app/) (2018 - current job)
 
