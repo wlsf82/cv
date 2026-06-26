@@ -7,6 +7,7 @@
 **Location:** Barcelona, Spain
 
 **Website:** https://walmyr.dev  
+**Online School:** https://talkingabouttesting.school  
 **Dev Community:** https://dev.to/walmyrlimaesilv  
 **Medium:** https://medium.com/@walmyrlimaesilv  
 **Blog:** https://talkingabouttesting.com  
@@ -40,13 +41,13 @@ For the web project:
 
 As a QA Advisor, I help the company's engineering teams with QA best practices.
 
-### Online instructor and founder at [Talking About Testing school](https://talking-about-testing.vercel.app/) (2018 - current job)
+### Online instructor and founder at [Talking About Testing School](https://talkingabouttesting.school/) (2018 - current job)
 
 In 2018, I started an online school called Talking About Testing.
 
-The school focuses on teaching test automation, offering more than ten courses.
+The school focuses on teaching test automation and offers more than 10 courses.
 
-Summing up the number of students on all platforms ([Coursify.me](https://talkingabouttesting.coursify.me/), [Hotmart](https://hotmart.com/pt-br/club/cypress-playground-ate-a-nuvem), and [Udemy](https://www.udemy.com/user/walmyr/)), I already have more than 26K students.
+Summing up the number of students on all platforms ([TAT School - my own platform](https://talkingabouttesting.school/), [Coursify.me](https://talkingabouttesting.coursify.me/), [Hotmart](https://hotmart.com/pt-br/club/cypress-playground-ate-a-nuvem), and [Udemy](https://www.udemy.com/user/walmyr/)), I already have more than 26K students.
 
 ### Senior Quality Assistance Software Engineer at [Typeform](https://typeform.com/) (March 2022 - January 2023)
 
