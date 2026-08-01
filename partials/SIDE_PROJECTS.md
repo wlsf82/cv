@@ -12,6 +12,11 @@ In December of 2023, together with Alekson Fortes, we started a podcast to talk 
 
 In January of 2022, together with Alekson Fortes, I started a podcast to talk about everything related to software engineering and quality.
 
+## [Talking About Testing School](https://talkingabouttesting.school):
+
+Learn Test Automation by Actually Doing It.
+Stop watching passive tutorials. Learn by writing real tests across multiple hands-on courses built for practical, real-world scenarios.
+
 ## [Hotmart courses](https://hotmart.com/pt-br/club/talking-about-testing):
 
 - [Cypress Playground](https://go.hotmart.com/W95121620B)
