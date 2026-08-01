@@ -47,7 +47,7 @@ In 2018, I started an online school called Talking About Testing.
 
 The school focuses on teaching test automation and offers more than 10 courses.
 
-Summing up the number of students on all platforms ([TAT School - my own platform](https://talkingabouttesting.school/), [Coursify.me](https://talkingabouttesting.coursify.me/), [Hotmart](https://hotmart.com/pt-br/club/cypress-playground-ate-a-nuvem), and [Udemy](https://www.udemy.com/user/walmyr/)), I already have more than 26K students.
+Summing up the number of students on all platforms ([TAT School - my own platform](https://talkingabouttesting.school/), [Coursify.me](https://talkingabouttesting.coursify.me/), [Hotmart](https://hotmart.com/pt-br/club/cypress-playground-ate-a-nuvem), and [Udemy](https://www.udemy.com/user/walmyr/)), I already have more than 27K students.
 
 ### Senior Quality Assistance Software Engineer at [Typeform](https://typeform.com/) (March 2022 - January 2023)
 
