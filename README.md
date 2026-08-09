@@ -2,6 +2,8 @@
 
 ### Thought leader in QA | online instructor | YouTuber | Cypress.io Ambassador | Blogger | Podcaster | Mentor
 
+<img src="./partials/selfie.png" alt="Selfie" width="180">
+
 **E-mail:** wlsf82@gmail.com  
 **Phone:** +34 669257533  
 **Location:** Barcelona, Spain
