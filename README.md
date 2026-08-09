@@ -1,8 +1,10 @@
 # Walmyr Lima e Silva Filho
 
-### Thought leader in QA | online instructor | YouTuber | Cypress.io Ambassador | Blogger | Podcaster | Mentor
-
 <img src="./partials/selfie.png" alt="Selfie" width="180">
+
+## Senior QA Engineer · SDET · Software Engineer in Test · QA Developer
+
+### Thought leader in QA · online instructor · YouTuber · Cypress.io Ambassador · Blogger · Podcaster · Mentor
 
 **E-mail:** wlsf82@gmail.com  
 **Phone:** +34 669257533  
@@ -15,7 +17,7 @@
 **Blog:** https://talkingabouttesting.com  
 **Codecademy:** https://www.codecademy.com/profiles/wlsf82
 
-I'm a software engineer who loves testing. I'm also a clean coder, entrepreneur, blogger, YouTuber, Cypress.io Ambassador, online instructor, mentor, speaker, an active member of the testing automation and JavaScript communities, and a fan of good music, tattoos, vegan food, gardening, and skateboarding.
+I'm a software engineer who loves testing. I'm also a clean coder, entrepreneur, blogger, YouTuber, Cypress.io Ambassador, online instructor, mentor, speaker, and an active member of the testing automation and JavaScript communities.
 
 ## Education
 Bachelor's in business management with an emphasis on system information analysis at PUCRS (2012)
@@ -23,9 +25,12 @@ Bachelor's in business management with an emphasis on system information analysi
 ## Technologies and programming languages
 
 * **Programming Languages:** JavaScript, TypeScript, Ruby
-* **Technologies:** Nodejs, React, Vercel, Heroku, VueJS, Angular, jQuery, Handlebars, Express, GraphQL, HTML5, CSS3, Styled Components, CSS Modules, Drupal, MongoDB, WebRTC, AWS, GCP, git, GitHub, GitLab, GoCD, SemaphoreCI, CircleCI, Jenkins, Docker, Selenium, Cypress, Playwright, Puppeteer, Protractor, Webdriver IO, Applitools, BackstopJS, Percy, Jasmine, Mocha, Jest, Chai, Supertest, JSDOM, Tape, XCUI Test, Detox, Postman, StandardJS, ESLint, Linux, Unix, GitHub Copilot, Cursor, ChatGPT
+* **Testing:** Cypress, Playwright, Selenium, Puppeteer, Webdriver IO, Jest, Mocha, Chai, Supertest, Postman, Applitools, Percy, BackstopJS, XCUI Test, Detox
+* **CI/CD and infrastructure:** git, GitHub, GitLab, Jenkins, CircleCI, Docker, AWS, GCP, Vercel, Linux, Unix
+* **Web development:** Nodejs, React, VueJS, Express, GraphQL, MongoDB, HTML5, CSS3, ESLint
+* **AI-assisted development:** Claude Code, Antigravity, GitHub Copilot, Cursor, ChatGPT
 * **Programming paradigms:** Object-oriented programming, functional programming
-* **Other:** Jira, Trello, Rally, Slack, GSuite, Zoom, Whereby, MS Teams
+* **Other:** Jira, Trello, Slack, Zoom, MS Teams
 
 ## Professional experience
 
@@ -35,13 +40,12 @@ At Leadtech, I work on a web app project as a Senior QA Engineer and for the who
 
 For the web project:
 
-- I'm defining and implementing a Quality Strategy
-- I'm implementing automated tests using Cypress and Playwright
-- I'm implementing continuous integration workflows
-- I'm participating in Scrum ceremonies
-- I'm running exploratory testing sessions
+- Defined and implemented the project's quality strategy, from requirements to production
+- Built the automated test suite from scratch with Cypress and Playwright
+- Set up continuous integration workflows so every pull request gets automated feedback before merge
+- Run exploratory testing sessions and participate in Scrum ceremonies
 
-As a QA Advisor, I help the company's engineering teams with QA best practices.
+As a QA Advisor, I help the company's engineering teams adopt QA best practices.
 
 ### Online instructor and founder at [Talking About Testing School](https://talkingabouttesting.school/) (2018 - current job)
 
@@ -55,39 +59,20 @@ Summing up the number of students on all platforms ([TAT School - my own platfor
 
 At Typeform I:
 
-- Helped teams with test automation tasks, especially with Cypress
-- Ran Cypress Masterclasses
-- Ran exploratory testing sessions
-- Helped with visual regression testing-related tasks
-- Refactored testing code
-- Reviewed code
-- Enabled teams to get better at quality and testing-related subjects
-
-Some of my achievements at Typeform were:
-
-- Cost reduction with Visual Regression Testing by replacing a costly SaaS with a cheap self-hosted open-source service
+- Cut visual regression testing costs by replacing an expensive SaaS with a self-hosted open-source alternative
+- Ran Cypress Masterclasses that enabled product teams to write and maintain their own automated tests
+- Refactored existing test code and reviewed pull requests to raise the quality bar across teams
+- Ran exploratory testing sessions to uncover issues automated checks were missing
 
 ### Senior QA engineer at [QWIC](https://qwic.de/)  (September 2020 - January 2021)
 
-Some of the activities I performed at QWIC were:
+At QWIC I:
 
-- End-to-end testing with Puppeteer and Jest
-- Migrating Puppeteer + Jest tests into Cypress tests
-- Increasing the test coverage
-- Component testing with Cypress
-- Code reviews
-- Refactoring
-- Triaging of service desk issues
-- Continuous integration, continuous deployment, and continuous delivery
-- Development of small features using React
-
-Some of my achievements at QWIC were:
-
-- Improvements in the test automation framework to allow for easy maintenance and readability
-- Improvements on the git workflow to improve the overall team efficiency and productivity
-- Process improvements using Kanban to allow for a steadier and predictable system
-- Automatic version and security updates implementation using GitHub Dependabot
-- Allowing to test the frontend independent of the backend using Cypress
+- Migrated the end-to-end suite from Puppeteer + Jest to Cypress, and restructured the framework for readability and easy maintenance
+- Increased test coverage by adding end-to-end and component tests, and enabled testing the frontend independently of the backend
+- Automated dependency and security updates with GitHub Dependabot
+- Improved the git workflow and introduced Kanban, making delivery steadier and more predictable
+- Maintained the CI/CD pipelines, reviewed code, triaged service desk issues, and developed small features in React
 
 ### Software Consultant at [Taller Digital Business](https://taller.net.br) (July 2020 - September 2020)
 
@@ -97,19 +82,15 @@ Some of my achievements at QWIC were:
 
 ### Senior Software Engineer in Test at [GitLab](https://gitlab.com) (March 2019 - June 2020)
 
-Some of the activities I performed as a SET at GitLab were:
+As a SET at GitLab I:
 
-- Leading test automation implementation and guiding testing approaches for new feature development
-- Identifying test gaps and prioritizing adding coverage based on areas of risk
-- Providing input on testing the security and scalability of the product
-- Leading the development of new tooling and infrastructure
-- Implementing new automation framework features with little guidance
-- Recommending new test automation tools and processes that will improve quality and velocity
-- Taking ownership of test failures and ensuring that the CI system is reliable
-- Mentoring other engineers
-- Independently and regularly managing project schedules, ensuring objectives are aligned with team/department goals
-- Working on problems of diverse scope requiring independent evaluation of identifiable factors; recommending new approaches to resolve problems
-- At GitLab, I worked 100% remotely
+- Led test automation for new feature development, identifying test gaps and prioritizing coverage by area of risk
+- Built new tooling and framework features for the end-to-end automation suite, working autonomously on problems of diverse scope
+- Took ownership of test failures to keep the CI system reliable and trusted by developers
+- Introduced test automation tools and processes that improved quality and delivery velocity
+- Advised on testing the security and scalability of the product
+- Mentored other engineers and managed project schedules independently, aligned with department goals
+- Worked 100% remotely
 
 ### QA engineer at Qelp (July 2018 - February 2019)
 
@@ -141,43 +122,15 @@ I used to work remotely very often.
 
 ### Software developer and agile testing coach at [Taller Digital Business](https://taller.net.br/) (June 2014 – May 2016)
 
-Initially, I was hired as a QA engineer to create automated acceptance tests in Gherkin format using Cucumber (in Ruby).
-
-After some time, I helped the company undergo a significant transformation, where software testing was no longer a phase during the software development process, but an integral part of it.
-
-During this transformation, I transitioned into a software developer role.
-
-As a software developer, I assisted the team in developing features, fixing bugs, writing tests, and refactoring code.
-
-At Taller, I also had the role of an agile testing coach. As such, I used to share knowledge about agile testing throughout the company and help the team develop a mindset where everyone is responsible for the quality of the software they develop.
-
-In this position, I initially worked using Scrum, and then we transitioned to using Kanban and continuous flow.
-
-I used to work remotely occasionally.
+Hired as a QA engineer to write automated acceptance tests in Gherkin with Cucumber (Ruby), then grew into a software developer role while coaching the company through a transformation where testing stopped being a phase and became part of development. Also drove the team's move from Scrum to Kanban and continuous flow.
 
 ### QA analyst at [ADP](https://www.adp.com) (April 2011 – May 2014)
 
-At APD, I worked on two different projects (both as a QA analyst).
-
-In the first project, I developed automated tests in Java (using Selenium).
-
-In the second project, I developed automated tests in VBScript (using HP Quick Test Pro).
-
-At ADP, I had my first exposure to agile methodologies, including Scrum.
-
-I was also the leader of an internal project called Tech Talks, which was used for sharing internal knowledge.
-
-I used to work remotely occasionally.
+Built automated tests for two products, in Java with Selenium and in VBScript with HP Quick Test Pro. Led Tech Talks, an internal knowledge-sharing program, and had my first exposure to agile methodologies.
 
 ### Manual and automated test analyst at Good Card (November 2009 - March 2011)
 
-In this job, I had my first experience with test automation, having to convince my manager that test automation is not just about record and playback.
-
-At Good Card, I initiated the development of a test automation framework for web applications utilizing JavaScript.
-
-Part of my job also involved creating unit tests for database triggers and procedures, developing and executing manual test cases, and managing bugs.
-
-At this job, I also gained some experience as a software developer, writing PL/SQL code.
+Started the company's first test automation framework for web applications in JavaScript, after convincing management that automation is more than record and playback. Also wrote unit tests for database triggers and procedures, executed manual test cases, managed bugs, and wrote PL/SQL code.
 
 ### Other jobs as a tester/QA
 
