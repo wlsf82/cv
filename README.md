@@ -34,18 +34,16 @@ Bachelor's in business management with an emphasis on system information analysi
 
 ## Professional experience
 
-### Senior QA Engineer / Advisor at [Leadtech](https://leadtech.com) (2025 - current job)
+### Senior QA Engineer at [Leadtech](https://leadtech.com) (2025 - current job)
 
-At Leadtech, I work on a web app project as a Senior QA Engineer and for the whole company as a Senior QA Advisor.
+At Leadtech, I work on a web app project as a Senior QA Engineer.
 
-For the web project:
+For this project, I:
 
 - Defined and implemented the project's quality strategy, from requirements to production
 - Built the automated test suite from scratch with Cypress and Playwright
 - Set up continuous integration workflows so every pull request gets automated feedback before merge
 - Run exploratory testing sessions and participate in Scrum ceremonies
-
-As a QA Advisor, I help the company's engineering teams adopt QA best practices.
 
 ### Online instructor and founder at [Talking About Testing School](https://talkingabouttesting.school/) (2018 - current job)
 
