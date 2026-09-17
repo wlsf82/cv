@@ -39,7 +39,7 @@ Stop watching passive tutorials. Learn by writing real tests across multiple han
 - [Cypress Simulator](https://www.udemy.com/course/cypress-simulator/?referralCode=90B4D45A98C81CF09710)
 - [End-to-End Testing with Cypress and Cucumber: The Definitive Guide](https://www.udemy.com/course/testes-end-to-end-com-cypress-e-cucumber-guia-definitivo/?referralCode=7FEED2FCCEE3C3A857F5)
 
-**Note:** On Udemy, I already have more than **24K** students.
+**Note:** On Udemy, I already have more than **26K** students.
 
 **Note 2:** From all of the above courses, **Cypress, from Zero to the Cloud** is the only one available both in English in Portuguese.
 
