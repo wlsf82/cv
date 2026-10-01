@@ -34,7 +34,7 @@ Bachelor's in business management with an emphasis on system information analysi
 
 ## Professional experience
 
-### Online instructor and founder at [Talking About Testing School](https://talkingabouttesting.school/) (2018 - current job)
+### Online instructor and founder at [Talking About Testing School](https://talkingabouttesting.school/) (2018 - current)
 
 In 2018, I started an online school called Talking About Testing.
 
@@ -53,7 +53,7 @@ For this project, I:
 - Set up continuous integration workflows so every pull request gets automated feedback before merge
 - Ran exploratory testing sessions and participated in Scrum ceremonies
 
-### Senior Quality Assistance Software Engineer at [Typeform](https://typeform.com/) (March 2022 - January 2023)
+### Senior Quality Assistant Software Engineer at [Typeform](https://typeform.com/) (March 2022 - January 2023)
 
 At Typeform I:
 
@@ -62,7 +62,7 @@ At Typeform I:
 - Refactored existing test code and reviewed pull requests to raise the quality bar across teams
 - Ran exploratory testing sessions to uncover issues automated checks were missing
 
-### Senior QA engineer at [QWIC](https://qwic.de/)  (September 2020 - January 2021)
+### Senior QA Engineer at [QWIC](https://qwic.de/)  (September 2020 - January 2021)
 
 At QWIC I:
 
@@ -92,7 +92,7 @@ As a SET at GitLab, I:
 
 ### QA Engineer at Qelp (July 2018 - February 2019)
 
-I helped define a new software development process that prioritizes quality from initial requirements definition through deployment in production.
+Helped define a new software development process that prioritizes quality from initial requirements definition through production deployment.
 
 Some of the activities I performed as a QA engineer at Qelp were:
 
@@ -110,9 +110,9 @@ Some of the activities I performed as a QA engineer at Qelp were:
 - Debugging and fixing bugs
 - Refactoring code
 
-### Senior QA engineer at [Whereby](https://whereby.com/) (June 2016 - February 2018)
+### Senior QA Engineer at [Whereby](https://whereby.com/) (June 2016 - February 2018)
 
-I helped the team create end-to-end tests using the [Protractor](https://www.protractortest.org/#/) framework and visual regression tests with [BackstopJS](https://github.com/garris/BackstopJS) (for the web application), as well as UI tests with XCUI Test (for the iOS app). These tests ran on CI/CD ([gocd](https://gocd.org)) for each pull request, providing fast feedback as the applications changed. I also maintained the CI/CD system and its infrastructure-as-code, managing about 30 pipelines.
+I helped the team create end-to-end tests using the [Protractor](https://www.protractortest.org/#/) framework and visual regression tests with [BackstopJS](https://github.com/garris/BackstopJS) (for the web application), as well as UI tests with XCUITest (for the iOS app). These tests ran on CI/CD ([GoCD](https://gocd.org)) for each pull request, providing fast feedback as the applications changed. I also maintained the CI/CD system and its infrastructure-as-code, managing about 30 pipelines.
 
 Every two months, I was the on-call engineer (available 24/7 for production incidents). In those cases, I assessed issue criticality, accessed Linux servers for log analysis, and used monitoring tools like New Relic and Grafana to understand and resolve the issue.
 
