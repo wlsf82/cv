@@ -34,6 +34,14 @@ Bachelor's in business management with an emphasis on system information analysi
 
 ## Professional experience
 
+### Online instructor and founder at [Talking About Testing School](https://talkingabouttesting.school/) (2018 - current job)
+
+In 2018, I started an online school called Talking About Testing.
+
+The school focuses on teaching test automation and offers more than 10 courses.
+
+Summing up the number of students on all platforms ([TAT School - my own platform](https://talkingabouttesting.school/), [Coursify.me](https://talkingabouttesting.coursify.me/), [Hotmart](https://hotmart.com/pt-br/club/cypress-playground-ate-a-nuvem), and [Udemy](https://www.udemy.com/user/walmyr/)), I already have more than 27K students.
+
 ### Senior QA Engineer at [Leadtech](https://leadtech.com) (October 2025 - October 2026)
 
 At Leadtech, I work on a web app project as a Senior QA Engineer.
@@ -44,14 +52,6 @@ For this project, I:
 - Built the automated test suite from scratch with Cypress and Playwright
 - Set up continuous integration workflows so every pull request gets automated feedback before merge
 - Run exploratory testing sessions and participate in Scrum ceremonies
-
-### Online instructor and founder at [Talking About Testing School](https://talkingabouttesting.school/) (2018 - current job)
-
-In 2018, I started an online school called Talking About Testing.
-
-The school focuses on teaching test automation and offers more than 10 courses.
-
-Summing up the number of students on all platforms ([TAT School - my own platform](https://talkingabouttesting.school/), [Coursify.me](https://talkingabouttesting.coursify.me/), [Hotmart](https://hotmart.com/pt-br/club/cypress-playground-ate-a-nuvem), and [Udemy](https://www.udemy.com/user/walmyr/)), I already have more than 27K students.
 
 ### Senior Quality Assistance Software Engineer at [Typeform](https://typeform.com/) (March 2022 - January 2023)
 
