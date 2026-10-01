@@ -25,9 +25,9 @@ Bachelor's in business management with an emphasis on system information analysi
 ## Technologies and programming languages
 
 * **Programming Languages:** JavaScript, TypeScript, Ruby
-* **Testing:** Cypress, Playwright, Selenium, Puppeteer, Webdriver IO, Jest, Mocha, Chai, Supertest, Postman, Applitools, Percy, BackstopJS, XCUI Test, Detox
+* **Testing:** Cypress, Playwright, Selenium, Puppeteer, WebdriverIO, Jest, Mocha, Chai, Supertest, Postman, Applitools, Percy, BackstopJS, XCUI Test, Detox
 * **CI/CD and infrastructure:** git, GitHub, GitLab, Jenkins, CircleCI, Docker, AWS, GCP, Vercel, Linux, Unix
-* **Web development:** Nodejs, React, VueJS, Express, GraphQL, MongoDB, HTML5, CSS3, ESLint
+* **Web development:** Node.js, React, Vue.js, Express, GraphQL, MongoDB, HTML5, CSS3, ESLint
 * **AI-assisted development:** Claude Code, Antigravity, GitHub Copilot, Cursor, ChatGPT
 * **Programming paradigms:** Object-oriented programming, functional programming
 * **Other:** Jira, Trello, Slack, Zoom, MS Teams
@@ -38,20 +38,20 @@ Bachelor's in business management with an emphasis on system information analysi
 
 In 2018, I started an online school called Talking About Testing.
 
-The school focuses on teaching test automation and offers more than 10 courses.
+The school teaches test automation and offers more than 20 courses.
 
 Summing up the number of students on all platforms ([TAT School - my own platform](https://talkingabouttesting.school/), [Coursify.me](https://talkingabouttesting.coursify.me/), [Hotmart](https://hotmart.com/pt-br/club/cypress-playground-ate-a-nuvem), and [Udemy](https://www.udemy.com/user/walmyr/)), I already have more than 28K students.
 
 ### Senior QA Engineer at [Leadtech](https://leadtech.com) (October 2025 - October 2026)
 
-At Leadtech, I work on a web app project as a Senior QA Engineer.
+At Leadtech, I worked on a web app project as a Senior QA Engineer.
 
 For this project, I:
 
 - Defined and implemented the project's quality strategy, from requirements to production
 - Built the automated test suite from scratch with Cypress and Playwright
 - Set up continuous integration workflows so every pull request gets automated feedback before merge
-- Run exploratory testing sessions and participate in Scrum ceremonies
+- Ran exploratory testing sessions and participated in Scrum ceremonies
 
 ### Senior Quality Assistance Software Engineer at [Typeform](https://typeform.com/) (March 2022 - January 2023)
 
@@ -74,13 +74,13 @@ At QWIC I:
 
 ### Software Consultant at [Taller Digital Business](https://taller.net.br) (July 2020 - September 2020)
 
-- Consulting in quality assurance subjects
-- Workshops and training in testing automation topics
+- Consulting on quality assurance subjects
+- Workshops and training in test automation topics
 - 100% remote
 
 ### Senior Software Engineer in Test at [GitLab](https://gitlab.com) (March 2019 - June 2020)
 
-As a SET at GitLab I:
+As a SET at GitLab, I:
 
 - Led test automation for new feature development, identifying test gaps and prioritizing coverage by area of risk
 - Built new tooling and framework features for the end-to-end automation suite, working autonomously on problems of diverse scope
@@ -90,9 +90,9 @@ As a SET at GitLab I:
 - Mentored other engineers and managed project schedules independently, aligned with department goals
 - Worked 100% remotely
 
-### QA engineer at Qelp (July 2018 - February 2019)
+### QA Engineer at Qelp (July 2018 - February 2019)
 
-I helped define a new software development process that prioritizes quality from the initial definition of software requirements through to its deployment in production.
+I helped define a new software development process that prioritizes quality from initial requirements definition through deployment in production.
 
 Some of the activities I performed as a QA engineer at Qelp were:
 
@@ -112,15 +112,15 @@ Some of the activities I performed as a QA engineer at Qelp were:
 
 ### Senior QA engineer at [Whereby](https://whereby.com/) (June 2016 - February 2018)
 
-I helped the team create end-to-end tests using the [Protractor](https://www.protractortest.org/#/) framework and visual regression tests with [BackstopJS](https://github.com/garris/BackstopJS) (for the web application), as well as UI tests with XCUI Test (for the iOS app). These tests were executed on CI/CD ([gocd](https://gocd.org)) for each pull request, providing fast feedback while changing the applications. I was also responsible for maintaining the CI/CD system and its infrastructure-as-code, with approximately 30 pipelines.
+I helped the team create end-to-end tests using the [Protractor](https://www.protractortest.org/#/) framework and visual regression tests with [BackstopJS](https://github.com/garris/BackstopJS) (for the web application), as well as UI tests with XCUI Test (for the iOS app). These tests ran on CI/CD ([gocd](https://gocd.org)) for each pull request, providing fast feedback as the applications changed. I also maintained the CI/CD system and its infrastructure-as-code, managing about 30 pipelines.
 
-Every two months, I was the on-call engineer (available 24/7 in case of production incidents). In such cases, I'd have to assess the criticality of issues, access Linux servers for log analysis, and work with monitoring tools like New Relic and Grafana to understand the issue and resolve it.
+Every two months, I was the on-call engineer (available 24/7 for production incidents). In those cases, I assessed issue criticality, accessed Linux servers for log analysis, and used monitoring tools like New Relic and Grafana to understand and resolve the issue.
 
-I used to work remotely very often.
+I often worked remotely.
 
 ### Software developer and agile testing coach at [Taller Digital Business](https://taller.net.br/) (June 2014 – May 2016)
 
-Hired as a QA engineer to write automated acceptance tests in Gherkin with Cucumber (Ruby), then grew into a software developer role while coaching the company through a transformation where testing stopped being a phase and became part of development. Also drove the team's move from Scrum to Kanban and continuous flow.
+Hired as a QA engineer to write automated acceptance tests in Gherkin with Cucumber (Ruby), then grew into a software developer role while coaching the company through a transformation that made testing part of development, not a phase. Also drove the team's move from Scrum to Kanban and continuous flow.
 
 ### QA analyst at [ADP](https://www.adp.com) (April 2011 – May 2014)
 
