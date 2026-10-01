@@ -34,7 +34,7 @@ Bachelor's in business management with an emphasis on system information analysi
 
 ## Professional experience
 
-### Senior QA Engineer at [Leadtech](https://leadtech.com) (2025 - current job)
+### Senior QA Engineer at [Leadtech](https://leadtech.com) (October 2025 - October 2026)
 
 At Leadtech, I work on a web app project as a Senior QA Engineer.
 
