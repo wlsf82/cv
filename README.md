@@ -20,7 +20,7 @@ Senior QA Engineer with 10+ years building test automation frameworks at scale (
 
 _2018 – Present_
 
-Founded Talking About Testing School, teaching test automation through 20+ courses across multiple platforms ([TAT School](https://talkingabouttesting.school/), [Coursify.me](https://talkingabouttesting.coursify.me/), [Hotmart](https://hotmart.com/pt-br/club/cypress-playground-ate-a-nuvem), [Udemy](https://www.udemy.com/user/walmyr/)) to 28K+ students worldwide
+Founded Talking About Testing School, teaching test automation through 20+ courses across multiple platforms ([TAT School](https://talkingabouttesting.school/),[Hotmart](https://hotmart.com/pt-br/club/cypress-playground-ate-a-nuvem), [Udemy](https://www.udemy.com/user/walmyr/)) to 28K+ students worldwide
 
 ### [Leadtech](https://leadtech.com) – Senior QA Engineer – Barcelona, Spain
 
