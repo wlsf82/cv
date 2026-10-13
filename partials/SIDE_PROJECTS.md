@@ -43,24 +43,6 @@ Stop watching passive tutorials. Learn by writing real tests across multiple han
 
 **Note 2:** From all of the above courses, **Cypress, from Zero to the Cloud** is the only one available both in English in Portuguese.
 
-## Online School: [talkingabouttesting.coursify.me](http://talkingabouttesting.coursify.me)
-
-In March 2018, I launched an online school to teach test automation to new QAs or experienced professionals.
-
-The school already has more than **2.5K** students and **seven** courses.
-
-The courses are:
-
-- [Introduction to test automation](https://talkingabouttesting.coursify.me/courses/introducao-aos-testes-automatizados)
-- [backtop-config mini-course](https://talkingabouttesting.coursify.me/courses/mini-curso-testes-de-regressao-visual-com-backstop-config)
-- [Test automation with Cypress (basic)](https://talkingabouttesting.coursify.me/courses/testes-automatizados-com-cypress-basico)
-- [Test automation with Cypress (intermediate)](https://talkingabouttesting.coursify.me/courses/testes-automatizados-com-cypress-intermediario)
-- [Visual regression testing with Cypress and Percy (basic)](https://talkingabouttesting.coursify.me/courses/testes-automatizados-com-cypress-e-percy-basico)
-- [Visual regression testing with BackstopJS](https://talkingabouttesting.coursify.me/courses/testes-de-regressao-visual-com-backstopjs)
-- [Test architecture with Protractor](https://talkingabouttesting.coursify.me/courses/arquitetura-de-testes-com-protractor)
-
-**Note:** The above courses are only available in Portuguese.
-
 ## Book: [End-to-end testing with Protractor - Lessons learned about e2e test automation](https://leanpub.com/end-to-end-testing-with-protractor)
 
 In this book, you will find a collection of practices to implement end-to-end test automation in the development process of web applications using the Protractor framework.
